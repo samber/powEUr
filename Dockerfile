@@ -17,10 +17,8 @@ RUN apt-get update \
     && apt-get clean \
     && rm -rf /var/lib/apt/lists/*
 
-COPY entrypoint.sh /
-COPY crontab /tmp/crontab
-RUN cat /tmp/crontab | crontab -
-
-COPY . /usr/src/app/
+RUN git clone https://github.com/samber/powEUr.git /usr/src/app \
+    && cat /usr/src/app/crontab | crontab - \
+    && cp /usr/src/app/entrypoint.sh /
 
 RUN pip3 install -r requirements.txt
