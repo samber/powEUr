@@ -7,7 +7,7 @@
 0 * * * * bash -c 'cd /usr/src/app && ./scripts/link-latest-data.sh' >> /var/log/cron.log 2>&1
 
 # fake python server for CleverCloud deployment
-* * * * * bash -c 'timeout 58s python3 -m http.server 8080' >> /var/log/cron.log 2>&1
+* * * * * bash -c 'cd /tmp/foobar && timeout 58s python3 -m http.server 8080' >> /var/log/cron.log 2>&1
 
 # reset logs
 0 0 * * * echo Reset logs > /var/log/cron.log
