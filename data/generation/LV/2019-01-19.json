@@ -1,1 +1,135 @@
-"{\n  \"1547856000000\": {\n    \"Biomass\": 85.0,\n    \"Fossil Gas\": 399.0,\n    \"Hydro Run-of-river and poundage\": 0.0,\n    \"Other\": 85.0,\n    \"Wind Onshore\": 15.0\n  },\n  \"1547859600000\": {\n    \"Biomass\": 85.0,\n    \"Fossil Gas\": 399.0,\n    \"Hydro Run-of-river and poundage\": 0.0,\n    \"Other\": 85.0,\n    \"Wind Onshore\": 12.0\n  },\n  \"1547863200000\": {\n    \"Biomass\": 85.0,\n    \"Fossil Gas\": 399.0,\n    \"Hydro Run-of-river and poundage\": 0.0,\n    \"Other\": 85.0,\n    \"Wind Onshore\": 14.0\n  },\n  \"1547866800000\": {\n    \"Biomass\": 85.0,\n    \"Fossil Gas\": 399.0,\n    \"Hydro Run-of-river and poundage\": 0.0,\n    \"Other\": 85.0,\n    \"Wind Onshore\": 10.0\n  },\n  \"1547870400000\": {\n    \"Biomass\": 85.0,\n    \"Fossil Gas\": 401.0,\n    \"Hydro Run-of-river and poundage\": 0.0,\n    \"Other\": 85.0,\n    \"Wind Onshore\": 8.0\n  },\n  \"1547874000000\": {\n    \"Biomass\": 85.0,\n    \"Fossil Gas\": 412.0,\n    \"Hydro Run-of-river and poundage\": 0.0,\n    \"Other\": 84.0,\n    \"Wind Onshore\": 6.0\n  },\n  \"1547877600000\": {\n    \"Biomass\": 86.0,\n    \"Fossil Gas\": 425.0,\n    \"Hydro Run-of-river and poundage\": 0.0,\n    \"Other\": 84.0,\n    \"Wind Onshore\": 8.0\n  },\n  \"1547881200000\": {\n    \"Biomass\": 86.0,\n    \"Fossil Gas\": 432.0,\n    \"Hydro Run-of-river and poundage\": 0.0,\n    \"Other\": 84.0,\n    \"Wind Onshore\": 7.0\n  },\n  \"1547884800000\": {\n    \"Biomass\": 85.0,\n    \"Fossil Gas\": 449.0,\n    \"Hydro Run-of-river and poundage\": 0.0,\n    \"Other\": 84.0,\n    \"Wind Onshore\": 5.0\n  },\n  \"1547888400000\": {\n    \"Biomass\": 87.0,\n    \"Fossil Gas\": 449.0,\n    \"Hydro Run-of-river and poundage\": 0.0,\n    \"Other\": 85.0,\n    \"Wind Onshore\": 8.0\n  },\n  \"1547892000000\": {\n    \"Biomass\": 84.0,\n    \"Fossil Gas\": 421.0,\n    \"Hydro Run-of-river and poundage\": 0.0,\n    \"Other\": 83.0,\n    \"Wind Onshore\": 14.0\n  },\n  \"1547895600000\": {\n    \"Biomass\": 84.0,\n    \"Fossil Gas\": 410.0,\n    \"Hydro Run-of-river and poundage\": 0.0,\n    \"Other\": 84.0,\n    \"Wind Onshore\": 19.0\n  },\n  \"1547899200000\": {\n    \"Biomass\": 84.0,\n    \"Fossil Gas\": 409.0,\n    \"Hydro Run-of-river and poundage\": 0.0,\n    \"Other\": 84.0,\n    \"Wind Onshore\": 14.0\n  },\n  \"1547902800000\": {\n    \"Biomass\": 86.0,\n    \"Fossil Gas\": 409.0,\n    \"Hydro Run-of-river and poundage\": 0.0,\n    \"Other\": 86.0,\n    \"Wind Onshore\": 29.0\n  },\n  \"1547906400000\": {\n    \"Biomass\": 86.0,\n    \"Fossil Gas\": 410.0,\n    \"Hydro Run-of-river and poundage\": 0.0,\n    \"Other\": 86.0,\n    \"Wind Onshore\": 40.0\n  },\n  \"1547910000000\": {\n    \"Biomass\": 90.0,\n    \"Fossil Gas\": 409.0,\n    \"Hydro Run-of-river and poundage\": 90.0,\n    \"Other\": 87.0,\n    \"Wind Onshore\": 40.0\n  },\n  \"1547913600000\": {\n    \"Biomass\": 91.0,\n    \"Fossil Gas\": 382.0,\n    \"Hydro Run-of-river and poundage\": 405.0,\n    \"Other\": 87.0,\n    \"Wind Onshore\": 47.0\n  },\n  \"1547917200000\": {\n    \"Biomass\": 92.0,\n    \"Fossil Gas\": 385.0,\n    \"Hydro Run-of-river and poundage\": 43.0,\n    \"Other\": 88.0,\n    \"Wind Onshore\": 50.0\n  },\n  \"1547920800000\": {\n    \"Biomass\": 92.0,\n    \"Fossil Gas\": 389.0,\n    \"Hydro Run-of-river and poundage\": 0.0,\n    \"Other\": 88.0,\n    \"Wind Onshore\": 48.0\n  }\n}"
+{
+  "1547856000000": {
+    "Biomass": 85.0,
+    "Fossil Gas": 399.0,
+    "Hydro Run-of-river and poundage": 0.0,
+    "Other": 85.0,
+    "Wind Onshore": 15.0
+  },
+  "1547859600000": {
+    "Biomass": 85.0,
+    "Fossil Gas": 399.0,
+    "Hydro Run-of-river and poundage": 0.0,
+    "Other": 85.0,
+    "Wind Onshore": 12.0
+  },
+  "1547863200000": {
+    "Biomass": 85.0,
+    "Fossil Gas": 399.0,
+    "Hydro Run-of-river and poundage": 0.0,
+    "Other": 85.0,
+    "Wind Onshore": 14.0
+  },
+  "1547866800000": {
+    "Biomass": 85.0,
+    "Fossil Gas": 399.0,
+    "Hydro Run-of-river and poundage": 0.0,
+    "Other": 85.0,
+    "Wind Onshore": 10.0
+  },
+  "1547870400000": {
+    "Biomass": 85.0,
+    "Fossil Gas": 401.0,
+    "Hydro Run-of-river and poundage": 0.0,
+    "Other": 85.0,
+    "Wind Onshore": 8.0
+  },
+  "1547874000000": {
+    "Biomass": 85.0,
+    "Fossil Gas": 412.0,
+    "Hydro Run-of-river and poundage": 0.0,
+    "Other": 84.0,
+    "Wind Onshore": 6.0
+  },
+  "1547877600000": {
+    "Biomass": 86.0,
+    "Fossil Gas": 425.0,
+    "Hydro Run-of-river and poundage": 0.0,
+    "Other": 84.0,
+    "Wind Onshore": 8.0
+  },
+  "1547881200000": {
+    "Biomass": 86.0,
+    "Fossil Gas": 432.0,
+    "Hydro Run-of-river and poundage": 0.0,
+    "Other": 84.0,
+    "Wind Onshore": 7.0
+  },
+  "1547884800000": {
+    "Biomass": 85.0,
+    "Fossil Gas": 449.0,
+    "Hydro Run-of-river and poundage": 0.0,
+    "Other": 84.0,
+    "Wind Onshore": 5.0
+  },
+  "1547888400000": {
+    "Biomass": 87.0,
+    "Fossil Gas": 449.0,
+    "Hydro Run-of-river and poundage": 0.0,
+    "Other": 85.0,
+    "Wind Onshore": 8.0
+  },
+  "1547892000000": {
+    "Biomass": 84.0,
+    "Fossil Gas": 421.0,
+    "Hydro Run-of-river and poundage": 0.0,
+    "Other": 83.0,
+    "Wind Onshore": 14.0
+  },
+  "1547895600000": {
+    "Biomass": 84.0,
+    "Fossil Gas": 410.0,
+    "Hydro Run-of-river and poundage": 0.0,
+    "Other": 84.0,
+    "Wind Onshore": 19.0
+  },
+  "1547899200000": {
+    "Biomass": 84.0,
+    "Fossil Gas": 409.0,
+    "Hydro Run-of-river and poundage": 0.0,
+    "Other": 84.0,
+    "Wind Onshore": 14.0
+  },
+  "1547902800000": {
+    "Biomass": 86.0,
+    "Fossil Gas": 409.0,
+    "Hydro Run-of-river and poundage": 0.0,
+    "Other": 86.0,
+    "Wind Onshore": 29.0
+  },
+  "1547906400000": {
+    "Biomass": 86.0,
+    "Fossil Gas": 410.0,
+    "Hydro Run-of-river and poundage": 0.0,
+    "Other": 86.0,
+    "Wind Onshore": 40.0
+  },
+  "1547910000000": {
+    "Biomass": 90.0,
+    "Fossil Gas": 409.0,
+    "Hydro Run-of-river and poundage": 90.0,
+    "Other": 87.0,
+    "Wind Onshore": 40.0
+  },
+  "1547913600000": {
+    "Biomass": 91.0,
+    "Fossil Gas": 382.0,
+    "Hydro Run-of-river and poundage": 405.0,
+    "Other": 87.0,
+    "Wind Onshore": 47.0
+  },
+  "1547917200000": {
+    "Biomass": 92.0,
+    "Fossil Gas": 385.0,
+    "Hydro Run-of-river and poundage": 43.0,
+    "Other": 88.0,
+    "Wind Onshore": 50.0
+  },
+  "1547920800000": {
+    "Biomass": 92.0,
+    "Fossil Gas": 389.0,
+    "Hydro Run-of-river and poundage": 0.0,
+    "Other": 88.0,
+    "Wind Onshore": 48.0
+  }
+}
