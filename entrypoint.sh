@@ -8,8 +8,7 @@ set -e
 # cron reset env
 env > /etc/environment
 
-# outputing jobs logs
-# 🤮
-tail -f /var/log/cron.log &
+# https://stackoverflow.com/questions/43802109/output-of-tail-f-at-the-end-of-a-docker-cmd-is-not-showing/43807880#43807880
+echo > /var/log/cron.log
 
 exec "$@"
