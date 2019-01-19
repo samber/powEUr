@@ -6,10 +6,9 @@ ENV PYTHONBUFFERED=0 \
     PACKAGES=cron
 
 WORKDIR /usr/src/app
-ENTRYPOINT ["/entrypoint.sh"]
 
 # 🤮
-CMD cron && tail -f /var/log/cron.log
+CMD /entrypoint.sh cron && tail -f /var/log/cron.log
 
 RUN apt-get update \
     && apt-get -y --no-install-recommends install ${PACKAGES} \
