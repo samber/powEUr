@@ -1,0 +1,7 @@
+
+# every 10 minutes, crawl today data
+# then publish data
+*/10 * * * * time python3 crawl-today.py && ./scripts/commit-and-push.sh
+
+# every hour, link 'latest' to today data
+*/10 * * * * time ./scripts/link-latest-data.sh
