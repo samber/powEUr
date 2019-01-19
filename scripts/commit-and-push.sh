@@ -8,4 +8,4 @@ git pull
 
 git add data/
 git commit -m "Adding $(date +%Y-%m-%d) data"
-git push
+git push || git reset --hard
