@@ -6,8 +6,6 @@ from datetime import timedelta, datetime
 from entsoe import EntsoePandasClient
 import pandas as pd
 
-from utils import create_directory
-
 client = EntsoePandasClient(api_key=os.environ['ENTSOE_API_KEY'])
 
 
@@ -32,5 +30,5 @@ def generation(date, country_code):
     # write json to file
     filename = date.strftime("%Y-%m-%d") + '.json'
     directory = './data/generation/' + country_code
-    create_directory(directory)
+    os.makedirs(directory, exist_ok=True)
     data.to_json(directory + '/' + filename, 'index')
