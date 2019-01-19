@@ -13,7 +13,7 @@ CMD cron && tail -f /var/log/cron.log
 
 RUN apt-get update \
     && apt-get -y --no-install-recommends install ${PACKAGES} \
-    && mkfifo /var/log/cron.log \
+    && touch /var/log/cron.log \
     && apt-get clean \
     && rm -rf /var/lib/apt/lists/*
 

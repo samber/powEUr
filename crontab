@@ -8,3 +8,6 @@
 
 # fake python server for CleverCloud deployment
 * * * * * bash -c 'timeout 58s python3 -m http.server 8080' >> /var/log/cron.log 2>&1
+
+# reset logs
+0 0 * * * echo Reset logs > /var/log/cron.log
