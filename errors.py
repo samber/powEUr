@@ -5,9 +5,10 @@ from entsoe.exceptions import NoMatchingDataError
 
 def handle_errors(func):
     try:
-        func()
+        return func()
     except NoMatchingDataError as e:
         print("NoMatchingDataError")
     except Exception as e:
         print(e)
         print(traceback.format_exc())
+    return None
