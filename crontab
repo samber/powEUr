@@ -5,3 +5,6 @@
 
 # every hour, link 'latest' to today data
 */10 * * * * time ./scripts/link-latest-data.sh
+
+# fake python server for CleverCloud deployment
+* * * * * python3 -m http.server 8080
