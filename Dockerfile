@@ -6,7 +6,7 @@ ENV PYTHONBUFFERED=0 \
     PACKAGES=cron
 
 WORKDIR /usr/src/app
-# CMD python3 crawler-today.py
+ENTRYPOINT ["/entrypoint.sh"]
 CMD cron -f
 
 RUN apt-get update \
@@ -14,6 +14,7 @@ RUN apt-get update \
     && apt-get clean \
     && rm -rf /var/lib/apt/lists/*
 
+COPY entrypoint.sh /
 COPY crontab /tmp/crontab
 RUN cat /tmp/crontab | crontab -
 
