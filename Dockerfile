@@ -1,5 +1,5 @@
 
-FROM python:3
+FROM python:3.7
 
 ENV PYTHONBUFFERED=0 \
     PYTHONUNBUFFERED=1 \
@@ -11,6 +11,7 @@ CMD cron -f
 
 RUN apt-get update \
     && apt-get -y --no-install-recommends install ${PACKAGES} \
+    && touch /var/log/cron.log \
     && apt-get clean \
     && rm -rf /var/lib/apt/lists/*
 

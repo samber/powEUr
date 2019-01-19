@@ -8,4 +8,11 @@ git remote set-url origin https://${GITHUB_USER}:${GITHUB_OAUTH_TOKEN}@github.co
 
 git pull
 
+# cron reset env
+env > /etc/environment
+
+# outputing jobs logs
+# 🤮
+tail -f /var/log/cron.log &
+
 exec "$@"

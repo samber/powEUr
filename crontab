@@ -1,10 +1,10 @@
 
 # every 10 minutes, crawl today data
 # then publish data
-*/10 * * * * cd /app && time python3 crawl-today.py && ./scripts/commit-and-push.sh
+*/10 * * * * bash -c 'cd /usr/src/app && time /usr/local/bin/python3.7 crawl-today.py && ./scripts/commit-and-push.sh' >> /var/log/cron.log 2>&1
 
 # every hour, link 'latest' to today data
-0 * * * * cd /app && ./scripts/link-latest-data.sh
+0 * * * * bash -c 'cd /usr/src/app && ./scripts/link-latest-data.sh' >> /var/log/cron.log 2>&1
 
 # fake python server for CleverCloud deployment
-* * * * * python3 -m http.server 8080
+* * * * * bash -c 'timeout 58s python3 -m http.server 8080' >> /var/log/cron.log 2>&1
