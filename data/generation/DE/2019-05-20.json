@@ -1115,7 +1115,7 @@
     "Nuclear": 5381.0,
     "Other": 206.0,
     "Other renewable": 109.0,
-    "Solar": 6654.0,
+    "Solar": 6655.0,
     "Waste": 730.0,
     "Wind Offshore": 470.0,
     "Wind Onshore": 9217.0
@@ -1134,7 +1134,7 @@
     "Nuclear": 5386.0,
     "Other": 206.0,
     "Other renewable": 109.0,
-    "Solar": 6077.0,
+    "Solar": 6072.0,
     "Waste": 747.0,
     "Wind Offshore": 557.0,
     "Wind Onshore": 9692.0
@@ -1153,7 +1153,7 @@
     "Nuclear": 5385.0,
     "Other": 214.0,
     "Other renewable": 109.0,
-    "Solar": 5758.0,
+    "Solar": 5748.0,
     "Waste": 758.0,
     "Wind Offshore": 609.0,
     "Wind Onshore": 10143.0
@@ -1172,7 +1172,7 @@
     "Nuclear": 5389.0,
     "Other": 214.0,
     "Other renewable": 109.0,
-    "Solar": 5187.0,
+    "Solar": 5179.0,
     "Waste": 749.0,
     "Wind Offshore": 655.0,
     "Wind Onshore": 10515.0
@@ -1191,7 +1191,7 @@
     "Nuclear": 5387.0,
     "Other": 214.0,
     "Other renewable": 109.0,
-    "Solar": 4663.0,
+    "Solar": 4652.0,
     "Waste": 737.0,
     "Wind Offshore": 760.0,
     "Wind Onshore": 11043.0
@@ -1210,7 +1210,7 @@
     "Nuclear": 5385.0,
     "Other": 214.0,
     "Other renewable": 110.0,
-    "Solar": 4045.0,
+    "Solar": 4036.0,
     "Waste": 751.0,
     "Wind Offshore": 937.0,
     "Wind Onshore": 11775.0
@@ -1229,9 +1229,28 @@
     "Nuclear": 5378.0,
     "Other": 214.0,
     "Other renewable": 110.0,
-    "Solar": 3407.0,
+    "Solar": 3405.0,
     "Waste": 755.0,
     "Wind Offshore": 1065.0,
     "Wind Onshore": 11957.0
+  },
+  "1558368900000": {
+    "Biomass": 4843.0,
+    "Fossil Brown coal/Lignite": 14405.0,
+    "Fossil Coal-derived gas": 318.0,
+    "Fossil Gas": 5167.0,
+    "Fossil Hard coal": 7062.0,
+    "Fossil Oil": 316.0,
+    "Geothermal": 4.0,
+    "Hydro Pumped Storage": 1328.0,
+    "Hydro Run-of-river and poundage": 2166.0,
+    "Hydro Water Reservoir": 130.0,
+    "Nuclear": 5390.0,
+    "Other": 214.0,
+    "Other renewable": 110.0,
+    "Solar": 2912.0,
+    "Waste": 759.0,
+    "Wind Offshore": 1156.0,
+    "Wind Onshore": 12024.0
   }
 }
