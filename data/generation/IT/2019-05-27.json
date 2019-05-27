@@ -6,12 +6,12 @@
     "Fossil Hard coal": 529.0,
     "Fossil Oil": 63.0,
     "Geothermal": 660.0,
-    "Hydro Run-of-river and poundage": 4564.0,
+    "Hydro Run-of-river and poundage": 4598.0,
     "Hydro Water Reservoir": 511.0,
     "Other": 2154.0,
     "Solar": 0.0,
     "Waste": 22.0,
-    "Wind Onshore": 2333.0
+    "Wind Onshore": 2302.0
   },
   "1558918800000": {
     "Biomass": 487.0,
@@ -20,12 +20,12 @@
     "Fossil Hard coal": 526.0,
     "Fossil Oil": 62.0,
     "Geothermal": 659.0,
-    "Hydro Run-of-river and poundage": 4476.0,
+    "Hydro Run-of-river and poundage": 4516.0,
     "Hydro Water Reservoir": 469.0,
     "Other": 2077.0,
     "Solar": 0.0,
     "Waste": 20.0,
-    "Wind Onshore": 2083.0
+    "Wind Onshore": 2044.0
   },
   "1558922400000": {
     "Biomass": 500.0,
@@ -34,12 +34,12 @@
     "Fossil Hard coal": 527.0,
     "Fossil Oil": 62.0,
     "Geothermal": 660.0,
-    "Hydro Run-of-river and poundage": 4557.0,
+    "Hydro Run-of-river and poundage": 4591.0,
     "Hydro Water Reservoir": 470.0,
     "Other": 2098.0,
     "Solar": 0.0,
     "Waste": 23.0,
-    "Wind Onshore": 1974.0
+    "Wind Onshore": 1933.0
   },
   "1558926000000": {
     "Biomass": 488.0,
@@ -48,12 +48,12 @@
     "Fossil Hard coal": 528.0,
     "Fossil Oil": 63.0,
     "Geothermal": 662.0,
-    "Hydro Run-of-river and poundage": 4643.0,
+    "Hydro Run-of-river and poundage": 4678.0,
     "Hydro Water Reservoir": 504.0,
     "Other": 2235.0,
     "Solar": 0.0,
     "Waste": 23.0,
-    "Wind Onshore": 2162.0
+    "Wind Onshore": 2121.0
   },
   "1558929600000": {
     "Biomass": 497.0,
@@ -62,12 +62,12 @@
     "Fossil Hard coal": 529.0,
     "Fossil Oil": 70.0,
     "Geothermal": 662.0,
-    "Hydro Run-of-river and poundage": 5278.0,
+    "Hydro Run-of-river and poundage": 5361.0,
     "Hydro Water Reservoir": 766.0,
     "Other": 2741.0,
-    "Solar": 99.0,
+    "Solar": 103.0,
     "Waste": 24.0,
-    "Wind Onshore": 2544.0
+    "Wind Onshore": 2516.0
   },
   "1558933200000": {
     "Biomass": 493.0,
@@ -76,12 +76,12 @@
     "Fossil Hard coal": 534.0,
     "Fossil Oil": 83.0,
     "Geothermal": 662.0,
-    "Hydro Run-of-river and poundage": 6140.0,
+    "Hydro Run-of-river and poundage": 6231.0,
     "Hydro Water Reservoir": 1203.0,
     "Other": 3334.0,
-    "Solar": 532.0,
+    "Solar": 336.0,
     "Waste": 24.0,
-    "Wind Onshore": 3009.0
+    "Wind Onshore": 3005.0
   },
   "1558936800000": {
     "Biomass": 473.0,
@@ -90,12 +90,12 @@
     "Fossil Hard coal": 561.0,
     "Fossil Oil": 109.0,
     "Geothermal": 660.0,
-    "Hydro Run-of-river and poundage": 6694.0,
+    "Hydro Run-of-river and poundage": 6820.0,
     "Hydro Water Reservoir": 1701.0,
     "Other": 3392.0,
-    "Solar": 1306.0,
+    "Solar": 1322.0,
     "Waste": 23.0,
-    "Wind Onshore": 3136.0
+    "Wind Onshore": 3153.0
   },
   "1558940400000": {
     "Biomass": 463.0,
@@ -104,12 +104,12 @@
     "Fossil Hard coal": 565.0,
     "Fossil Oil": 119.0,
     "Geothermal": 654.0,
-    "Hydro Run-of-river and poundage": 6971.0,
+    "Hydro Run-of-river and poundage": 7069.0,
     "Hydro Water Reservoir": 2031.0,
     "Other": 3467.0,
-    "Solar": 1961.0,
+    "Solar": 1802.0,
     "Waste": 23.0,
-    "Wind Onshore": 3509.0
+    "Wind Onshore": 3541.0
   },
   "1558944000000": {
     "Biomass": 472.0,
@@ -118,11 +118,25 @@
     "Fossil Hard coal": 553.0,
     "Fossil Oil": 125.0,
     "Geothermal": 654.0,
-    "Hydro Run-of-river and poundage": 6229.0,
+    "Hydro Run-of-river and poundage": 6634.0,
     "Hydro Water Reservoir": 1886.0,
-    "Other": 2868.0,
-    "Solar": 1977.0,
+    "Other": 3397.0,
+    "Solar": 2495.0,
     "Waste": 20.0,
-    "Wind Onshore": 3360.0
+    "Wind Onshore": 3425.0
+  },
+  "1558947600000": {
+    "Biomass": 479.0,
+    "Fossil Coal-derived gas": 578.0,
+    "Fossil Gas": 11225.0,
+    "Fossil Hard coal": 563.0,
+    "Fossil Oil": 126.0,
+    "Geothermal": 650.0,
+    "Hydro Run-of-river and poundage": 6203.0,
+    "Hydro Water Reservoir": 1896.0,
+    "Other": 2851.0,
+    "Solar": 2198.0,
+    "Waste": 17.0,
+    "Wind Onshore": 3412.0
   }
 }
