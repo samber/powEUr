@@ -431,7 +431,7 @@
     "Nuclear": 7897.0,
     "Other": 198.0,
     "Other renewable": 145.0,
-    "Solar": 1401.0,
+    "Solar": 1400.0,
     "Waste": 748.0,
     "Wind Offshore": 359.0,
     "Wind Onshore": 7048.0
@@ -450,7 +450,7 @@
     "Nuclear": 7909.0,
     "Other": 198.0,
     "Other renewable": 145.0,
-    "Solar": 2620.0,
+    "Solar": 2622.0,
     "Waste": 767.0,
     "Wind Offshore": 318.0,
     "Wind Onshore": 6720.0
@@ -469,7 +469,7 @@
     "Nuclear": 7936.0,
     "Other": 191.0,
     "Other renewable": 145.0,
-    "Solar": 4074.0,
+    "Solar": 4083.0,
     "Waste": 770.0,
     "Wind Offshore": 305.0,
     "Wind Onshore": 6552.0
@@ -488,7 +488,7 @@
     "Nuclear": 7936.0,
     "Other": 190.0,
     "Other renewable": 145.0,
-    "Solar": 5606.0,
+    "Solar": 5615.0,
     "Waste": 764.0,
     "Wind Offshore": 302.0,
     "Wind Onshore": 6259.0
@@ -507,7 +507,7 @@
     "Nuclear": 7899.0,
     "Other": 190.0,
     "Other renewable": 145.0,
-    "Solar": 7295.0,
+    "Solar": 7297.0,
     "Waste": 746.0,
     "Wind Offshore": 278.0,
     "Wind Onshore": 6026.0
@@ -526,7 +526,7 @@
     "Nuclear": 7895.0,
     "Other": 190.0,
     "Other renewable": 145.0,
-    "Solar": 9072.0,
+    "Solar": 9053.0,
     "Waste": 759.0,
     "Wind Offshore": 249.0,
     "Wind Onshore": 5715.0
@@ -545,9 +545,28 @@
     "Nuclear": 7923.0,
     "Other": 195.0,
     "Other renewable": 145.0,
-    "Solar": 10941.0,
+    "Solar": 10905.0,
     "Waste": 763.0,
     "Wind Offshore": 258.0,
     "Wind Onshore": 5305.0
+  },
+  "1569050100000": {
+    "Biomass": 4032.0,
+    "Fossil Brown coal/Lignite": 12108.0,
+    "Fossil Coal-derived gas": 0.0,
+    "Fossil Gas": 5394.0,
+    "Fossil Hard coal": 1685.0,
+    "Fossil Oil": 475.0,
+    "Geothermal": 4.0,
+    "Hydro Pumped Storage": 61.0,
+    "Hydro Run-of-river and poundage": 1287.0,
+    "Hydro Water Reservoir": 71.0,
+    "Nuclear": 7911.0,
+    "Other": 195.0,
+    "Other renewable": 145.0,
+    "Solar": 12786.0,
+    "Waste": 763.0,
+    "Wind Offshore": 275.0,
+    "Wind Onshore": 4758.0
   }
 }
