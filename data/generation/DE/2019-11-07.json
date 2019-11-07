@@ -1406,7 +1406,7 @@
   "1573155000000": {
     "Biomass": 4510.0,
     "Fossil Brown coal/Lignite": 15465.0,
-    "Fossil Gas": 7592.0,
+    "Fossil Gas": 7593.0,
     "Fossil Hard coal": 9931.0,
     "Fossil Oil": 472.0,
     "Geothermal": 3.0,
@@ -1424,7 +1424,7 @@
   "1573155900000": {
     "Biomass": 4512.0,
     "Fossil Brown coal/Lignite": 15484.0,
-    "Fossil Gas": 7530.0,
+    "Fossil Gas": 7520.0,
     "Fossil Hard coal": 9208.0,
     "Fossil Oil": 472.0,
     "Geothermal": 3.0,
@@ -1442,7 +1442,7 @@
   "1573156800000": {
     "Biomass": 4518.0,
     "Fossil Brown coal/Lignite": 15519.0,
-    "Fossil Gas": 7242.0,
+    "Fossil Gas": 7245.0,
     "Fossil Hard coal": 8427.0,
     "Fossil Oil": 472.0,
     "Geothermal": 3.0,
@@ -1460,7 +1460,7 @@
   "1573157700000": {
     "Biomass": 4531.0,
     "Fossil Brown coal/Lignite": 15509.0,
-    "Fossil Gas": 7172.0,
+    "Fossil Gas": 7188.0,
     "Fossil Hard coal": 7926.0,
     "Fossil Oil": 472.0,
     "Geothermal": 3.0,
@@ -1478,7 +1478,7 @@
   "1573158600000": {
     "Biomass": 4535.0,
     "Fossil Brown coal/Lignite": 15496.0,
-    "Fossil Gas": 7223.0,
+    "Fossil Gas": 7237.0,
     "Fossil Hard coal": 7355.0,
     "Fossil Oil": 472.0,
     "Geothermal": 3.0,
@@ -1496,7 +1496,7 @@
   "1573159500000": {
     "Biomass": 4530.0,
     "Fossil Brown coal/Lignite": 15419.0,
-    "Fossil Gas": 7213.0,
+    "Fossil Gas": 7225.0,
     "Fossil Hard coal": 7113.0,
     "Fossil Oil": 472.0,
     "Geothermal": 3.0,
@@ -1510,5 +1510,23 @@
     "Waste": 742.0,
     "Wind Offshore": 3103.0,
     "Wind Onshore": 13432.0
+  },
+  "1573160400000": {
+    "Biomass": 4498.0,
+    "Fossil Brown coal/Lignite": 15414.0,
+    "Fossil Gas": 6984.0,
+    "Fossil Hard coal": 7028.0,
+    "Fossil Oil": 472.0,
+    "Geothermal": 3.0,
+    "Hydro Pumped Storage": 678.0,
+    "Hydro Run-of-river and poundage": 1574.0,
+    "Hydro Water Reservoir": 265.0,
+    "Nuclear": 9271.0,
+    "Other": 366.0,
+    "Other renewable": 182.0,
+    "Solar": 0.0,
+    "Waste": 757.0,
+    "Wind Offshore": 3145.0,
+    "Wind Onshore": 13016.0
   }
 }
