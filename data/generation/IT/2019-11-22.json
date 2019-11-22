@@ -62,32 +62,32 @@
   "1574395200000": {
     "Biomass": 678.0,
     "Fossil Coal-derived gas": 768.0,
-    "Fossil Gas": 9422.0,
-    "Fossil Hard coal": 2559.0,
+    "Fossil Gas": 9429.0,
+    "Fossil Hard coal": 2556.0,
     "Fossil Oil": 281.0,
-    "Geothermal": 619.0,
+    "Geothermal": 626.0,
     "Hydro Pumped Storage": 188.0,
-    "Hydro Run-of-river and poundage": 4136.0,
-    "Hydro Water Reservoir": 516.0,
-    "Other": 2243.0,
+    "Hydro Run-of-river and poundage": 4156.0,
+    "Hydro Water Reservoir": 517.0,
+    "Other": 2244.0,
     "Solar": 0.0,
     "Waste": 34.0,
-    "Wind Onshore": 1039.0
+    "Wind Onshore": 1048.0
   },
   "1574398800000": {
     "Biomass": 662.0,
     "Fossil Coal-derived gas": 768.0,
-    "Fossil Gas": 12761.0,
-    "Fossil Hard coal": 3094.0,
+    "Fossil Gas": 12759.0,
+    "Fossil Hard coal": 3088.0,
     "Fossil Oil": 282.0,
-    "Geothermal": 610.0,
+    "Geothermal": 618.0,
     "Hydro Pumped Storage": 192.0,
-    "Hydro Run-of-river and poundage": 4572.0,
+    "Hydro Run-of-river and poundage": 4587.0,
     "Hydro Water Reservoir": 573.0,
     "Other": 2744.0,
     "Solar": 0.0,
     "Waste": 34.0,
-    "Wind Onshore": 1046.0
+    "Wind Onshore": 1062.0
   },
   "1574402400000": {
     "Biomass": 625.0,
@@ -100,7 +100,7 @@
     "Hydro Run-of-river and poundage": 5032.0,
     "Hydro Water Reservoir": 888.0,
     "Other": 3139.0,
-    "Solar": 215.0,
+    "Solar": 294.0,
     "Waste": 32.0,
     "Wind Onshore": 1066.0
   },
@@ -112,11 +112,26 @@
     "Fossil Oil": 282.0,
     "Geothermal": 610.0,
     "Hydro Pumped Storage": 642.0,
-    "Hydro Run-of-river and poundage": 5159.0,
+    "Hydro Run-of-river and poundage": 5520.0,
     "Hydro Water Reservoir": 1048.0,
-    "Other": 2551.0,
-    "Solar": 836.0,
+    "Other": 3191.0,
+    "Solar": 1414.0,
     "Waste": 32.0,
-    "Wind Onshore": 953.0
+    "Wind Onshore": 983.0
+  },
+  "1574409600000": {
+    "Biomass": 619.0,
+    "Fossil Coal-derived gas": 771.0,
+    "Fossil Gas": 15949.0,
+    "Fossil Hard coal": 3179.0,
+    "Fossil Oil": 289.0,
+    "Geothermal": 610.0,
+    "Hydro Pumped Storage": 884.0,
+    "Hydro Run-of-river and poundage": 5575.0,
+    "Hydro Water Reservoir": 1338.0,
+    "Other": 3214.0,
+    "Solar": 2879.0,
+    "Waste": 34.0,
+    "Wind Onshore": 905.0
   }
 }
