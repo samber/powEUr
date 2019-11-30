@@ -32,32 +32,32 @@
   "1575079200000": {
     "Biomass": 698.0,
     "Fossil Coal-derived gas": 767.0,
-    "Fossil Gas": 6477.0,
+    "Fossil Gas": 6503.0,
     "Fossil Hard coal": 1637.0,
     "Fossil Oil": 137.0,
-    "Geothermal": 618.0,
+    "Geothermal": 625.0,
     "Hydro Pumped Storage": 0.0,
-    "Hydro Run-of-river and poundage": 3515.0,
-    "Hydro Water Reservoir": 652.0,
-    "Other": 2054.0,
+    "Hydro Run-of-river and poundage": 3543.0,
+    "Hydro Water Reservoir": 657.0,
+    "Other": 2055.0,
     "Solar": 0.0,
     "Waste": 38.0,
-    "Wind Onshore": 3916.0
+    "Wind Onshore": 3919.0
   },
   "1575082800000": {
     "Biomass": 696.0,
     "Fossil Coal-derived gas": 769.0,
-    "Fossil Gas": 7164.0,
-    "Fossil Hard coal": 1583.0,
+    "Fossil Gas": 7194.0,
+    "Fossil Hard coal": 1584.0,
     "Fossil Oil": 137.0,
-    "Geothermal": 610.0,
+    "Geothermal": 617.0,
     "Hydro Pumped Storage": 0.0,
-    "Hydro Run-of-river and poundage": 3564.0,
+    "Hydro Run-of-river and poundage": 3589.0,
     "Hydro Water Reservoir": 651.0,
-    "Other": 2000.0,
+    "Other": 2004.0,
     "Solar": 0.0,
     "Waste": 40.0,
-    "Wind Onshore": 3188.0
+    "Wind Onshore": 3173.0
   },
   "1575086400000": {
     "Biomass": 699.0,
@@ -82,11 +82,26 @@
     "Fossil Oil": 137.0,
     "Geothermal": 611.0,
     "Hydro Pumped Storage": 80.0,
-    "Hydro Run-of-river and poundage": 3444.0,
+    "Hydro Run-of-river and poundage": 3807.0,
     "Hydro Water Reservoir": 704.0,
-    "Other": 1742.0,
+    "Other": 2091.0,
     "Solar": 0.0,
     "Waste": 37.0,
-    "Wind Onshore": 2072.0
+    "Wind Onshore": 2096.0
+  },
+  "1575093600000": {
+    "Biomass": 692.0,
+    "Fossil Coal-derived gas": 772.0,
+    "Fossil Gas": 9529.0,
+    "Fossil Hard coal": 2208.0,
+    "Fossil Oil": 137.0,
+    "Geothermal": 612.0,
+    "Hydro Pumped Storage": 703.0,
+    "Hydro Run-of-river and poundage": 4910.0,
+    "Hydro Water Reservoir": 987.0,
+    "Other": 2420.0,
+    "Solar": 122.0,
+    "Waste": 35.0,
+    "Wind Onshore": 1949.0
   }
 }
