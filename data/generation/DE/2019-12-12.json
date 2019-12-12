@@ -1262,7 +1262,7 @@
   "1576171800000": {
     "Biomass": 4866.0,
     "Fossil Brown coal/Lignite": 14579.0,
-    "Fossil Gas": 8279.0,
+    "Fossil Gas": 8250.0,
     "Fossil Hard coal": 8426.0,
     "Fossil Oil": 442.0,
     "Geothermal": 3.0,
@@ -1280,7 +1280,7 @@
   "1576172700000": {
     "Biomass": 4851.0,
     "Fossil Brown coal/Lignite": 14542.0,
-    "Fossil Gas": 8080.0,
+    "Fossil Gas": 8020.0,
     "Fossil Hard coal": 8256.0,
     "Fossil Oil": 442.0,
     "Geothermal": 3.0,
@@ -1298,7 +1298,7 @@
   "1576173600000": {
     "Biomass": 4851.0,
     "Fossil Brown coal/Lignite": 14538.0,
-    "Fossil Gas": 8048.0,
+    "Fossil Gas": 8043.0,
     "Fossil Hard coal": 8110.0,
     "Fossil Oil": 442.0,
     "Geothermal": 3.0,
@@ -1316,7 +1316,7 @@
   "1576174500000": {
     "Biomass": 4850.0,
     "Fossil Brown coal/Lignite": 14507.0,
-    "Fossil Gas": 8198.0,
+    "Fossil Gas": 8177.0,
     "Fossil Hard coal": 7659.0,
     "Fossil Oil": 442.0,
     "Geothermal": 3.0,
@@ -1334,7 +1334,7 @@
   "1576175400000": {
     "Biomass": 4849.0,
     "Fossil Brown coal/Lignite": 14421.0,
-    "Fossil Gas": 8217.0,
+    "Fossil Gas": 8206.0,
     "Fossil Hard coal": 7098.0,
     "Fossil Oil": 442.0,
     "Geothermal": 3.0,
@@ -1352,7 +1352,7 @@
   "1576176300000": {
     "Biomass": 4854.0,
     "Fossil Brown coal/Lignite": 14254.0,
-    "Fossil Gas": 8227.0,
+    "Fossil Gas": 8199.0,
     "Fossil Hard coal": 6553.0,
     "Fossil Oil": 442.0,
     "Geothermal": 3.0,
@@ -1366,5 +1366,23 @@
     "Waste": 780.0,
     "Wind Offshore": 5623.0,
     "Wind Onshore": 17654.0
+  },
+  "1576177200000": {
+    "Biomass": 4839.0,
+    "Fossil Brown coal/Lignite": 14221.0,
+    "Fossil Gas": 7692.0,
+    "Fossil Hard coal": 6211.0,
+    "Fossil Oil": 442.0,
+    "Geothermal": 3.0,
+    "Hydro Pumped Storage": 556.0,
+    "Hydro Run-of-river and poundage": 1422.0,
+    "Hydro Water Reservoir": 51.0,
+    "Nuclear": 9133.0,
+    "Other": 370.0,
+    "Other renewable": 196.0,
+    "Solar": 0.0,
+    "Waste": 777.0,
+    "Wind Offshore": 5628.0,
+    "Wind Onshore": 17996.0
   }
 }
