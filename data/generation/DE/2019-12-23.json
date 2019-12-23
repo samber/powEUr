@@ -935,6 +935,24 @@
     "Wind Offshore": 4358.0,
     "Wind Onshore": 20625.0
   },
+  "1577106000000": {
+    "Biomass": 4881.0,
+    "Fossil Brown coal/Lignite": 8905.0,
+    "Fossil Gas": 3704.0,
+    "Fossil Hard coal": 1106.0,
+    "Fossil Oil": 447.0,
+    "Geothermal": 3.0,
+    "Hydro Pumped Storage": 317.0,
+    "Hydro Run-of-river and poundage": 1377.0,
+    "Hydro Water Reservoir": 87.0,
+    "Nuclear": 9068.0,
+    "Other": 347.0,
+    "Other renewable": 179.0,
+    "Solar": 2724.0,
+    "Waste": 761.0,
+    "Wind Offshore": 4458.0,
+    "Wind Onshore": 20461.0
+  },
   "1577107800000": {
     "Biomass": 4903.0,
     "Fossil Brown coal/Lignite": 9183.0,
@@ -948,7 +966,7 @@
     "Nuclear": 9069.0,
     "Other": 347.0,
     "Other renewable": 178.0,
-    "Solar": 2009.0,
+    "Solar": 2008.0,
     "Waste": 763.0,
     "Wind Offshore": 4051.0,
     "Wind Onshore": 19875.0
@@ -966,7 +984,7 @@
     "Nuclear": 9068.0,
     "Other": 347.0,
     "Other renewable": 178.0,
-    "Solar": 1638.0,
+    "Solar": 1637.0,
     "Waste": 755.0,
     "Wind Offshore": 3936.0,
     "Wind Onshore": 19812.0
@@ -984,7 +1002,7 @@
     "Nuclear": 9065.0,
     "Other": 347.0,
     "Other renewable": 178.0,
-    "Solar": 1290.0,
+    "Solar": 1288.0,
     "Waste": 746.0,
     "Wind Offshore": 3893.0,
     "Wind Onshore": 19370.0
@@ -1002,9 +1020,27 @@
     "Nuclear": 9068.0,
     "Other": 357.0,
     "Other renewable": 183.0,
-    "Solar": 883.0,
+    "Solar": 884.0,
     "Waste": 747.0,
     "Wind Offshore": 3690.0,
     "Wind Onshore": 19108.0
+  },
+  "1577111400000": {
+    "Biomass": 4958.0,
+    "Fossil Brown coal/Lignite": 9318.0,
+    "Fossil Gas": 3783.0,
+    "Fossil Hard coal": 1260.0,
+    "Fossil Oil": 447.0,
+    "Geothermal": 3.0,
+    "Hydro Pumped Storage": 2261.0,
+    "Hydro Run-of-river and poundage": 1386.0,
+    "Hydro Water Reservoir": 76.0,
+    "Nuclear": 9070.0,
+    "Other": 358.0,
+    "Other renewable": 184.0,
+    "Solar": 541.0,
+    "Waste": 749.0,
+    "Wind Offshore": 3731.0,
+    "Wind Onshore": 19070.0
   }
 }
