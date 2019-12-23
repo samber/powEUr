@@ -272,7 +272,7 @@
   "1577072700000": {
     "Biomass": 4834.0,
     "Fossil Brown coal/Lignite": 4802.0,
-    "Fossil Gas": 2103.0,
+    "Fossil Gas": 2102.0,
     "Fossil Hard coal": 1242.0,
     "Fossil Oil": 447.0,
     "Geothermal": 3.0,
@@ -308,7 +308,7 @@
   "1577074500000": {
     "Biomass": 4834.0,
     "Fossil Brown coal/Lignite": 5188.0,
-    "Fossil Gas": 2136.0,
+    "Fossil Gas": 2135.0,
     "Fossil Hard coal": 1275.0,
     "Fossil Oil": 447.0,
     "Geothermal": 3.0,
@@ -344,7 +344,7 @@
   "1577076300000": {
     "Biomass": 4788.0,
     "Fossil Brown coal/Lignite": 5219.0,
-    "Fossil Gas": 2264.0,
+    "Fossil Gas": 2309.0,
     "Fossil Hard coal": 1313.0,
     "Fossil Oil": 447.0,
     "Geothermal": 3.0,
@@ -416,7 +416,7 @@
   "1577079900000": {
     "Biomass": 4786.0,
     "Fossil Brown coal/Lignite": 5925.0,
-    "Fossil Gas": 3115.0,
+    "Fossil Gas": 3112.0,
     "Fossil Hard coal": 1356.0,
     "Fossil Oil": 447.0,
     "Geothermal": 3.0,
@@ -434,7 +434,7 @@
   "1577080800000": {
     "Biomass": 4794.0,
     "Fossil Brown coal/Lignite": 6163.0,
-    "Fossil Gas": 3453.0,
+    "Fossil Gas": 3420.0,
     "Fossil Hard coal": 1346.0,
     "Fossil Oil": 447.0,
     "Geothermal": 3.0,
@@ -452,7 +452,7 @@
   "1577081700000": {
     "Biomass": 4820.0,
     "Fossil Brown coal/Lignite": 6607.0,
-    "Fossil Gas": 3517.0,
+    "Fossil Gas": 3484.0,
     "Fossil Hard coal": 1378.0,
     "Fossil Oil": 447.0,
     "Geothermal": 3.0,
@@ -470,7 +470,7 @@
   "1577082600000": {
     "Biomass": 4822.0,
     "Fossil Brown coal/Lignite": 6925.0,
-    "Fossil Gas": 3571.0,
+    "Fossil Gas": 3538.0,
     "Fossil Hard coal": 1373.0,
     "Fossil Oil": 447.0,
     "Geothermal": 3.0,
@@ -488,7 +488,7 @@
   "1577083500000": {
     "Biomass": 4820.0,
     "Fossil Brown coal/Lignite": 7604.0,
-    "Fossil Gas": 3595.0,
+    "Fossil Gas": 3557.0,
     "Fossil Hard coal": 1376.0,
     "Fossil Oil": 447.0,
     "Geothermal": 3.0,
@@ -506,7 +506,7 @@
   "1577084400000": {
     "Biomass": 4839.0,
     "Fossil Brown coal/Lignite": 7941.0,
-    "Fossil Gas": 3689.0,
+    "Fossil Gas": 3602.0,
     "Fossil Hard coal": 1381.0,
     "Fossil Oil": 447.0,
     "Geothermal": 3.0,
@@ -524,7 +524,7 @@
   "1577085300000": {
     "Biomass": 4830.0,
     "Fossil Brown coal/Lignite": 7910.0,
-    "Fossil Gas": 3626.0,
+    "Fossil Gas": 3539.0,
     "Fossil Hard coal": 1337.0,
     "Fossil Oil": 447.0,
     "Geothermal": 3.0,
@@ -542,7 +542,7 @@
   "1577086200000": {
     "Biomass": 4840.0,
     "Fossil Brown coal/Lignite": 8020.0,
-    "Fossil Gas": 3665.0,
+    "Fossil Gas": 3578.0,
     "Fossil Hard coal": 1312.0,
     "Fossil Oil": 447.0,
     "Geothermal": 3.0,
@@ -560,7 +560,7 @@
   "1577087100000": {
     "Biomass": 4840.0,
     "Fossil Brown coal/Lignite": 8103.0,
-    "Fossil Gas": 3711.0,
+    "Fossil Gas": 3633.0,
     "Fossil Hard coal": 1322.0,
     "Fossil Oil": 447.0,
     "Geothermal": 3.0,
@@ -750,7 +750,7 @@
     "Nuclear": 9060.0,
     "Other": 357.0,
     "Other renewable": 184.0,
-    "Solar": 3331.0,
+    "Solar": 3330.0,
     "Waste": 752.0,
     "Wind Offshore": 4690.0,
     "Wind Onshore": 21010.0
@@ -804,7 +804,7 @@
     "Nuclear": 9064.0,
     "Other": 357.0,
     "Other renewable": 184.0,
-    "Solar": 3782.0,
+    "Solar": 3781.0,
     "Waste": 762.0,
     "Wind Offshore": 4804.0,
     "Wind Onshore": 21201.0
@@ -822,9 +822,27 @@
     "Nuclear": 9062.0,
     "Other": 357.0,
     "Other renewable": 184.0,
-    "Solar": 3827.0,
+    "Solar": 3826.0,
     "Waste": 777.0,
     "Wind Offshore": 4679.0,
     "Wind Onshore": 21162.0
+  },
+  "1577100600000": {
+    "Biomass": 4890.0,
+    "Fossil Brown coal/Lignite": 8621.0,
+    "Fossil Gas": 3696.0,
+    "Fossil Hard coal": 1131.0,
+    "Fossil Oil": 447.0,
+    "Geothermal": 3.0,
+    "Hydro Pumped Storage": 719.0,
+    "Hydro Run-of-river and poundage": 1375.0,
+    "Hydro Water Reservoir": 57.0,
+    "Nuclear": 9062.0,
+    "Other": 348.0,
+    "Other renewable": 180.0,
+    "Solar": 3721.0,
+    "Waste": 766.0,
+    "Wind Offshore": 4694.0,
+    "Wind Onshore": 20999.0
   }
 }
