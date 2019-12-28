@@ -840,7 +840,7 @@
     "Nuclear": 9110.0,
     "Other": 367.0,
     "Other renewable": 195.0,
-    "Solar": 8303.0,
+    "Solar": 8302.0,
     "Waste": 751.0,
     "Wind Offshore": 2630.0,
     "Wind Onshore": 2203.0
@@ -858,7 +858,7 @@
     "Nuclear": 9105.0,
     "Other": 367.0,
     "Other renewable": 195.0,
-    "Solar": 8078.0,
+    "Solar": 8077.0,
     "Waste": 753.0,
     "Wind Offshore": 2846.0,
     "Wind Onshore": 2019.0
@@ -899,6 +899,24 @@
     "Wind Offshore": 3052.0,
     "Wind Onshore": 1919.0
   },
+  "1577536200000": {
+    "Biomass": 4853.0,
+    "Fossil Brown coal/Lignite": 9049.0,
+    "Fossil Gas": 5459.0,
+    "Fossil Hard coal": 3411.0,
+    "Fossil Oil": 457.0,
+    "Geothermal": 3.0,
+    "Hydro Pumped Storage": 417.0,
+    "Hydro Run-of-river and poundage": 1535.0,
+    "Hydro Water Reservoir": 55.0,
+    "Nuclear": 9107.0,
+    "Other": 367.0,
+    "Other renewable": 195.0,
+    "Solar": 6601.0,
+    "Waste": 755.0,
+    "Wind Offshore": 3006.0,
+    "Wind Onshore": 2022.0
+  },
   "1577538000000": {
     "Biomass": 4857.0,
     "Fossil Brown coal/Lignite": 9040.0,
@@ -912,7 +930,7 @@
     "Nuclear": 9106.0,
     "Other": 367.0,
     "Other renewable": 195.0,
-    "Solar": 5292.0,
+    "Solar": 5290.0,
     "Waste": 753.0,
     "Wind Offshore": 3133.0,
     "Wind Onshore": 2195.0
@@ -930,9 +948,27 @@
     "Nuclear": 9082.0,
     "Other": 367.0,
     "Other renewable": 195.0,
-    "Solar": 3778.0,
+    "Solar": 3774.0,
     "Waste": 735.0,
     "Wind Offshore": 3322.0,
     "Wind Onshore": 2357.0
+  },
+  "1577541600000": {
+    "Biomass": 4866.0,
+    "Fossil Brown coal/Lignite": 9325.0,
+    "Fossil Gas": 5554.0,
+    "Fossil Hard coal": 3607.0,
+    "Fossil Oil": 457.0,
+    "Geothermal": 3.0,
+    "Hydro Pumped Storage": 1082.0,
+    "Hydro Run-of-river and poundage": 1533.0,
+    "Hydro Water Reservoir": 67.0,
+    "Nuclear": 9104.0,
+    "Other": 367.0,
+    "Other renewable": 195.0,
+    "Solar": 2363.0,
+    "Waste": 755.0,
+    "Wind Offshore": 3058.0,
+    "Wind Onshore": 2716.0
   }
 }
