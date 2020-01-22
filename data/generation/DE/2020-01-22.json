@@ -1136,7 +1136,7 @@
   "1579707900000": {
     "Biomass": 4912.0,
     "Fossil Brown coal/Lignite": 15220.0,
-    "Fossil Gas": 12172.0,
+    "Fossil Gas": 12175.0,
     "Fossil Hard coal": 17582.0,
     "Fossil Oil": 861.0,
     "Geothermal": 4.0,
@@ -1154,7 +1154,7 @@
   "1579708800000": {
     "Biomass": 4889.0,
     "Fossil Brown coal/Lignite": 15146.0,
-    "Fossil Gas": 12259.0,
+    "Fossil Gas": 12255.0,
     "Fossil Hard coal": 17598.0,
     "Fossil Oil": 1434.0,
     "Geothermal": 4.0,
@@ -1172,7 +1172,7 @@
   "1579709700000": {
     "Biomass": 4876.0,
     "Fossil Brown coal/Lignite": 15128.0,
-    "Fossil Gas": 12361.0,
+    "Fossil Gas": 12364.0,
     "Fossil Hard coal": 17590.0,
     "Fossil Oil": 1645.0,
     "Geothermal": 4.0,
@@ -1190,7 +1190,7 @@
   "1579710600000": {
     "Biomass": 4938.0,
     "Fossil Brown coal/Lignite": 15145.0,
-    "Fossil Gas": 12363.0,
+    "Fossil Gas": 12364.0,
     "Fossil Hard coal": 17610.0,
     "Fossil Oil": 1627.0,
     "Geothermal": 4.0,
@@ -1208,7 +1208,7 @@
   "1579711500000": {
     "Biomass": 4936.0,
     "Fossil Brown coal/Lignite": 15151.0,
-    "Fossil Gas": 12366.0,
+    "Fossil Gas": 12370.0,
     "Fossil Hard coal": 17594.0,
     "Fossil Oil": 1517.0,
     "Geothermal": 4.0,
@@ -1222,5 +1222,23 @@
     "Waste": 377.0,
     "Wind Offshore": 1033.0,
     "Wind Onshore": 5029.0
+  },
+  "1579712400000": {
+    "Biomass": 4923.0,
+    "Fossil Brown coal/Lignite": 15118.0,
+    "Fossil Gas": 12395.0,
+    "Fossil Hard coal": 17594.0,
+    "Fossil Oil": 1519.0,
+    "Geothermal": 4.0,
+    "Hydro Pumped Storage": 3829.0,
+    "Hydro Run-of-river and poundage": 1320.0,
+    "Hydro Water Reservoir": 185.0,
+    "Nuclear": 8087.0,
+    "Other": 360.0,
+    "Other renewable": 194.0,
+    "Solar": 0.0,
+    "Waste": 377.0,
+    "Wind Offshore": 957.0,
+    "Wind Onshore": 4849.0
   }
 }
