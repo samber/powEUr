@@ -966,7 +966,7 @@
     "Nuclear": 7383.0,
     "Other": 323.0,
     "Other renewable": 183.0,
-    "Solar": 4112.0,
+    "Solar": 4110.0,
     "Waste": 754.0,
     "Wind Offshore": 5656.0,
     "Wind Onshore": 31206.0
@@ -984,7 +984,7 @@
     "Nuclear": 7384.0,
     "Other": 324.0,
     "Other renewable": 184.0,
-    "Solar": 3747.0,
+    "Solar": 3745.0,
     "Waste": 754.0,
     "Wind Offshore": 5641.0,
     "Wind Onshore": 31262.0
@@ -1002,7 +1002,7 @@
     "Nuclear": 7384.0,
     "Other": 324.0,
     "Other renewable": 184.0,
-    "Solar": 3375.0,
+    "Solar": 3373.0,
     "Waste": 754.0,
     "Wind Offshore": 5550.0,
     "Wind Onshore": 31153.0
@@ -1020,7 +1020,7 @@
     "Nuclear": 7468.0,
     "Other": 332.0,
     "Other renewable": 188.0,
-    "Solar": 3085.0,
+    "Solar": 3081.0,
     "Waste": 754.0,
     "Wind Offshore": 5562.0,
     "Wind Onshore": 31358.0
@@ -1038,7 +1038,7 @@
     "Nuclear": 7465.0,
     "Other": 336.0,
     "Other renewable": 189.0,
-    "Solar": 2716.0,
+    "Solar": 2712.0,
     "Waste": 754.0,
     "Wind Offshore": 5598.0,
     "Wind Onshore": 31186.0
@@ -1074,7 +1074,7 @@
     "Nuclear": 7477.0,
     "Other": 346.0,
     "Other renewable": 194.0,
-    "Solar": 1762.0,
+    "Solar": 1761.0,
     "Waste": 754.0,
     "Wind Offshore": 5572.0,
     "Wind Onshore": 30617.0
@@ -1092,9 +1092,27 @@
     "Nuclear": 7460.0,
     "Other": 346.0,
     "Other renewable": 194.0,
-    "Solar": 1267.0,
+    "Solar": 1288.0,
     "Waste": 754.0,
     "Wind Offshore": 5555.0,
     "Wind Onshore": 30141.0
+  },
+  "1580310900000": {
+    "Biomass": 4836.0,
+    "Fossil Brown coal/Lignite": 7430.0,
+    "Fossil Gas": 7618.0,
+    "Fossil Hard coal": 4734.0,
+    "Fossil Oil": 447.0,
+    "Geothermal": 4.0,
+    "Hydro Pumped Storage": 522.0,
+    "Hydro Run-of-river and poundage": 1351.0,
+    "Hydro Water Reservoir": 4.0,
+    "Nuclear": 7479.0,
+    "Other": 346.0,
+    "Other renewable": 194.0,
+    "Solar": 815.0,
+    "Waste": 754.0,
+    "Wind Offshore": 5530.0,
+    "Wind Onshore": 30422.0
   }
 }
