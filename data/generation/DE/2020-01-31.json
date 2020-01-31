@@ -920,7 +920,7 @@
   "1580474700000": {
     "Biomass": 4886.0,
     "Fossil Brown coal/Lignite": 6379.0,
-    "Fossil Gas": 4273.0,
+    "Fossil Gas": 4284.0,
     "Fossil Hard coal": 2823.0,
     "Fossil Oil": 449.0,
     "Geothermal": 4.0,
@@ -938,7 +938,7 @@
   "1580475600000": {
     "Biomass": 4900.0,
     "Fossil Brown coal/Lignite": 6767.0,
-    "Fossil Gas": 4315.0,
+    "Fossil Gas": 4371.0,
     "Fossil Hard coal": 2759.0,
     "Fossil Oil": 454.0,
     "Geothermal": 4.0,
@@ -956,7 +956,7 @@
   "1580476500000": {
     "Biomass": 4874.0,
     "Fossil Brown coal/Lignite": 7138.0,
-    "Fossil Gas": 4330.0,
+    "Fossil Gas": 4386.0,
     "Fossil Hard coal": 2700.0,
     "Fossil Oil": 452.0,
     "Geothermal": 4.0,
@@ -974,7 +974,7 @@
   "1580477400000": {
     "Biomass": 4857.0,
     "Fossil Brown coal/Lignite": 7366.0,
-    "Fossil Gas": 4367.0,
+    "Fossil Gas": 4423.0,
     "Fossil Hard coal": 2730.0,
     "Fossil Oil": 452.0,
     "Geothermal": 4.0,
@@ -992,7 +992,7 @@
   "1580478300000": {
     "Biomass": 4852.0,
     "Fossil Brown coal/Lignite": 7641.0,
-    "Fossil Gas": 4424.0,
+    "Fossil Gas": 4467.0,
     "Fossil Hard coal": 2761.0,
     "Fossil Oil": 452.0,
     "Geothermal": 4.0,
@@ -1092,7 +1092,7 @@
     "Nuclear": 7359.0,
     "Other": 359.0,
     "Other renewable": 173.0,
-    "Solar": 1207.0,
+    "Solar": 1206.0,
     "Waste": 722.0,
     "Wind Offshore": 5812.0,
     "Wind Onshore": 26159.0
@@ -1132,5 +1132,23 @@
     "Waste": 703.0,
     "Wind Offshore": 5797.0,
     "Wind Onshore": 25864.0
+  },
+  "1580485500000": {
+    "Biomass": 4850.0,
+    "Fossil Brown coal/Lignite": 8745.0,
+    "Fossil Gas": 4523.0,
+    "Fossil Hard coal": 2647.0,
+    "Fossil Oil": 452.0,
+    "Geothermal": 4.0,
+    "Hydro Pumped Storage": 2502.0,
+    "Hydro Run-of-river and poundage": 1271.0,
+    "Hydro Water Reservoir": 48.0,
+    "Nuclear": 7421.0,
+    "Other": 359.0,
+    "Other renewable": 173.0,
+    "Solar": 193.0,
+    "Waste": 723.0,
+    "Wind Offshore": 5769.0,
+    "Wind Onshore": 25933.0
   }
 }
