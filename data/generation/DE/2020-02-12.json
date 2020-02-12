@@ -624,7 +624,7 @@
     "Nuclear": 7380.0,
     "Other": 353.0,
     "Other renewable": 189.0,
-    "Solar": 4842.0,
+    "Solar": 4841.0,
     "Waste": 739.0,
     "Wind Offshore": 4845.0,
     "Wind Onshore": 37028.0
@@ -660,7 +660,7 @@
     "Nuclear": 7407.0,
     "Other": 360.0,
     "Other renewable": 189.0,
-    "Solar": 6351.0,
+    "Solar": 6350.0,
     "Waste": 738.0,
     "Wind Offshore": 4830.0,
     "Wind Onshore": 36537.0
@@ -696,7 +696,7 @@
     "Nuclear": 7402.0,
     "Other": 354.0,
     "Other renewable": 189.0,
-    "Solar": 7821.0,
+    "Solar": 7820.0,
     "Waste": 738.0,
     "Wind Offshore": 4816.0,
     "Wind Onshore": 36531.0
@@ -732,7 +732,7 @@
     "Nuclear": 7397.0,
     "Other": 362.0,
     "Other renewable": 189.0,
-    "Solar": 8887.0,
+    "Solar": 8886.0,
     "Waste": 738.0,
     "Wind Offshore": 4837.0,
     "Wind Onshore": 36808.0
@@ -750,7 +750,7 @@
     "Nuclear": 7397.0,
     "Other": 362.0,
     "Other renewable": 189.0,
-    "Solar": 8972.0,
+    "Solar": 8971.0,
     "Waste": 738.0,
     "Wind Offshore": 4869.0,
     "Wind Onshore": 36478.0
@@ -858,7 +858,7 @@
     "Nuclear": 7418.0,
     "Other": 346.0,
     "Other renewable": 177.0,
-    "Solar": 8751.0,
+    "Solar": 8752.0,
     "Waste": 738.0,
     "Wind Offshore": 4945.0,
     "Wind Onshore": 36247.0
@@ -876,7 +876,7 @@
     "Nuclear": 7452.0,
     "Other": 338.0,
     "Other renewable": 174.0,
-    "Solar": 8931.0,
+    "Solar": 8928.0,
     "Waste": 739.0,
     "Wind Offshore": 4942.0,
     "Wind Onshore": 36412.0
@@ -894,7 +894,7 @@
     "Nuclear": 7456.0,
     "Other": 337.0,
     "Other renewable": 173.0,
-    "Solar": 8850.0,
+    "Solar": 8841.0,
     "Waste": 739.0,
     "Wind Offshore": 4944.0,
     "Wind Onshore": 36272.0
@@ -912,7 +912,7 @@
     "Nuclear": 7455.0,
     "Other": 337.0,
     "Other renewable": 173.0,
-    "Solar": 8520.0,
+    "Solar": 8506.0,
     "Waste": 739.0,
     "Wind Offshore": 4949.0,
     "Wind Onshore": 35758.0
@@ -948,7 +948,7 @@
     "Nuclear": 7394.0,
     "Other": 340.0,
     "Other renewable": 175.0,
-    "Solar": 7563.0,
+    "Solar": 7556.0,
     "Waste": 738.0,
     "Wind Offshore": 4931.0,
     "Wind Onshore": 35613.0
@@ -966,7 +966,7 @@
     "Nuclear": 7389.0,
     "Other": 351.0,
     "Other renewable": 180.0,
-    "Solar": 6925.0,
+    "Solar": 6889.0,
     "Waste": 738.0,
     "Wind Offshore": 4592.0,
     "Wind Onshore": 35435.0
@@ -984,7 +984,7 @@
     "Nuclear": 7386.0,
     "Other": 354.0,
     "Other renewable": 181.0,
-    "Solar": 6421.0,
+    "Solar": 6446.0,
     "Waste": 738.0,
     "Wind Offshore": 4913.0,
     "Wind Onshore": 35120.0
@@ -1002,7 +1002,7 @@
     "Nuclear": 7399.0,
     "Other": 365.0,
     "Other renewable": 186.0,
-    "Solar": 5785.0,
+    "Solar": 5787.0,
     "Waste": 738.0,
     "Wind Offshore": 4952.0,
     "Wind Onshore": 35222.0
@@ -1020,9 +1020,45 @@
     "Nuclear": 7415.0,
     "Other": 366.0,
     "Other renewable": 187.0,
-    "Solar": 5177.0,
+    "Solar": 5164.0,
     "Waste": 732.0,
     "Wind Offshore": 4952.0,
     "Wind Onshore": 34919.0
+  },
+  "1581516900000": {
+    "Biomass": 4873.0,
+    "Fossil Brown coal/Lignite": 5602.0,
+    "Fossil Gas": 3824.0,
+    "Fossil Hard coal": 3313.0,
+    "Fossil Oil": 432.0,
+    "Geothermal": 4.0,
+    "Hydro Pumped Storage": 911.0,
+    "Hydro Run-of-river and poundage": 1789.0,
+    "Hydro Water Reservoir": 33.0,
+    "Nuclear": 7420.0,
+    "Other": 366.0,
+    "Other renewable": 187.0,
+    "Solar": 4703.0,
+    "Waste": 732.0,
+    "Wind Offshore": 5025.0,
+    "Wind Onshore": 34854.0
+  },
+  "1581517800000": {
+    "Biomass": 4864.0,
+    "Fossil Brown coal/Lignite": 5926.0,
+    "Fossil Gas": 3883.0,
+    "Fossil Hard coal": 3316.0,
+    "Fossil Oil": 432.0,
+    "Geothermal": 4.0,
+    "Hydro Pumped Storage": 861.0,
+    "Hydro Run-of-river and poundage": 1787.0,
+    "Hydro Water Reservoir": 65.0,
+    "Nuclear": 7421.0,
+    "Other": 370.0,
+    "Other renewable": 188.0,
+    "Solar": 4215.0,
+    "Waste": 732.0,
+    "Wind Offshore": 5243.0,
+    "Wind Onshore": 34830.0
   }
 }
