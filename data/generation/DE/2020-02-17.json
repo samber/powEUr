@@ -948,7 +948,7 @@
     "Nuclear": 7485.0,
     "Other": 252.0,
     "Other renewable": 161.0,
-    "Solar": 6371.0,
+    "Solar": 6372.0,
     "Waste": 719.0,
     "Wind Offshore": 5680.0,
     "Wind Onshore": 28833.0
@@ -966,7 +966,7 @@
     "Nuclear": 7496.0,
     "Other": 252.0,
     "Other renewable": 161.0,
-    "Solar": 5755.0,
+    "Solar": 5756.0,
     "Waste": 711.0,
     "Wind Offshore": 5685.0,
     "Wind Onshore": 28885.0
@@ -984,7 +984,7 @@
     "Nuclear": 7504.0,
     "Other": 252.0,
     "Other renewable": 161.0,
-    "Solar": 5175.0,
+    "Solar": 5177.0,
     "Waste": 706.0,
     "Wind Offshore": 5691.0,
     "Wind Onshore": 29035.0
@@ -1002,7 +1002,7 @@
     "Nuclear": 7501.0,
     "Other": 252.0,
     "Other renewable": 161.0,
-    "Solar": 4431.0,
+    "Solar": 4433.0,
     "Waste": 711.0,
     "Wind Offshore": 5710.0,
     "Wind Onshore": 28884.0
@@ -1020,7 +1020,7 @@
     "Nuclear": 7496.0,
     "Other": 251.0,
     "Other renewable": 161.0,
-    "Solar": 3791.0,
+    "Solar": 3799.0,
     "Waste": 712.0,
     "Wind Offshore": 5719.0,
     "Wind Onshore": 28629.0
@@ -1038,7 +1038,7 @@
     "Nuclear": 7502.0,
     "Other": 252.0,
     "Other renewable": 162.0,
-    "Solar": 3353.0,
+    "Solar": 3364.0,
     "Waste": 712.0,
     "Wind Offshore": 5718.0,
     "Wind Onshore": 28427.0
@@ -1056,9 +1056,27 @@
     "Nuclear": 7505.0,
     "Other": 268.0,
     "Other renewable": 169.0,
-    "Solar": 2993.0,
+    "Solar": 2975.0,
     "Waste": 711.0,
     "Wind Offshore": 5716.0,
     "Wind Onshore": 28007.0
+  },
+  "1581950700000": {
+    "Biomass": 4879.0,
+    "Fossil Brown coal/Lignite": 7268.0,
+    "Fossil Gas": 3648.0,
+    "Fossil Hard coal": 3315.0,
+    "Fossil Oil": 437.0,
+    "Geothermal": 4.0,
+    "Hydro Pumped Storage": 1641.0,
+    "Hydro Run-of-river and poundage": 1643.0,
+    "Hydro Water Reservoir": 30.0,
+    "Nuclear": 7504.0,
+    "Other": 270.0,
+    "Other renewable": 170.0,
+    "Solar": 2471.0,
+    "Waste": 688.0,
+    "Wind Offshore": 5715.0,
+    "Wind Onshore": 27516.0
   }
 }
