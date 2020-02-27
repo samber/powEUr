@@ -110,7 +110,7 @@
   "1582767000000": {
     "Biomass": 4882.0,
     "Fossil Brown coal/Lignite": 9777.0,
-    "Fossil Gas": 7118.0,
+    "Fossil Gas": 7151.0,
     "Fossil Hard coal": 1893.0,
     "Fossil Oil": 437.0,
     "Geothermal": 4.0,
@@ -128,7 +128,7 @@
   "1582767900000": {
     "Biomass": 4869.0,
     "Fossil Brown coal/Lignite": 9720.0,
-    "Fossil Gas": 7009.0,
+    "Fossil Gas": 7038.0,
     "Fossil Hard coal": 1872.0,
     "Fossil Oil": 437.0,
     "Geothermal": 4.0,
@@ -146,7 +146,7 @@
   "1582768800000": {
     "Biomass": 4865.0,
     "Fossil Brown coal/Lignite": 9337.0,
-    "Fossil Gas": 6845.0,
+    "Fossil Gas": 6844.0,
     "Fossil Hard coal": 1918.0,
     "Fossil Oil": 437.0,
     "Geothermal": 4.0,
@@ -164,7 +164,7 @@
   "1582769700000": {
     "Biomass": 4883.0,
     "Fossil Brown coal/Lignite": 9156.0,
-    "Fossil Gas": 6798.0,
+    "Fossil Gas": 6823.0,
     "Fossil Hard coal": 1844.0,
     "Fossil Oil": 437.0,
     "Geothermal": 4.0,
@@ -182,7 +182,7 @@
   "1582770600000": {
     "Biomass": 4878.0,
     "Fossil Brown coal/Lignite": 9190.0,
-    "Fossil Gas": 6887.0,
+    "Fossil Gas": 6886.0,
     "Fossil Hard coal": 1848.0,
     "Fossil Oil": 437.0,
     "Geothermal": 4.0,
@@ -200,7 +200,7 @@
   "1582771500000": {
     "Biomass": 4885.0,
     "Fossil Brown coal/Lignite": 9350.0,
-    "Fossil Gas": 6902.0,
+    "Fossil Gas": 6926.0,
     "Fossil Hard coal": 1867.0,
     "Fossil Oil": 437.0,
     "Geothermal": 4.0,
@@ -214,5 +214,23 @@
     "Waste": 748.0,
     "Wind Offshore": 2983.0,
     "Wind Onshore": 15454.0
+  },
+  "1582772400000": {
+    "Biomass": 4886.0,
+    "Fossil Brown coal/Lignite": 9486.0,
+    "Fossil Gas": 6937.0,
+    "Fossil Hard coal": 1887.0,
+    "Fossil Oil": 437.0,
+    "Geothermal": 4.0,
+    "Hydro Pumped Storage": 240.0,
+    "Hydro Run-of-river and poundage": 1745.0,
+    "Hydro Water Reservoir": 88.0,
+    "Nuclear": 8046.0,
+    "Other": 337.0,
+    "Other renewable": 182.0,
+    "Solar": 0.0,
+    "Waste": 760.0,
+    "Wind Offshore": 3157.0,
+    "Wind Onshore": 15369.0
   }
 }
