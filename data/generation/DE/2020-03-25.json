@@ -1200,7 +1200,7 @@
     "Nuclear": 6570.0,
     "Other": 318.0,
     "Other renewable": 168.0,
-    "Solar": 3367.0,
+    "Solar": 3366.0,
     "Waste": 708.0,
     "Wind Offshore": 1325.0,
     "Wind Onshore": 17417.0
@@ -1218,7 +1218,7 @@
     "Nuclear": 6653.0,
     "Other": 318.0,
     "Other renewable": 168.0,
-    "Solar": 2024.0,
+    "Solar": 2023.0,
     "Waste": 721.0,
     "Wind Offshore": 1413.0,
     "Wind Onshore": 17456.0
@@ -1236,7 +1236,7 @@
     "Nuclear": 6628.0,
     "Other": 316.0,
     "Other renewable": 168.0,
-    "Solar": 991.0,
+    "Solar": 990.0,
     "Waste": 725.0,
     "Wind Offshore": 1515.0,
     "Wind Onshore": 17148.0
@@ -1254,7 +1254,7 @@
     "Nuclear": 6573.0,
     "Other": 316.0,
     "Other renewable": 168.0,
-    "Solar": 380.0,
+    "Solar": 379.0,
     "Waste": 727.0,
     "Wind Offshore": 1618.0,
     "Wind Onshore": 17393.0
@@ -1294,5 +1294,23 @@
     "Waste": 728.0,
     "Wind Offshore": 1769.0,
     "Wind Onshore": 18879.0
+  },
+  "1585159200000": {
+    "Biomass": 4756.0,
+    "Fossil Brown coal/Lignite": 11585.0,
+    "Fossil Gas": 4473.0,
+    "Fossil Hard coal": 2322.0,
+    "Fossil Oil": 437.0,
+    "Geothermal": 4.0,
+    "Hydro Pumped Storage": 4847.0,
+    "Hydro Run-of-river and poundage": 1533.0,
+    "Hydro Water Reservoir": 115.0,
+    "Nuclear": 6635.0,
+    "Other": 316.0,
+    "Other renewable": 168.0,
+    "Solar": 0.0,
+    "Waste": 727.0,
+    "Wind Offshore": 1918.0,
+    "Wind Onshore": 19571.0
   }
 }
