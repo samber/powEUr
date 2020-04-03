@@ -1182,7 +1182,7 @@
     "Nuclear": 6703.0,
     "Other": 259.0,
     "Other renewable": 165.0,
-    "Solar": 3004.0,
+    "Solar": 3002.0,
     "Waste": 743.0,
     "Wind Offshore": 3026.0,
     "Wind Onshore": 10249.0
@@ -1200,7 +1200,7 @@
     "Nuclear": 6728.0,
     "Other": 259.0,
     "Other renewable": 165.0,
-    "Solar": 2229.0,
+    "Solar": 2230.0,
     "Waste": 751.0,
     "Wind Offshore": 3127.0,
     "Wind Onshore": 9687.0
@@ -1218,7 +1218,7 @@
     "Nuclear": 6737.0,
     "Other": 260.0,
     "Other renewable": 166.0,
-    "Solar": 1553.0,
+    "Solar": 1555.0,
     "Waste": 743.0,
     "Wind Offshore": 3036.0,
     "Wind Onshore": 8870.0
@@ -1236,7 +1236,7 @@
     "Nuclear": 6721.0,
     "Other": 284.0,
     "Other renewable": 177.0,
-    "Solar": 944.0,
+    "Solar": 946.0,
     "Waste": 751.0,
     "Wind Offshore": 2649.0,
     "Wind Onshore": 8103.0
@@ -1254,9 +1254,45 @@
     "Nuclear": 6732.0,
     "Other": 296.0,
     "Other renewable": 182.0,
-    "Solar": 496.0,
+    "Solar": 497.0,
     "Waste": 760.0,
     "Wind Offshore": 2718.0,
     "Wind Onshore": 7822.0
+  },
+  "1585935000000": {
+    "Biomass": 4803.0,
+    "Fossil Brown coal/Lignite": 9187.0,
+    "Fossil Gas": 4998.0,
+    "Fossil Hard coal": 1083.0,
+    "Fossil Oil": 437.0,
+    "Geothermal": 4.0,
+    "Hydro Pumped Storage": 6063.0,
+    "Hydro Run-of-river and poundage": 1433.0,
+    "Hydro Water Reservoir": 108.0,
+    "Nuclear": 6732.0,
+    "Other": 296.0,
+    "Other renewable": 182.0,
+    "Solar": 196.0,
+    "Waste": 752.0,
+    "Wind Offshore": 2713.0,
+    "Wind Onshore": 7480.0
+  },
+  "1585935900000": {
+    "Biomass": 4786.0,
+    "Fossil Brown coal/Lignite": 9163.0,
+    "Fossil Gas": 5177.0,
+    "Fossil Hard coal": 1086.0,
+    "Fossil Oil": 437.0,
+    "Geothermal": 4.0,
+    "Hydro Pumped Storage": 6120.0,
+    "Hydro Run-of-river and poundage": 1430.0,
+    "Hydro Water Reservoir": 119.0,
+    "Nuclear": 6736.0,
+    "Other": 298.0,
+    "Other renewable": 183.0,
+    "Solar": 47.0,
+    "Waste": 742.0,
+    "Wind Offshore": 2680.0,
+    "Wind Onshore": 6972.0
   }
 }
