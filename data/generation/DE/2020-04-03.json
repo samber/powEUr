@@ -38,7 +38,7 @@
   "1585873800000": {
     "Biomass": 4803.0,
     "Fossil Brown coal/Lignite": 6245.0,
-    "Fossil Gas": 2553.0,
+    "Fossil Gas": 2540.0,
     "Fossil Hard coal": 2087.0,
     "Fossil Oil": 437.0,
     "Geothermal": 4.0,
@@ -56,7 +56,7 @@
   "1585874700000": {
     "Biomass": 4777.0,
     "Fossil Brown coal/Lignite": 6388.0,
-    "Fossil Gas": 2535.0,
+    "Fossil Gas": 2522.0,
     "Fossil Hard coal": 2068.0,
     "Fossil Oil": 437.0,
     "Geothermal": 4.0,
@@ -74,7 +74,7 @@
   "1585875600000": {
     "Biomass": 4788.0,
     "Fossil Brown coal/Lignite": 6732.0,
-    "Fossil Gas": 2436.0,
+    "Fossil Gas": 2414.0,
     "Fossil Hard coal": 1694.0,
     "Fossil Oil": 437.0,
     "Geothermal": 4.0,
@@ -92,7 +92,7 @@
   "1585876500000": {
     "Biomass": 4788.0,
     "Fossil Brown coal/Lignite": 6814.0,
-    "Fossil Gas": 2366.0,
+    "Fossil Gas": 2360.0,
     "Fossil Hard coal": 1556.0,
     "Fossil Oil": 437.0,
     "Geothermal": 4.0,
@@ -110,7 +110,7 @@
   "1585877400000": {
     "Biomass": 4786.0,
     "Fossil Brown coal/Lignite": 6866.0,
-    "Fossil Gas": 2352.0,
+    "Fossil Gas": 2345.0,
     "Fossil Hard coal": 1548.0,
     "Fossil Oil": 437.0,
     "Geothermal": 4.0,
@@ -128,7 +128,7 @@
   "1585878300000": {
     "Biomass": 4764.0,
     "Fossil Brown coal/Lignite": 6966.0,
-    "Fossil Gas": 2359.0,
+    "Fossil Gas": 2353.0,
     "Fossil Hard coal": 1570.0,
     "Fossil Oil": 437.0,
     "Geothermal": 4.0,
@@ -142,5 +142,23 @@
     "Waste": 733.0,
     "Wind Offshore": 6271.0,
     "Wind Onshore": 20980.0
+  },
+  "1585879200000": {
+    "Biomass": 4777.0,
+    "Fossil Brown coal/Lignite": 7362.0,
+    "Fossil Gas": 2364.0,
+    "Fossil Hard coal": 1668.0,
+    "Fossil Oil": 437.0,
+    "Geothermal": 4.0,
+    "Hydro Pumped Storage": 29.0,
+    "Hydro Run-of-river and poundage": 1419.0,
+    "Hydro Water Reservoir": 91.0,
+    "Nuclear": 6455.0,
+    "Other": 261.0,
+    "Other renewable": 166.0,
+    "Solar": 0.0,
+    "Waste": 732.0,
+    "Wind Offshore": 6280.0,
+    "Wind Onshore": 20361.0
   }
 }
