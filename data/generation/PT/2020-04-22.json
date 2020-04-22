@@ -6,7 +6,7 @@
     "Hydro Pumped Storage": 33.0,
     "Hydro Run-of-river and poundage": 1818.0,
     "Hydro Water Reservoir": 24.0,
-    "Other": 32.0,
+    "Other": 34.0,
     "Solar": 0.0,
     "Wind Onshore": 2010.0
   },
@@ -17,7 +17,7 @@
     "Hydro Pumped Storage": 32.0,
     "Hydro Run-of-river and poundage": 1808.0,
     "Hydro Water Reservoir": 22.0,
-    "Other": 34.0,
+    "Other": 33.0,
     "Solar": 0.0,
     "Wind Onshore": 1914.0
   },
@@ -61,7 +61,7 @@
     "Hydro Pumped Storage": 506.0,
     "Hydro Run-of-river and poundage": 2108.0,
     "Hydro Water Reservoir": 363.0,
-    "Other": 33.0,
+    "Other": 31.0,
     "Solar": 0.0,
     "Wind Onshore": 1980.0
   },
@@ -72,7 +72,7 @@
     "Hydro Pumped Storage": 1681.0,
     "Hydro Run-of-river and poundage": 2175.0,
     "Hydro Water Reservoir": 568.0,
-    "Other": 31.0,
+    "Other": 30.0,
     "Solar": 54.0,
     "Wind Onshore": 1840.0
   },
@@ -83,7 +83,7 @@
     "Hydro Pumped Storage": 1854.0,
     "Hydro Run-of-river and poundage": 2199.0,
     "Hydro Water Reservoir": 568.0,
-    "Other": 30.0,
+    "Other": 28.0,
     "Solar": 193.0,
     "Wind Onshore": 1599.0
   },
@@ -94,7 +94,7 @@
     "Hydro Pumped Storage": 552.0,
     "Hydro Run-of-river and poundage": 2276.0,
     "Hydro Water Reservoir": 321.0,
-    "Other": 28.0,
+    "Other": 26.0,
     "Solar": 279.0,
     "Wind Onshore": 1323.0
   },
@@ -105,7 +105,7 @@
     "Hydro Pumped Storage": 437.0,
     "Hydro Run-of-river and poundage": 2270.0,
     "Hydro Water Reservoir": 165.0,
-    "Other": 26.0,
+    "Other": 30.0,
     "Solar": 356.0,
     "Wind Onshore": 1056.0
   },
@@ -116,8 +116,8 @@
     "Hydro Pumped Storage": 1074.0,
     "Hydro Run-of-river and poundage": 2242.0,
     "Hydro Water Reservoir": 213.0,
-    "Other": 30.0,
-    "Solar": 425.0,
+    "Other": 32.0,
+    "Solar": 424.0,
     "Wind Onshore": 811.0
   },
   "1587553200000": {
@@ -138,7 +138,7 @@
     "Hydro Pumped Storage": 1071.0,
     "Hydro Run-of-river and poundage": 2188.0,
     "Hydro Water Reservoir": 408.0,
-    "Other": 32.0,
+    "Other": 31.0,
     "Solar": 471.0,
     "Wind Onshore": 688.0
   },
@@ -149,8 +149,8 @@
     "Hydro Pumped Storage": 765.0,
     "Hydro Run-of-river and poundage": 2117.0,
     "Hydro Water Reservoir": 365.0,
-    "Other": 31.0,
-    "Solar": 467.0,
+    "Other": 30.0,
+    "Solar": 466.0,
     "Wind Onshore": 718.0
   },
   "1587564000000": {
@@ -172,7 +172,7 @@
     "Hydro Run-of-river and poundage": 2112.0,
     "Hydro Water Reservoir": 450.0,
     "Other": 30.0,
-    "Solar": 376.0,
+    "Solar": 375.0,
     "Wind Onshore": 850.0
   },
   "1587571200000": {
@@ -193,7 +193,7 @@
     "Hydro Pumped Storage": 2046.0,
     "Hydro Run-of-river and poundage": 2160.0,
     "Hydro Water Reservoir": 680.0,
-    "Other": 30.0,
+    "Other": 32.0,
     "Solar": 172.0,
     "Wind Onshore": 924.0
   },
@@ -204,7 +204,7 @@
     "Hydro Pumped Storage": 2195.0,
     "Hydro Run-of-river and poundage": 2144.0,
     "Hydro Water Reservoir": 988.0,
-    "Other": 32.0,
+    "Other": 31.0,
     "Solar": 33.0,
     "Wind Onshore": 888.0
   },
@@ -215,7 +215,7 @@
     "Hydro Pumped Storage": 2258.0,
     "Hydro Run-of-river and poundage": 2307.0,
     "Hydro Water Reservoir": 979.0,
-    "Other": 31.0,
+    "Other": 27.0,
     "Solar": 0.0,
     "Wind Onshore": 851.0
   },
@@ -226,7 +226,7 @@
     "Hydro Pumped Storage": 1944.0,
     "Hydro Run-of-river and poundage": 2261.0,
     "Hydro Water Reservoir": 862.0,
-    "Other": 27.0,
+    "Other": 25.0,
     "Solar": 0.0,
     "Wind Onshore": 817.0
   },
@@ -237,8 +237,19 @@
     "Hydro Pumped Storage": 1854.0,
     "Hydro Run-of-river and poundage": 2285.0,
     "Hydro Water Reservoir": 662.0,
-    "Other": 25.0,
+    "Other": 24.0,
     "Solar": 0.0,
     "Wind Onshore": 747.0
+  },
+  "1587592800000": {
+    "Biomass": 376.0,
+    "Fossil Gas": 849.0,
+    "Fossil Hard coal": 0.0,
+    "Hydro Pumped Storage": 1377.0,
+    "Hydro Run-of-river and poundage": 2242.0,
+    "Hydro Water Reservoir": 570.0,
+    "Other": 25.0,
+    "Solar": 0.0,
+    "Wind Onshore": 662.0
   }
 }
