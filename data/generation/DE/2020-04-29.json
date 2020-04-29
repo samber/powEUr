@@ -182,7 +182,7 @@
   "1588127400000": {
     "Biomass": 4652.0,
     "Fossil Brown coal/Lignite": 7156.0,
-    "Fossil Gas": 5535.0,
+    "Fossil Gas": 5532.0,
     "Fossil Hard coal": 1533.0,
     "Fossil Oil": 437.0,
     "Geothermal": 4.0,
@@ -200,7 +200,7 @@
   "1588128300000": {
     "Biomass": 4654.0,
     "Fossil Brown coal/Lignite": 7185.0,
-    "Fossil Gas": 5545.0,
+    "Fossil Gas": 5529.0,
     "Fossil Hard coal": 1537.0,
     "Fossil Oil": 437.0,
     "Geothermal": 4.0,
@@ -218,7 +218,7 @@
   "1588129200000": {
     "Biomass": 4666.0,
     "Fossil Brown coal/Lignite": 7541.0,
-    "Fossil Gas": 5596.0,
+    "Fossil Gas": 5590.0,
     "Fossil Hard coal": 1575.0,
     "Fossil Oil": 437.0,
     "Geothermal": 4.0,
@@ -236,7 +236,7 @@
   "1588130100000": {
     "Biomass": 4659.0,
     "Fossil Brown coal/Lignite": 7761.0,
-    "Fossil Gas": 5910.0,
+    "Fossil Gas": 5881.0,
     "Fossil Hard coal": 1569.0,
     "Fossil Oil": 437.0,
     "Geothermal": 4.0,
@@ -254,7 +254,7 @@
   "1588131000000": {
     "Biomass": 4664.0,
     "Fossil Brown coal/Lignite": 7922.0,
-    "Fossil Gas": 5943.0,
+    "Fossil Gas": 5903.0,
     "Fossil Hard coal": 1574.0,
     "Fossil Oil": 437.0,
     "Geothermal": 4.0,
@@ -272,7 +272,7 @@
   "1588131900000": {
     "Biomass": 4662.0,
     "Fossil Brown coal/Lignite": 8695.0,
-    "Fossil Gas": 5951.0,
+    "Fossil Gas": 5926.0,
     "Fossil Hard coal": 1578.0,
     "Fossil Oil": 437.0,
     "Geothermal": 4.0,
@@ -286,5 +286,23 @@
     "Waste": 691.0,
     "Wind Offshore": 597.0,
     "Wind Onshore": 6844.0
+  },
+  "1588132800000": {
+    "Biomass": 4659.0,
+    "Fossil Brown coal/Lignite": 9672.0,
+    "Fossil Gas": 6122.0,
+    "Fossil Hard coal": 1542.0,
+    "Fossil Oil": 437.0,
+    "Geothermal": 4.0,
+    "Hydro Pumped Storage": 104.0,
+    "Hydro Run-of-river and poundage": 1721.0,
+    "Hydro Water Reservoir": 130.0,
+    "Nuclear": 6567.0,
+    "Other": 325.0,
+    "Other renewable": 160.0,
+    "Solar": 95.0,
+    "Waste": 702.0,
+    "Wind Offshore": 602.0,
+    "Wind Onshore": 7004.0
   }
 }
