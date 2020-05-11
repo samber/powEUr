@@ -1182,7 +1182,7 @@
     "Nuclear": 5111.0,
     "Other": 291.0,
     "Other renewable": 164.0,
-    "Solar": 4386.0,
+    "Solar": 4387.0,
     "Waste": 459.0,
     "Wind Offshore": 4794.0,
     "Wind Onshore": 25974.0
@@ -1218,7 +1218,7 @@
     "Nuclear": 5116.0,
     "Other": 291.0,
     "Other renewable": 164.0,
-    "Solar": 3195.0,
+    "Solar": 3196.0,
     "Waste": 484.0,
     "Wind Offshore": 4589.0,
     "Wind Onshore": 24831.0
@@ -1236,7 +1236,7 @@
     "Nuclear": 5108.0,
     "Other": 291.0,
     "Other renewable": 164.0,
-    "Solar": 2604.0,
+    "Solar": 2601.0,
     "Waste": 492.0,
     "Wind Offshore": 4510.0,
     "Wind Onshore": 24442.0
@@ -1254,7 +1254,7 @@
     "Nuclear": 5114.0,
     "Other": 291.0,
     "Other renewable": 164.0,
-    "Solar": 2067.0,
+    "Solar": 2065.0,
     "Waste": 494.0,
     "Wind Offshore": 4662.0,
     "Wind Onshore": 23582.0
@@ -1272,7 +1272,7 @@
     "Nuclear": 5118.0,
     "Other": 291.0,
     "Other renewable": 164.0,
-    "Solar": 1562.0,
+    "Solar": 1561.0,
     "Waste": 494.0,
     "Wind Offshore": 4877.0,
     "Wind Onshore": 22522.0
@@ -1290,7 +1290,7 @@
     "Nuclear": 5141.0,
     "Other": 291.0,
     "Other renewable": 164.0,
-    "Solar": 1143.0,
+    "Solar": 1141.0,
     "Waste": 493.0,
     "Wind Offshore": 4818.0,
     "Wind Onshore": 21358.0
@@ -1308,9 +1308,27 @@
     "Nuclear": 5199.0,
     "Other": 291.0,
     "Other renewable": 164.0,
-    "Solar": 825.0,
+    "Solar": 836.0,
     "Waste": 493.0,
     "Wind Offshore": 4512.0,
     "Wind Onshore": 19990.0
+  },
+  "1589220900000": {
+    "Biomass": 4788.0,
+    "Fossil Brown coal/Lignite": 6138.0,
+    "Fossil Gas": 4454.0,
+    "Fossil Hard coal": 2371.0,
+    "Fossil Oil": 437.0,
+    "Geothermal": 4.0,
+    "Hydro Pumped Storage": 3140.0,
+    "Hydro Run-of-river and poundage": 1945.0,
+    "Hydro Water Reservoir": 124.0,
+    "Nuclear": 5239.0,
+    "Other": 291.0,
+    "Other renewable": 164.0,
+    "Solar": 532.0,
+    "Waste": 494.0,
+    "Wind Offshore": 4545.0,
+    "Wind Onshore": 18838.0
   }
 }
