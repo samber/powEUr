@@ -38,7 +38,7 @@
   "1590453000000": {
     "Biomass": 4724.0,
     "Fossil Brown coal/Lignite": 5734.0,
-    "Fossil Gas": 8314.0,
+    "Fossil Gas": 8321.0,
     "Fossil Hard coal": 2214.0,
     "Fossil Oil": 437.0,
     "Geothermal": 4.0,
@@ -56,7 +56,7 @@
   "1590453900000": {
     "Biomass": 4731.0,
     "Fossil Brown coal/Lignite": 5714.0,
-    "Fossil Gas": 8316.0,
+    "Fossil Gas": 8323.0,
     "Fossil Hard coal": 2220.0,
     "Fossil Oil": 437.0,
     "Geothermal": 4.0,
@@ -74,7 +74,7 @@
   "1590454800000": {
     "Biomass": 4732.0,
     "Fossil Brown coal/Lignite": 5760.0,
-    "Fossil Gas": 8406.0,
+    "Fossil Gas": 8403.0,
     "Fossil Hard coal": 2227.0,
     "Fossil Oil": 437.0,
     "Geothermal": 4.0,
@@ -92,7 +92,7 @@
   "1590455700000": {
     "Biomass": 4733.0,
     "Fossil Brown coal/Lignite": 5751.0,
-    "Fossil Gas": 8415.0,
+    "Fossil Gas": 8430.0,
     "Fossil Hard coal": 2287.0,
     "Fossil Oil": 437.0,
     "Geothermal": 4.0,
@@ -110,7 +110,7 @@
   "1590456600000": {
     "Biomass": 4734.0,
     "Fossil Brown coal/Lignite": 5750.0,
-    "Fossil Gas": 8441.0,
+    "Fossil Gas": 8443.0,
     "Fossil Hard coal": 2280.0,
     "Fossil Oil": 437.0,
     "Geothermal": 4.0,
@@ -128,7 +128,7 @@
   "1590457500000": {
     "Biomass": 4727.0,
     "Fossil Brown coal/Lignite": 5813.0,
-    "Fossil Gas": 8502.0,
+    "Fossil Gas": 8516.0,
     "Fossil Hard coal": 2324.0,
     "Fossil Oil": 437.0,
     "Geothermal": 4.0,
@@ -142,5 +142,23 @@
     "Waste": 450.0,
     "Wind Offshore": 5.0,
     "Wind Onshore": 2722.0
+  },
+  "1590458400000": {
+    "Biomass": 4731.0,
+    "Fossil Brown coal/Lignite": 5975.0,
+    "Fossil Gas": 8660.0,
+    "Fossil Hard coal": 2369.0,
+    "Fossil Oil": 437.0,
+    "Geothermal": 4.0,
+    "Hydro Pumped Storage": 854.0,
+    "Hydro Run-of-river and poundage": 1871.0,
+    "Hydro Water Reservoir": 53.0,
+    "Nuclear": 6651.0,
+    "Other": 186.0,
+    "Other renewable": 122.0,
+    "Solar": 0.0,
+    "Waste": 454.0,
+    "Wind Offshore": 4.0,
+    "Wind Onshore": 2627.0
   }
 }
