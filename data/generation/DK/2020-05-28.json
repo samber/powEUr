@@ -1,7 +1,22 @@
 {
   "1590624000000": {
     "Biomass": 249.0,
+    "Fossil Gas": 106.0,
+    "Fossil Hard coal": 274.0,
+    "Fossil Oil": 17.0,
     "Solar": 0.0,
-    "Waste": 176.0
+    "Waste": 176.0,
+    "Wind Offshore": 960.0,
+    "Wind Onshore": 1250.0
+  },
+  "1590627600000": {
+    "Biomass": 419.0,
+    "Fossil Gas": 137.0,
+    "Fossil Hard coal": 318.0,
+    "Fossil Oil": 18.0,
+    "Solar": 0.0,
+    "Waste": 178.0,
+    "Wind Offshore": 756.0,
+    "Wind Onshore": 1063.0
   }
 }
