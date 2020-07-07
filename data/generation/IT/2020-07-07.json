@@ -47,17 +47,17 @@
   "1594090800000": {
     "Biomass": 665.0,
     "Fossil Coal-derived gas": 601.0,
-    "Fossil Gas": 14014.0,
-    "Fossil Hard coal": 1137.0,
+    "Fossil Gas": 14021.0,
+    "Fossil Hard coal": 1138.0,
     "Fossil Oil": 64.0,
-    "Geothermal": 614.0,
+    "Geothermal": 627.0,
     "Hydro Pumped Storage": 0.0,
-    "Hydro Run-of-river and poundage": 4433.0,
-    "Hydro Water Reservoir": 590.0,
-    "Other": 1749.0,
+    "Hydro Run-of-river and poundage": 4456.0,
+    "Hydro Water Reservoir": 592.0,
+    "Other": 1753.0,
     "Solar": 1.0,
     "Waste": 24.0,
-    "Wind Onshore": 1270.0
+    "Wind Onshore": 1276.0
   },
   "1594094400000": {
     "Biomass": 649.0,
@@ -85,23 +85,38 @@
     "Hydro Run-of-river and poundage": 6054.0,
     "Hydro Water Reservoir": 1148.0,
     "Other": 2091.0,
-    "Solar": 1627.0,
+    "Solar": 1628.0,
     "Waste": 22.0,
-    "Wind Onshore": 1529.0
+    "Wind Onshore": 1528.0
   },
   "1594101600000": {
-    "Biomass": 622.0,
+    "Biomass": 617.0,
     "Fossil Coal-derived gas": 602.0,
-    "Fossil Gas": 16379.0,
+    "Fossil Gas": 16354.0,
     "Fossil Hard coal": 1168.0,
-    "Fossil Oil": 70.0,
+    "Fossil Oil": 67.0,
     "Geothermal": 610.0,
-    "Hydro Pumped Storage": 929.0,
-    "Hydro Run-of-river and poundage": 6323.0,
-    "Hydro Water Reservoir": 1402.0,
-    "Other": 2160.0,
-    "Solar": 3545.0,
+    "Hydro Pumped Storage": 934.0,
+    "Hydro Run-of-river and poundage": 6327.0,
+    "Hydro Water Reservoir": 1397.0,
+    "Other": 2162.0,
+    "Solar": 3574.0,
+    "Waste": 24.0,
+    "Wind Onshore": 2078.0
+  },
+  "1594105200000": {
+    "Biomass": 623.0,
+    "Fossil Coal-derived gas": 601.0,
+    "Fossil Gas": 15983.0,
+    "Fossil Hard coal": 1149.0,
+    "Fossil Oil": 90.0,
+    "Geothermal": 603.0,
+    "Hydro Pumped Storage": 839.0,
+    "Hydro Run-of-river and poundage": 6382.0,
+    "Hydro Water Reservoir": 1286.0,
+    "Other": 2195.0,
+    "Solar": 5437.0,
     "Waste": 28.0,
-    "Wind Onshore": 2094.0
+    "Wind Onshore": 2771.0
   }
 }
