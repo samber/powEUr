@@ -2,17 +2,17 @@
   "1594080000000": {
     "Biomass": 662.0,
     "Fossil Coal-derived gas": 600.0,
-    "Fossil Gas": 13316.0,
-    "Fossil Hard coal": 1144.0,
+    "Fossil Gas": 13320.0,
+    "Fossil Hard coal": 1145.0,
     "Fossil Oil": 64.0,
-    "Geothermal": 612.0,
+    "Geothermal": 626.0,
     "Hydro Pumped Storage": 0.0,
-    "Hydro Run-of-river and poundage": 4047.0,
+    "Hydro Run-of-river and poundage": 4086.0,
     "Hydro Water Reservoir": 579.0,
-    "Other": 1653.0,
+    "Other": 1661.0,
     "Solar": 0.0,
     "Waste": 23.0,
-    "Wind Onshore": 1214.0
+    "Wind Onshore": 1207.0
   },
   "1594083600000": {
     "Biomass": 655.0,
@@ -27,7 +27,7 @@
     "Other": 1663.0,
     "Solar": 0.0,
     "Waste": 23.0,
-    "Wind Onshore": 1316.0
+    "Wind Onshore": 1315.0
   },
   "1594087200000": {
     "Biomass": 660.0,
@@ -42,21 +42,36 @@
     "Other": 1705.0,
     "Solar": 0.0,
     "Waste": 24.0,
-    "Wind Onshore": 1282.0
+    "Wind Onshore": 1284.0
   },
   "1594090800000": {
-    "Biomass": 673.0,
+    "Biomass": 665.0,
     "Fossil Coal-derived gas": 601.0,
-    "Fossil Gas": 13975.0,
-    "Fossil Hard coal": 1134.0,
+    "Fossil Gas": 14014.0,
+    "Fossil Hard coal": 1137.0,
     "Fossil Oil": 64.0,
     "Geothermal": 614.0,
     "Hydro Pumped Storage": 0.0,
-    "Hydro Run-of-river and poundage": 4419.0,
-    "Hydro Water Reservoir": 585.0,
-    "Other": 1749.0,
-    "Solar": 0.0,
-    "Waste": 30.0,
-    "Wind Onshore": 1317.0
+    "Hydro Run-of-river and poundage": 4433.0,
+    "Hydro Water Reservoir": 590.0,
+    "Other": 1751.0,
+    "Solar": 1.0,
+    "Waste": 24.0,
+    "Wind Onshore": 1273.0
+  },
+  "1594094400000": {
+    "Biomass": 659.0,
+    "Fossil Coal-derived gas": 603.0,
+    "Fossil Gas": 15691.0,
+    "Fossil Hard coal": 1178.0,
+    "Fossil Oil": 68.0,
+    "Geothermal": 614.0,
+    "Hydro Pumped Storage": 336.0,
+    "Hydro Run-of-river and poundage": 5412.0,
+    "Hydro Water Reservoir": 1067.0,
+    "Other": 1899.0,
+    "Solar": 293.0,
+    "Waste": 28.0,
+    "Wind Onshore": 1419.0
   }
 }
