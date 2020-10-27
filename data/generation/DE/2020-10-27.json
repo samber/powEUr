@@ -107,6 +107,24 @@
     "Wind Offshore": 5514.0,
     "Wind Onshore": 17783.0
   },
+  "1603762200000": {
+    "Biomass": 4621.0,
+    "Fossil Brown coal/Lignite": 10658.0,
+    "Fossil Gas": 3263.0,
+    "Fossil Hard coal": 2246.0,
+    "Fossil Oil": 351.0,
+    "Geothermal": 4.0,
+    "Hydro Pumped Storage": 61.0,
+    "Hydro Run-of-river and poundage": 1766.0,
+    "Hydro Water Reservoir": 140.0,
+    "Nuclear": 8014.0,
+    "Other": 416.0,
+    "Other renewable": 166.0,
+    "Solar": 0.0,
+    "Waste": 554.0,
+    "Wind Offshore": 5580.0,
+    "Wind Onshore": 17595.0
+  },
   "1603763100000": {
     "Biomass": 4618.0,
     "Fossil Brown coal/Lignite": 10707.0,
@@ -804,7 +822,7 @@
     "Nuclear": 7962.0,
     "Other": 422.0,
     "Other renewable": 169.0,
-    "Solar": 10621.0,
+    "Solar": 10623.0,
     "Waste": 560.0,
     "Wind Offshore": 5280.0,
     "Wind Onshore": 19217.0
@@ -858,7 +876,7 @@
     "Nuclear": 7960.0,
     "Other": 425.0,
     "Other renewable": 169.0,
-    "Solar": 9621.0,
+    "Solar": 9618.0,
     "Waste": 546.0,
     "Wind Offshore": 5177.0,
     "Wind Onshore": 19416.0
@@ -876,7 +894,7 @@
     "Nuclear": 7959.0,
     "Other": 425.0,
     "Other renewable": 169.0,
-    "Solar": 9066.0,
+    "Solar": 9065.0,
     "Waste": 529.0,
     "Wind Offshore": 5044.0,
     "Wind Onshore": 19414.0
@@ -894,9 +912,27 @@
     "Nuclear": 7970.0,
     "Other": 424.0,
     "Other renewable": 169.0,
-    "Solar": 8614.0,
+    "Solar": 8611.0,
     "Waste": 547.0,
     "Wind Offshore": 4933.0,
     "Wind Onshore": 19488.0
+  },
+  "1603802700000": {
+    "Biomass": 4649.0,
+    "Fossil Brown coal/Lignite": 14303.0,
+    "Fossil Gas": 5622.0,
+    "Fossil Hard coal": 3848.0,
+    "Fossil Oil": 356.0,
+    "Geothermal": 4.0,
+    "Hydro Pumped Storage": 536.0,
+    "Hydro Run-of-river and poundage": 1848.0,
+    "Hydro Water Reservoir": 35.0,
+    "Nuclear": 7966.0,
+    "Other": 424.0,
+    "Other renewable": 169.0,
+    "Solar": 8050.0,
+    "Waste": 552.0,
+    "Wind Offshore": 5198.0,
+    "Wind Onshore": 19507.0
   }
 }
