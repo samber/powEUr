@@ -120,11 +120,19 @@
     "Wind Onshore": 0.0
   },
   "1604674800000": {
-    "Hydro Pumped Storage": 1476.0,
+    "Hydro Pumped Storage": 1715.0,
     "Hydro Run-of-river and poundage": 343.0,
-    "Hydro Water Reservoir": 2274.0,
-    "Nuclear": 2474.0,
+    "Hydro Water Reservoir": 2371.0,
+    "Nuclear": 2972.0,
     "Solar": 17.0,
+    "Wind Onshore": 0.0
+  },
+  "1604678400000": {
+    "Hydro Pumped Storage": 1781.0,
+    "Hydro Run-of-river and poundage": 348.0,
+    "Hydro Water Reservoir": 3246.0,
+    "Nuclear": 2474.0,
+    "Solar": 0.0,
     "Wind Onshore": 0.0
   }
 }
