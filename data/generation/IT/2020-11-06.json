@@ -122,17 +122,17 @@
   "1604649600000": {
     "Biomass": 713.0,
     "Fossil Coal-derived gas": 635.0,
-    "Fossil Gas": 11929.0,
-    "Fossil Hard coal": 1965.0,
+    "Fossil Gas": 11922.0,
+    "Fossil Hard coal": 1964.0,
     "Fossil Oil": 146.0,
-    "Geothermal": 642.0,
-    "Hydro Pumped Storage": 2105.0,
-    "Hydro Run-of-river and poundage": 5148.0,
+    "Geothermal": 641.0,
+    "Hydro Pumped Storage": 2091.0,
+    "Hydro Run-of-river and poundage": 5163.0,
     "Hydro Water Reservoir": 954.0,
-    "Other": 2443.0,
+    "Other": 2445.0,
     "Solar": 4550.0,
     "Waste": 28.0,
-    "Wind Onshore": 2292.0
+    "Wind Onshore": 2318.0
   },
   "1604653200000": {
     "Biomass": 710.0,
@@ -160,23 +160,38 @@
     "Hydro Run-of-river and poundage": 4298.0,
     "Hydro Water Reservoir": 604.0,
     "Other": 2458.0,
-    "Solar": 6679.0,
+    "Solar": 6678.0,
     "Waste": 31.0,
-    "Wind Onshore": 2391.0
+    "Wind Onshore": 2388.0
   },
   "1604660400000": {
-    "Biomass": 726.0,
+    "Biomass": 725.0,
     "Fossil Coal-derived gas": 591.0,
-    "Fossil Gas": 10571.0,
-    "Fossil Hard coal": 2010.0,
-    "Fossil Oil": 195.0,
+    "Fossil Gas": 10563.0,
+    "Fossil Hard coal": 2012.0,
+    "Fossil Oil": 194.0,
     "Geothermal": 623.0,
     "Hydro Pumped Storage": 352.0,
-    "Hydro Run-of-river and poundage": 3687.0,
-    "Hydro Water Reservoir": 456.0,
+    "Hydro Run-of-river and poundage": 3689.0,
+    "Hydro Water Reservoir": 459.0,
     "Other": 2376.0,
-    "Solar": 6762.0,
-    "Waste": 32.0,
-    "Wind Onshore": 2401.0
+    "Solar": 6705.0,
+    "Waste": 31.0,
+    "Wind Onshore": 2467.0
+  },
+  "1604664000000": {
+    "Biomass": 734.0,
+    "Fossil Coal-derived gas": 591.0,
+    "Fossil Gas": 10500.0,
+    "Fossil Hard coal": 2016.0,
+    "Fossil Oil": 195.0,
+    "Geothermal": 624.0,
+    "Hydro Pumped Storage": 222.0,
+    "Hydro Run-of-river and poundage": 3714.0,
+    "Hydro Water Reservoir": 471.0,
+    "Other": 2434.0,
+    "Solar": 6392.0,
+    "Waste": 34.0,
+    "Wind Onshore": 2457.0
   }
 }
