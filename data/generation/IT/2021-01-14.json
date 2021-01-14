@@ -170,7 +170,7 @@
   "1610625600000": {
     "Biomass": 736.0,
     "Fossil Coal-derived gas": 525.0,
-    "Fossil Gas": 17919.0,
+    "Fossil Gas": 17920.0,
     "Fossil Hard coal": 1348.0,
     "Fossil Oil": 74.0,
     "Geothermal": 617.0,
@@ -184,7 +184,7 @@
   "1610629200000": {
     "Biomass": 715.0,
     "Fossil Coal-derived gas": 612.0,
-    "Fossil Gas": 18939.0,
+    "Fossil Gas": 18937.0,
     "Fossil Hard coal": 1464.0,
     "Fossil Oil": 129.0,
     "Geothermal": 616.0,
@@ -198,21 +198,21 @@
   "1610632800000": {
     "Biomass": 707.0,
     "Fossil Coal-derived gas": 642.0,
-    "Fossil Gas": 19419.0,
-    "Fossil Hard coal": 1699.0,
+    "Fossil Gas": 19421.0,
+    "Fossil Hard coal": 1700.0,
     "Fossil Oil": 129.0,
     "Geothermal": 616.0,
     "Hydro Pumped Storage": 93.0,
     "Hydro Run-of-river and poundage": 3976.0,
-    "Hydro Water Reservoir": 1181.0,
+    "Hydro Water Reservoir": 1178.0,
     "Other": 2639.0,
     "Solar": 2428.0,
-    "Wind Onshore": 5752.0
+    "Wind Onshore": 5802.0
   },
   "1610636400000": {
     "Biomass": 711.0,
     "Fossil Coal-derived gas": 601.0,
-    "Fossil Gas": 19997.0,
+    "Fossil Gas": 19988.0,
     "Fossil Hard coal": 1919.0,
     "Fossil Oil": 129.0,
     "Geothermal": 616.0,
@@ -221,12 +221,12 @@
     "Hydro Water Reservoir": 1225.0,
     "Other": 2679.0,
     "Solar": 541.0,
-    "Wind Onshore": 5421.0
+    "Wind Onshore": 5433.0
   },
   "1610640000000": {
     "Biomass": 705.0,
     "Fossil Coal-derived gas": 591.0,
-    "Fossil Gas": 20881.0,
+    "Fossil Gas": 20880.0,
     "Fossil Hard coal": 2003.0,
     "Fossil Oil": 130.0,
     "Geothermal": 601.0,
@@ -236,5 +236,19 @@
     "Other": 2688.0,
     "Solar": 0.0,
     "Wind Onshore": 4688.0
+  },
+  "1610643600000": {
+    "Biomass": 704.0,
+    "Fossil Coal-derived gas": 586.0,
+    "Fossil Gas": 21557.0,
+    "Fossil Hard coal": 2084.0,
+    "Fossil Oil": 129.0,
+    "Geothermal": 600.0,
+    "Hydro Pumped Storage": 1919.0,
+    "Hydro Run-of-river and poundage": 5583.0,
+    "Hydro Water Reservoir": 1516.0,
+    "Other": 2646.0,
+    "Solar": 0.0,
+    "Wind Onshore": 4356.0
   }
 }
