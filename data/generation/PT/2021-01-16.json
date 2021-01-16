@@ -88,7 +88,7 @@
     "Fossil Gas": 861.0,
     "Fossil Hard coal": 210.0,
     "Hydro Pumped Storage": 96.0,
-    "Hydro Run-of-river and poundage": 1499.0,
+    "Hydro Run-of-river and poundage": 1500.0,
     "Hydro Water Reservoir": 23.0,
     "Other": 30.0,
     "Solar": 0.0,
@@ -103,7 +103,7 @@
     "Hydro Run-of-river and poundage": 1592.0,
     "Hydro Water Reservoir": 92.0,
     "Other": 29.0,
-    "Solar": 134.0,
+    "Solar": 123.0,
     "Wind Offshore": 0.0,
     "Wind Onshore": 585.0
   },
@@ -115,7 +115,7 @@
     "Hydro Run-of-river and poundage": 1698.0,
     "Hydro Water Reservoir": 268.0,
     "Other": 29.0,
-    "Solar": 325.0,
+    "Solar": 299.0,
     "Wind Offshore": 0.0,
     "Wind Onshore": 416.0
   },
@@ -127,7 +127,7 @@
     "Hydro Run-of-river and poundage": 1647.0,
     "Hydro Water Reservoir": 258.0,
     "Other": 30.0,
-    "Solar": 479.0,
+    "Solar": 442.0,
     "Wind Offshore": 0.0,
     "Wind Onshore": 273.0
   },
@@ -139,7 +139,7 @@
     "Hydro Run-of-river and poundage": 1513.0,
     "Hydro Water Reservoir": 210.0,
     "Other": 30.0,
-    "Solar": 568.0,
+    "Solar": 525.0,
     "Wind Offshore": 0.0,
     "Wind Onshore": 187.0
   },
@@ -151,8 +151,32 @@
     "Hydro Run-of-river and poundage": 1313.0,
     "Hydro Water Reservoir": 153.0,
     "Other": 31.0,
-    "Solar": 563.0,
+    "Solar": 551.0,
     "Wind Offshore": 0.0,
     "Wind Onshore": 119.0
+  },
+  "1610802000000": {
+    "Biomass": 393.0,
+    "Fossil Gas": 1493.0,
+    "Fossil Hard coal": 286.0,
+    "Hydro Pumped Storage": 11.0,
+    "Hydro Run-of-river and poundage": 1284.0,
+    "Hydro Water Reservoir": 122.0,
+    "Other": 30.0,
+    "Solar": 526.0,
+    "Wind Offshore": 0.0,
+    "Wind Onshore": 73.0
+  },
+  "1610805600000": {
+    "Biomass": 391.0,
+    "Fossil Gas": 1477.0,
+    "Fossil Hard coal": 285.0,
+    "Hydro Pumped Storage": 0.0,
+    "Hydro Run-of-river and poundage": 1050.0,
+    "Hydro Water Reservoir": 75.0,
+    "Other": 30.0,
+    "Solar": 448.0,
+    "Wind Offshore": 3.0,
+    "Wind Onshore": 61.0
   }
 }
