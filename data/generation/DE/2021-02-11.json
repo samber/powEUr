@@ -827,6 +827,24 @@
     "Wind Offshore": 1440.0,
     "Wind Onshore": 1661.0
   },
+  "1613043000000": {
+    "Biomass": 4180.0,
+    "Fossil Brown coal/Lignite": 15346.0,
+    "Fossil Gas": 13147.0,
+    "Fossil Hard coal": 10547.0,
+    "Fossil Oil": 446.0,
+    "Geothermal": 24.0,
+    "Hydro Pumped Storage": 1360.0,
+    "Hydro Run-of-river and poundage": 1646.0,
+    "Hydro Water Reservoir": 37.0,
+    "Nuclear": 8172.0,
+    "Other": 532.0,
+    "Other renewable": 193.0,
+    "Solar": 5063.0,
+    "Waste": 506.0,
+    "Wind Offshore": 1339.0,
+    "Wind Onshore": 1895.0
+  },
   "1613043900000": {
     "Biomass": 4184.0,
     "Fossil Brown coal/Lignite": 15354.0,
@@ -930,7 +948,7 @@
     "Nuclear": 8175.0,
     "Other": 532.0,
     "Other renewable": 192.0,
-    "Solar": 3358.0,
+    "Solar": 3354.0,
     "Waste": 503.0,
     "Wind Offshore": 1645.0,
     "Wind Onshore": 2318.0
@@ -948,7 +966,7 @@
     "Nuclear": 8173.0,
     "Other": 532.0,
     "Other renewable": 193.0,
-    "Solar": 2949.0,
+    "Solar": 2948.0,
     "Waste": 493.0,
     "Wind Offshore": 1692.0,
     "Wind Onshore": 2337.0
@@ -966,7 +984,7 @@
     "Nuclear": 8174.0,
     "Other": 532.0,
     "Other renewable": 192.0,
-    "Solar": 2464.0,
+    "Solar": 2462.0,
     "Waste": 508.0,
     "Wind Offshore": 1783.0,
     "Wind Onshore": 2298.0
@@ -984,9 +1002,27 @@
     "Nuclear": 8172.0,
     "Other": 532.0,
     "Other renewable": 193.0,
-    "Solar": 1999.0,
+    "Solar": 1996.0,
     "Waste": 513.0,
     "Wind Offshore": 1805.0,
     "Wind Onshore": 2339.0
+  },
+  "1613056500000": {
+    "Biomass": 4262.0,
+    "Fossil Brown coal/Lignite": 15231.0,
+    "Fossil Gas": 13043.0,
+    "Fossil Hard coal": 10615.0,
+    "Fossil Oil": 404.0,
+    "Geothermal": 24.0,
+    "Hydro Pumped Storage": 827.0,
+    "Hydro Run-of-river and poundage": 1657.0,
+    "Hydro Water Reservoir": 43.0,
+    "Nuclear": 8172.0,
+    "Other": 532.0,
+    "Other renewable": 193.0,
+    "Solar": 1531.0,
+    "Waste": 512.0,
+    "Wind Offshore": 1783.0,
+    "Wind Onshore": 2422.0
   }
 }
