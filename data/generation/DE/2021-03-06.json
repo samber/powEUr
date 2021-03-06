@@ -361,19 +361,19 @@
   },
   "1615042800000": {
     "Hydro Pumped Storage": 91.0,
-    "Solar": 10347.0,
+    "Solar": 10342.0,
     "Wind Offshore": 3741.0,
     "Wind Onshore": 8536.0
   },
   "1615043700000": {
     "Hydro Pumped Storage": 182.0,
-    "Solar": 8667.0,
+    "Solar": 8663.0,
     "Wind Offshore": 3805.0,
     "Wind Onshore": 8526.0
   },
   "1615044600000": {
     "Hydro Pumped Storage": 332.0,
-    "Solar": 6913.0,
+    "Solar": 6911.0,
     "Wind Offshore": 3665.0,
     "Wind Onshore": 8339.0
   },
@@ -385,14 +385,20 @@
   },
   "1615046400000": {
     "Hydro Pumped Storage": 1348.0,
-    "Solar": 3745.0,
+    "Solar": 3746.0,
     "Wind Offshore": 3588.0,
     "Wind Onshore": 8030.0
   },
   "1615047300000": {
     "Hydro Pumped Storage": 1853.0,
-    "Solar": 2368.0,
+    "Solar": 2369.0,
     "Wind Offshore": 3578.0,
     "Wind Onshore": 8111.0
+  },
+  "1615048200000": {
+    "Hydro Pumped Storage": 2060.0,
+    "Solar": 1225.0,
+    "Wind Offshore": 3547.0,
+    "Wind Onshore": 8000.0
   }
 }
