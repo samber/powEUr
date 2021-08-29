@@ -57,7 +57,7 @@
     "Other": 1740.0,
     "Solar": 0.0,
     "Waste": 40.0,
-    "Wind Onshore": 1427.0
+    "Wind Onshore": 1430.0
   },
   "1630209600000": {
     "Biomass": 690.0,
@@ -70,9 +70,9 @@
     "Hydro Run-of-river and poundage": 3119.0,
     "Hydro Water Reservoir": 377.0,
     "Other": 1692.0,
-    "Solar": 24.0,
+    "Solar": 29.0,
     "Waste": 40.0,
-    "Wind Onshore": 1495.0
+    "Wind Onshore": 1497.0
   },
   "1630213200000": {
     "Biomass": 692.0,
@@ -85,7 +85,7 @@
     "Hydro Run-of-river and poundage": 3051.0,
     "Hydro Water Reservoir": 355.0,
     "Other": 1476.0,
-    "Solar": 1052.0,
+    "Solar": 1004.0,
     "Waste": 39.0,
     "Wind Onshore": 1469.0
   },
@@ -100,9 +100,9 @@
     "Hydro Run-of-river and poundage": 3203.0,
     "Hydro Water Reservoir": 441.0,
     "Other": 1421.0,
-    "Solar": 3878.0,
+    "Solar": 3925.0,
     "Waste": 38.0,
-    "Wind Onshore": 1662.0
+    "Wind Onshore": 1664.0
   },
   "1630220400000": {
     "Biomass": 699.0,
@@ -115,7 +115,7 @@
     "Hydro Run-of-river and poundage": 3259.0,
     "Hydro Water Reservoir": 428.0,
     "Other": 1450.0,
-    "Solar": 6480.0,
+    "Solar": 6435.0,
     "Waste": 40.0,
     "Wind Onshore": 2005.0
   },
@@ -130,9 +130,9 @@
     "Hydro Run-of-river and poundage": 3006.0,
     "Hydro Water Reservoir": 368.0,
     "Other": 1607.0,
-    "Solar": 8561.0,
+    "Solar": 8431.0,
     "Waste": 36.0,
-    "Wind Onshore": 1960.0
+    "Wind Onshore": 1962.0
   },
   "1630227600000": {
     "Biomass": 720.0,
@@ -145,24 +145,24 @@
     "Hydro Run-of-river and poundage": 2844.0,
     "Hydro Water Reservoir": 315.0,
     "Other": 1612.0,
-    "Solar": 9899.0,
+    "Solar": 9520.0,
     "Waste": 37.0,
     "Wind Onshore": 1799.0
   },
   "1630231200000": {
     "Biomass": 721.0,
     "Fossil Coal-derived gas": 516.0,
-    "Fossil Gas": 4792.0,
-    "Fossil Hard coal": 324.0,
+    "Fossil Gas": 4794.0,
+    "Fossil Hard coal": 325.0,
     "Fossil Oil": 340.0,
     "Geothermal": 642.0,
-    "Hydro Pumped Storage": 1251.0,
-    "Hydro Run-of-river and poundage": 2739.0,
-    "Hydro Water Reservoir": 379.0,
-    "Other": 1539.0,
-    "Solar": 10584.0,
+    "Hydro Pumped Storage": 1253.0,
+    "Hydro Run-of-river and poundage": 2742.0,
+    "Hydro Water Reservoir": 372.0,
+    "Other": 1541.0,
+    "Solar": 9666.0,
     "Waste": 35.0,
-    "Wind Onshore": 1788.0
+    "Wind Onshore": 1786.0
   },
   "1630234800000": {
     "Biomass": 719.0,
@@ -175,9 +175,9 @@
     "Hydro Run-of-river and poundage": 2711.0,
     "Hydro Water Reservoir": 323.0,
     "Other": 1465.0,
-    "Solar": 10716.0,
+    "Solar": 9788.0,
     "Waste": 36.0,
-    "Wind Onshore": 2036.0
+    "Wind Onshore": 2039.0
   },
   "1630238400000": {
     "Biomass": 695.0,
@@ -190,23 +190,38 @@
     "Hydro Run-of-river and poundage": 2632.0,
     "Hydro Water Reservoir": 354.0,
     "Other": 1449.0,
-    "Solar": 10332.0,
+    "Solar": 9384.0,
     "Waste": 40.0,
-    "Wind Onshore": 2296.0
+    "Wind Onshore": 2345.0
   },
   "1630242000000": {
-    "Biomass": 699.0,
+    "Biomass": 697.0,
     "Fossil Coal-derived gas": 515.0,
-    "Fossil Gas": 5253.0,
+    "Fossil Gas": 5273.0,
     "Fossil Hard coal": 373.0,
-    "Fossil Oil": 353.0,
+    "Fossil Oil": 352.0,
     "Geothermal": 626.0,
     "Hydro Pumped Storage": 1.0,
-    "Hydro Run-of-river and poundage": 2618.0,
-    "Hydro Water Reservoir": 371.0,
-    "Other": 1531.0,
-    "Solar": 9343.0,
-    "Waste": 42.0,
-    "Wind Onshore": 2462.0
+    "Hydro Run-of-river and poundage": 2614.0,
+    "Hydro Water Reservoir": 372.0,
+    "Other": 1536.0,
+    "Solar": 8470.0,
+    "Waste": 40.0,
+    "Wind Onshore": 2701.0
+  },
+  "1630245600000": {
+    "Biomass": 687.0,
+    "Fossil Coal-derived gas": 517.0,
+    "Fossil Gas": 5601.0,
+    "Fossil Hard coal": 387.0,
+    "Fossil Oil": 359.0,
+    "Geothermal": 625.0,
+    "Hydro Pumped Storage": 1.0,
+    "Hydro Run-of-river and poundage": 2789.0,
+    "Hydro Water Reservoir": 439.0,
+    "Other": 1600.0,
+    "Solar": 6860.0,
+    "Waste": 41.0,
+    "Wind Onshore": 2862.0
   }
 }
