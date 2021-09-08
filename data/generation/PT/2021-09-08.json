@@ -42,7 +42,7 @@
     "Hydro Pumped Storage": 0.0,
     "Hydro Run-of-river and poundage": 103.0,
     "Hydro Water Reservoir": 2.0,
-    "Other": 35.0,
+    "Other": 34.0,
     "Solar": 0.0,
     "Wind Offshore": 16.0,
     "Wind Onshore": 911.0
@@ -54,7 +54,7 @@
     "Hydro Pumped Storage": 19.0,
     "Hydro Run-of-river and poundage": 270.0,
     "Hydro Water Reservoir": 43.0,
-    "Other": 34.0,
+    "Other": 29.0,
     "Solar": 0.0,
     "Wind Offshore": 17.0,
     "Wind Onshore": 899.0
@@ -66,7 +66,7 @@
     "Hydro Pumped Storage": 421.0,
     "Hydro Run-of-river and poundage": 520.0,
     "Hydro Water Reservoir": 59.0,
-    "Other": 29.0,
+    "Other": 35.0,
     "Solar": 1.0,
     "Wind Offshore": 15.0,
     "Wind Onshore": 922.0
@@ -78,7 +78,7 @@
     "Hydro Pumped Storage": 646.0,
     "Hydro Run-of-river and poundage": 539.0,
     "Hydro Water Reservoir": 144.0,
-    "Other": 35.0,
+    "Other": 34.0,
     "Solar": 33.0,
     "Wind Offshore": 13.0,
     "Wind Onshore": 874.0
@@ -114,7 +114,7 @@
     "Hydro Pumped Storage": 80.0,
     "Hydro Run-of-river and poundage": 555.0,
     "Hydro Water Reservoir": 62.0,
-    "Other": 34.0,
+    "Other": 35.0,
     "Solar": 475.0,
     "Wind Offshore": 8.0,
     "Wind Onshore": 1034.0
@@ -126,7 +126,7 @@
     "Hydro Pumped Storage": 80.0,
     "Hydro Run-of-river and poundage": 445.0,
     "Hydro Water Reservoir": 172.0,
-    "Other": 35.0,
+    "Other": 34.0,
     "Solar": 534.0,
     "Wind Offshore": 3.0,
     "Wind Onshore": 1010.0
@@ -174,7 +174,7 @@
     "Hydro Pumped Storage": 149.0,
     "Hydro Run-of-river and poundage": 340.0,
     "Hydro Water Reservoir": 3.0,
-    "Other": 34.0,
+    "Other": 35.0,
     "Solar": 519.0,
     "Wind Offshore": 4.0,
     "Wind Onshore": 1204.0
@@ -198,7 +198,7 @@
     "Hydro Pumped Storage": 12.0,
     "Hydro Run-of-river and poundage": 748.0,
     "Hydro Water Reservoir": 146.0,
-    "Other": 35.0,
+    "Other": 34.0,
     "Solar": 300.0,
     "Wind Offshore": 3.0,
     "Wind Onshore": 1214.0
@@ -210,7 +210,7 @@
     "Hydro Pumped Storage": 205.0,
     "Hydro Run-of-river and poundage": 693.0,
     "Hydro Water Reservoir": 790.0,
-    "Other": 34.0,
+    "Other": 35.0,
     "Solar": 136.0,
     "Wind Offshore": 2.0,
     "Wind Onshore": 1153.0
@@ -258,9 +258,21 @@
     "Hydro Pumped Storage": 95.0,
     "Hydro Run-of-river and poundage": 799.0,
     "Hydro Water Reservoir": 71.0,
-    "Other": 35.0,
+    "Other": 34.0,
     "Solar": 1.0,
     "Wind Offshore": 0.0,
     "Wind Onshore": 784.0
+  },
+  "1631138400000": {
+    "Biomass": 401.0,
+    "Fossil Gas": 2509.0,
+    "Fossil Hard coal": 217.0,
+    "Hydro Pumped Storage": 94.0,
+    "Hydro Run-of-river and poundage": 340.0,
+    "Hydro Water Reservoir": 378.0,
+    "Other": 34.0,
+    "Solar": 1.0,
+    "Wind Offshore": 0.0,
+    "Wind Onshore": 651.0
   }
 }
