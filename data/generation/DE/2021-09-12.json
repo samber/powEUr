@@ -899,6 +899,24 @@
     "Wind Offshore": 3155.0,
     "Wind Onshore": 6031.0
   },
+  "1631449800000": {
+    "Biomass": 4184.0,
+    "Fossil Brown coal/Lignite": 9146.0,
+    "Fossil Gas": 2707.0,
+    "Fossil Hard coal": 2823.0,
+    "Fossil Oil": 216.0,
+    "Geothermal": 21.0,
+    "Hydro Pumped Storage": 32.0,
+    "Hydro Run-of-river and poundage": 1500.0,
+    "Hydro Water Reservoir": 104.0,
+    "Nuclear": 7885.0,
+    "Other": 288.0,
+    "Other renewable": 112.0,
+    "Solar": 21333.0,
+    "Waste": 707.0,
+    "Wind Offshore": 3243.0,
+    "Wind Onshore": 5808.0
+  },
   "1631452500000": {
     "Biomass": 4175.0,
     "Fossil Brown coal/Lignite": 9908.0,
@@ -930,7 +948,7 @@
     "Nuclear": 7898.0,
     "Other": 288.0,
     "Other renewable": 112.0,
-    "Solar": 18728.0,
+    "Solar": 18726.0,
     "Waste": 715.0,
     "Wind Offshore": 3159.0,
     "Wind Onshore": 5515.0
@@ -948,7 +966,7 @@
     "Nuclear": 7884.0,
     "Other": 288.0,
     "Other renewable": 112.0,
-    "Solar": 15645.0,
+    "Solar": 15639.0,
     "Waste": 719.0,
     "Wind Offshore": 3397.0,
     "Wind Onshore": 5245.0
@@ -966,7 +984,7 @@
     "Nuclear": 7888.0,
     "Other": 288.0,
     "Other renewable": 112.0,
-    "Solar": 14379.0,
+    "Solar": 14371.0,
     "Waste": 719.0,
     "Wind Offshore": 3351.0,
     "Wind Onshore": 5260.0
@@ -984,9 +1002,27 @@
     "Nuclear": 7888.0,
     "Other": 288.0,
     "Other renewable": 112.0,
-    "Solar": 13181.0,
+    "Solar": 13184.0,
     "Waste": 719.0,
     "Wind Offshore": 3238.0,
     "Wind Onshore": 5202.0
+  },
+  "1631458800000": {
+    "Biomass": 4157.0,
+    "Fossil Brown coal/Lignite": 11950.0,
+    "Fossil Gas": 3107.0,
+    "Fossil Hard coal": 5589.0,
+    "Fossil Oil": 220.0,
+    "Geothermal": 21.0,
+    "Hydro Pumped Storage": 183.0,
+    "Hydro Run-of-river and poundage": 1471.0,
+    "Hydro Water Reservoir": 54.0,
+    "Nuclear": 7872.0,
+    "Other": 288.0,
+    "Other renewable": 112.0,
+    "Solar": 11836.0,
+    "Waste": 711.0,
+    "Wind Offshore": 3135.0,
+    "Wind Onshore": 5177.0
   }
 }
