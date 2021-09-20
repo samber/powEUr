@@ -7,7 +7,7 @@
     "Hydro Run-of-river and poundage": 27.0,
     "Hydro Water Reservoir": 3.0,
     "Other": 34.0,
-    "Solar": 0.0,
+    "Solar": 2.0,
     "Wind Offshore": 25.0,
     "Wind Onshore": 1592.0
   },
@@ -19,7 +19,7 @@
     "Hydro Run-of-river and poundage": 15.0,
     "Hydro Water Reservoir": 3.0,
     "Other": 35.0,
-    "Solar": 0.0,
+    "Solar": 2.0,
     "Wind Offshore": 25.0,
     "Wind Onshore": 1626.0
   },
@@ -31,7 +31,7 @@
     "Hydro Run-of-river and poundage": 14.0,
     "Hydro Water Reservoir": 3.0,
     "Other": 35.0,
-    "Solar": 0.0,
+    "Solar": 2.0,
     "Wind Offshore": 25.0,
     "Wind Onshore": 1767.0
   },
@@ -43,7 +43,7 @@
     "Hydro Run-of-river and poundage": 22.0,
     "Hydro Water Reservoir": 2.0,
     "Other": 34.0,
-    "Solar": 0.0,
+    "Solar": 2.0,
     "Wind Offshore": 25.0,
     "Wind Onshore": 1948.0
   },
@@ -55,7 +55,7 @@
     "Hydro Run-of-river and poundage": 154.0,
     "Hydro Water Reservoir": 3.0,
     "Other": 35.0,
-    "Solar": 0.0,
+    "Solar": 2.0,
     "Wind Offshore": 25.0,
     "Wind Onshore": 1978.0
   },
@@ -67,7 +67,7 @@
     "Hydro Run-of-river and poundage": 478.0,
     "Hydro Water Reservoir": 56.0,
     "Other": 34.0,
-    "Solar": 1.0,
+    "Solar": 3.0,
     "Wind Offshore": 25.0,
     "Wind Onshore": 2025.0
   },
@@ -79,7 +79,7 @@
     "Hydro Run-of-river and poundage": 721.0,
     "Hydro Water Reservoir": 428.0,
     "Other": 34.0,
-    "Solar": 45.0,
+    "Solar": 19.0,
     "Wind Offshore": 24.0,
     "Wind Onshore": 2127.0
   },
@@ -91,7 +91,7 @@
     "Hydro Run-of-river and poundage": 580.0,
     "Hydro Water Reservoir": 103.0,
     "Other": 33.0,
-    "Solar": 269.0,
+    "Solar": 243.0,
     "Wind Offshore": 25.0,
     "Wind Onshore": 2101.0
   },
@@ -103,7 +103,7 @@
     "Hydro Run-of-river and poundage": 433.0,
     "Hydro Water Reservoir": 38.0,
     "Other": 35.0,
-    "Solar": 481.0,
+    "Solar": 532.0,
     "Wind Offshore": 25.0,
     "Wind Onshore": 1944.0
   },
@@ -115,7 +115,7 @@
     "Hydro Run-of-river and poundage": 190.0,
     "Hydro Water Reservoir": 3.0,
     "Other": 34.0,
-    "Solar": 638.0,
+    "Solar": 738.0,
     "Wind Offshore": 25.0,
     "Wind Onshore": 1829.0
   },
@@ -127,7 +127,7 @@
     "Hydro Run-of-river and poundage": 61.0,
     "Hydro Water Reservoir": 2.0,
     "Other": 35.0,
-    "Solar": 738.0,
+    "Solar": 833.0,
     "Wind Offshore": 25.0,
     "Wind Onshore": 1557.0
   },
@@ -139,7 +139,7 @@
     "Hydro Run-of-river and poundage": 23.0,
     "Hydro Water Reservoir": 3.0,
     "Other": 35.0,
-    "Solar": 795.0,
+    "Solar": 912.0,
     "Wind Offshore": 25.0,
     "Wind Onshore": 1239.0
   },
@@ -151,7 +151,7 @@
     "Hydro Run-of-river and poundage": 24.0,
     "Hydro Water Reservoir": 3.0,
     "Other": 35.0,
-    "Solar": 803.0,
+    "Solar": 930.0,
     "Wind Offshore": 25.0,
     "Wind Onshore": 1112.0
   },
@@ -163,7 +163,7 @@
     "Hydro Run-of-river and poundage": 64.0,
     "Hydro Water Reservoir": 32.0,
     "Other": 35.0,
-    "Solar": 766.0,
+    "Solar": 912.0,
     "Wind Offshore": 25.0,
     "Wind Onshore": 1020.0
   },
@@ -175,7 +175,7 @@
     "Hydro Run-of-river and poundage": 52.0,
     "Hydro Water Reservoir": 3.0,
     "Other": 34.0,
-    "Solar": 680.0,
+    "Solar": 841.0,
     "Wind Offshore": 25.0,
     "Wind Onshore": 1123.0
   },
@@ -187,7 +187,7 @@
     "Hydro Run-of-river and poundage": 101.0,
     "Hydro Water Reservoir": 3.0,
     "Other": 33.0,
-    "Solar": 544.0,
+    "Solar": 709.0,
     "Wind Offshore": 25.0,
     "Wind Onshore": 1418.0
   },
@@ -199,8 +199,20 @@
     "Hydro Run-of-river and poundage": 79.0,
     "Hydro Water Reservoir": 44.0,
     "Other": 33.0,
-    "Solar": 357.0,
+    "Solar": 506.0,
     "Wind Offshore": 25.0,
     "Wind Onshore": 1744.0
+  },
+  "1632157200000": {
+    "Biomass": 343.0,
+    "Fossil Gas": 1387.0,
+    "Fossil Hard coal": 0.0,
+    "Hydro Pumped Storage": 396.0,
+    "Hydro Run-of-river and poundage": 596.0,
+    "Hydro Water Reservoir": 185.0,
+    "Other": 33.0,
+    "Solar": 212.0,
+    "Wind Offshore": 25.0,
+    "Wind Onshore": 1940.0
   }
 }
