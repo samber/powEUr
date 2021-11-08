@@ -826,7 +826,7 @@
   },
   "1636379100000": {
     "Biomass": 152.0,
-    "Fossil Gas": 2392.0,
+    "Fossil Gas": 2391.0,
     "Fossil Hard coal": 0.0,
     "Fossil Oil": 0.0,
     "Geothermal": 0.0,
@@ -853,5 +853,20 @@
     "Solar": 80.0,
     "Waste": 100.0,
     "Wind Onshore": 248.0
+  },
+  "1636380900000": {
+    "Biomass": 152.0,
+    "Fossil Gas": 2374.0,
+    "Fossil Hard coal": 0.0,
+    "Fossil Oil": 0.0,
+    "Geothermal": 0.0,
+    "Hydro Pumped Storage": 2006.0,
+    "Hydro Run-of-river and poundage": 1924.0,
+    "Hydro Water Reservoir": 530.0,
+    "Other": 22.0,
+    "Other renewable": 0.0,
+    "Solar": 64.0,
+    "Waste": 100.0,
+    "Wind Onshore": 4.0
   }
 }
