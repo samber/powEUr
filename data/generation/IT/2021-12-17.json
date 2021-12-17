@@ -30,7 +30,7 @@
   "1639706400000": {
     "Biomass": 722.0,
     "Fossil Coal-derived gas": 483.0,
-    "Fossil Gas": 12770.0,
+    "Fossil Gas": 12776.0,
     "Fossil Hard coal": 2406.0,
     "Fossil Oil": 283.0,
     "Geothermal": 602.0,
@@ -39,7 +39,7 @@
     "Other": 1871.0,
     "Solar": 0.0,
     "Waste": 40.0,
-    "Wind Onshore": 3853.0
+    "Wind Onshore": 3866.0
   },
   "1639710000000": {
     "Biomass": 727.0,
@@ -70,17 +70,31 @@
     "Wind Onshore": 3871.0
   },
   "1639717200000": {
-    "Biomass": 714.0,
+    "Biomass": 716.0,
     "Fossil Coal-derived gas": 483.0,
-    "Fossil Gas": 18475.0,
+    "Fossil Gas": 18670.0,
     "Fossil Hard coal": 2762.0,
     "Fossil Oil": 253.0,
     "Geothermal": 592.0,
-    "Hydro Pumped Storage": 0.0,
+    "Hydro Pumped Storage": 22.0,
     "Hydro Run-of-river and poundage": 2097.0,
     "Other": 2262.0,
     "Solar": 0.0,
     "Waste": 39.0,
     "Wind Onshore": 3916.0
+  },
+  "1639720800000": {
+    "Biomass": 707.0,
+    "Fossil Coal-derived gas": 479.0,
+    "Fossil Gas": 23363.0,
+    "Fossil Hard coal": 3015.0,
+    "Fossil Oil": 281.0,
+    "Geothermal": 592.0,
+    "Hydro Pumped Storage": 1466.0,
+    "Hydro Run-of-river and poundage": 2810.0,
+    "Other": 2538.0,
+    "Solar": 54.0,
+    "Waste": 39.0,
+    "Wind Onshore": 3859.0
   }
 }
