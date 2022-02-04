@@ -1,41 +1,5 @@
 {
   "1643932800000": {
-    "Biomass": 375.0,
-    "Fossil Gas": 2984.0,
-    "Fossil Hard coal": 0.0,
-    "Hydro Pumped Storage": 728.0,
-    "Hydro Run-of-river and poundage": 145.0,
-    "Hydro Water Reservoir": 97.0,
-    "Other": 28.0,
-    "Solar": 283.0,
-    "Wind Offshore": 0.0,
-    "Wind Onshore": 268.0
-  },
-  "1643936400000": {
-    "Biomass": 377.0,
-    "Fossil Gas": 3001.0,
-    "Fossil Hard coal": 0.0,
-    "Hydro Pumped Storage": 945.0,
-    "Hydro Run-of-river and poundage": 783.0,
-    "Hydro Water Reservoir": 64.0,
-    "Other": 28.0,
-    "Solar": 30.0,
-    "Wind Offshore": 0.0,
-    "Wind Onshore": 444.0
-  },
-  "1643940000000": {
-    "Biomass": 371.0,
-    "Fossil Gas": 2967.0,
-    "Fossil Hard coal": 0.0,
-    "Hydro Pumped Storage": 931.0,
-    "Hydro Run-of-river and poundage": 784.0,
-    "Hydro Water Reservoir": 122.0,
-    "Other": 28.0,
-    "Solar": 26.0,
-    "Wind Offshore": 0.0,
-    "Wind Onshore": 429.0
-  },
-  "1643943600000": {
     "Biomass": 370.0,
     "Fossil Gas": 2988.0,
     "Fossil Hard coal": 0.0,
@@ -47,7 +11,7 @@
     "Wind Offshore": 0.0,
     "Wind Onshore": 481.0
   },
-  "1643947200000": {
+  "1643936400000": {
     "Biomass": 375.0,
     "Fossil Gas": 2958.0,
     "Fossil Hard coal": 0.0,
@@ -59,7 +23,7 @@
     "Wind Offshore": 0.0,
     "Wind Onshore": 471.0
   },
-  "1643950800000": {
+  "1643940000000": {
     "Biomass": 368.0,
     "Fossil Gas": 2995.0,
     "Fossil Hard coal": 0.0,
@@ -71,7 +35,7 @@
     "Wind Offshore": 0.0,
     "Wind Onshore": 528.0
   },
-  "1643954400000": {
+  "1643943600000": {
     "Biomass": 381.0,
     "Fossil Gas": 2952.0,
     "Fossil Hard coal": 0.0,
@@ -83,7 +47,7 @@
     "Wind Offshore": 0.0,
     "Wind Onshore": 512.0
   },
-  "1643958000000": {
+  "1643947200000": {
     "Biomass": 370.0,
     "Fossil Gas": 2973.0,
     "Fossil Hard coal": 0.0,
@@ -95,7 +59,7 @@
     "Wind Offshore": 0.0,
     "Wind Onshore": 485.0
   },
-  "1643961600000": {
+  "1643950800000": {
     "Biomass": 381.0,
     "Fossil Gas": 2934.0,
     "Fossil Hard coal": 0.0,
@@ -106,5 +70,77 @@
     "Solar": 1.0,
     "Wind Offshore": 0.0,
     "Wind Onshore": 473.0
+  },
+  "1643954400000": {
+    "Biomass": 365.0,
+    "Fossil Gas": 2828.0,
+    "Fossil Hard coal": 0.0,
+    "Hydro Pumped Storage": 282.0,
+    "Hydro Run-of-river and poundage": 189.0,
+    "Hydro Water Reservoir": 69.0,
+    "Other": 28.0,
+    "Solar": 0.0,
+    "Wind Offshore": 0.0,
+    "Wind Onshore": 397.0
+  },
+  "1643958000000": {
+    "Biomass": 381.0,
+    "Fossil Gas": 2789.0,
+    "Fossil Hard coal": 0.0,
+    "Hydro Pumped Storage": 289.0,
+    "Hydro Run-of-river and poundage": 187.0,
+    "Hydro Water Reservoir": 72.0,
+    "Other": 28.0,
+    "Solar": 1.0,
+    "Wind Offshore": 0.0,
+    "Wind Onshore": 353.0
+  },
+  "1643961600000": {
+    "Biomass": 365.0,
+    "Fossil Gas": 2546.0,
+    "Fossil Hard coal": 0.0,
+    "Hydro Pumped Storage": 47.0,
+    "Hydro Run-of-river and poundage": 113.0,
+    "Hydro Water Reservoir": 7.0,
+    "Other": 28.0,
+    "Solar": 0.0,
+    "Wind Offshore": 0.0,
+    "Wind Onshore": 429.0
+  },
+  "1643965200000": {
+    "Biomass": 383.0,
+    "Fossil Gas": 2540.0,
+    "Fossil Hard coal": 0.0,
+    "Hydro Pumped Storage": 43.0,
+    "Hydro Run-of-river and poundage": 121.0,
+    "Hydro Water Reservoir": 10.0,
+    "Other": 28.0,
+    "Solar": 1.0,
+    "Wind Offshore": 0.0,
+    "Wind Onshore": 403.0
+  },
+  "1643968800000": {
+    "Biomass": 372.0,
+    "Fossil Gas": 2343.0,
+    "Fossil Hard coal": 0.0,
+    "Hydro Pumped Storage": 0.0,
+    "Hydro Run-of-river and poundage": 33.0,
+    "Hydro Water Reservoir": 7.0,
+    "Other": 27.0,
+    "Solar": 0.0,
+    "Wind Offshore": 1.0,
+    "Wind Onshore": 368.0
+  },
+  "1643972400000": {
+    "Biomass": 383.0,
+    "Fossil Gas": 1826.0,
+    "Fossil Hard coal": 0.0,
+    "Hydro Pumped Storage": 0.0,
+    "Hydro Run-of-river and poundage": 40.0,
+    "Hydro Water Reservoir": 7.0,
+    "Other": 28.0,
+    "Solar": 0.0,
+    "Wind Offshore": 1.0,
+    "Wind Onshore": 390.0
   }
 }
