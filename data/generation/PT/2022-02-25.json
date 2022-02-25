@@ -103,7 +103,7 @@
     "Hydro Run-of-river and poundage": 890.0,
     "Hydro Water Reservoir": 258.0,
     "Other": 34.0,
-    "Solar": 127.0,
+    "Solar": 125.0,
     "Wind Offshore": 1.0,
     "Wind Onshore": 3142.0
   },
@@ -115,7 +115,7 @@
     "Hydro Run-of-river and poundage": 419.0,
     "Hydro Water Reservoir": 172.0,
     "Other": 35.0,
-    "Solar": 260.0,
+    "Solar": 256.0,
     "Wind Offshore": 2.0,
     "Wind Onshore": 2977.0
   },
@@ -127,7 +127,7 @@
     "Hydro Run-of-river and poundage": 298.0,
     "Hydro Water Reservoir": 52.0,
     "Other": 34.0,
-    "Solar": 342.0,
+    "Solar": 338.0,
     "Wind Offshore": 1.0,
     "Wind Onshore": 2697.0
   },
@@ -139,7 +139,7 @@
     "Hydro Run-of-river and poundage": 292.0,
     "Hydro Water Reservoir": 166.0,
     "Other": 34.0,
-    "Solar": 442.0,
+    "Solar": 437.0,
     "Wind Offshore": 1.0,
     "Wind Onshore": 2410.0
   },
@@ -151,7 +151,7 @@
     "Hydro Run-of-river and poundage": 204.0,
     "Hydro Water Reservoir": 162.0,
     "Other": 35.0,
-    "Solar": 473.0,
+    "Solar": 468.0,
     "Wind Offshore": 5.0,
     "Wind Onshore": 2092.0
   },
@@ -163,20 +163,32 @@
     "Hydro Run-of-river and poundage": 75.0,
     "Hydro Water Reservoir": 0.0,
     "Other": 34.0,
-    "Solar": 436.0,
+    "Solar": 431.0,
     "Wind Offshore": 3.0,
     "Wind Onshore": 1829.0
   },
   "1645797600000": {
     "Biomass": 388.0,
-    "Fossil Gas": 1649.0,
+    "Fossil Gas": 1641.0,
     "Fossil Hard coal": 0.0,
     "Hydro Pumped Storage": 113.0,
     "Hydro Run-of-river and poundage": 79.0,
     "Hydro Water Reservoir": 0.0,
     "Other": 34.0,
-    "Solar": 401.0,
+    "Solar": 397.0,
     "Wind Offshore": 4.0,
     "Wind Onshore": 1697.0
+  },
+  "1645801200000": {
+    "Biomass": 389.0,
+    "Fossil Gas": 1725.0,
+    "Fossil Hard coal": 0.0,
+    "Hydro Pumped Storage": 85.0,
+    "Hydro Run-of-river and poundage": 78.0,
+    "Hydro Water Reservoir": 0.0,
+    "Other": 34.0,
+    "Solar": 283.0,
+    "Wind Offshore": 4.0,
+    "Wind Onshore": 1627.0
   }
 }
