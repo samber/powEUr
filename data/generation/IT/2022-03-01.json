@@ -122,17 +122,17 @@
   "1646121600000": {
     "Biomass": 595.0,
     "Fossil Coal-derived gas": 676.0,
-    "Fossil Gas": 18638.0,
+    "Fossil Gas": 18640.0,
     "Fossil Hard coal": 2998.0,
-    "Fossil Oil": 227.0,
+    "Fossil Oil": 225.0,
     "Geothermal": 643.0,
-    "Hydro Pumped Storage": 732.0,
-    "Hydro Run-of-river and poundage": 3064.0,
+    "Hydro Pumped Storage": 663.0,
+    "Hydro Run-of-river and poundage": 3065.0,
     "Hydro Water Reservoir": 596.0,
     "Other": 2702.0,
-    "Solar": 5782.0,
+    "Solar": 5781.0,
     "Waste": 32.0,
-    "Wind Onshore": 4298.0
+    "Wind Onshore": 4307.0
   },
   "1646125200000": {
     "Biomass": 490.0,
@@ -147,7 +147,7 @@
     "Other": 2655.0,
     "Solar": 7207.0,
     "Waste": 46.0,
-    "Wind Onshore": 4213.0
+    "Wind Onshore": 4214.0
   },
   "1646128800000": {
     "Biomass": 510.0,
@@ -165,18 +165,33 @@
     "Wind Onshore": 4027.0
   },
   "1646132400000": {
-    "Biomass": 533.0,
+    "Biomass": 530.0,
     "Fossil Coal-derived gas": 668.0,
-    "Fossil Gas": 17137.0,
-    "Fossil Hard coal": 3039.0,
-    "Fossil Oil": 218.0,
-    "Geothermal": 627.0,
-    "Hydro Pumped Storage": 23.0,
-    "Hydro Run-of-river and poundage": 1714.0,
-    "Hydro Water Reservoir": 357.0,
-    "Other": 2492.0,
-    "Solar": 8349.0,
+    "Fossil Gas": 16973.0,
+    "Fossil Hard coal": 3049.0,
+    "Fossil Oil": 219.0,
+    "Geothermal": 626.0,
+    "Hydro Pumped Storage": 22.0,
+    "Hydro Run-of-river and poundage": 1691.0,
+    "Hydro Water Reservoir": 353.0,
+    "Other": 2489.0,
+    "Solar": 8359.0,
     "Waste": 36.0,
-    "Wind Onshore": 4324.0
+    "Wind Onshore": 4018.0
+  },
+  "1646136000000": {
+    "Biomass": 560.0,
+    "Fossil Coal-derived gas": 668.0,
+    "Fossil Gas": 15610.0,
+    "Fossil Hard coal": 3081.0,
+    "Fossil Oil": 220.0,
+    "Geothermal": 632.0,
+    "Hydro Pumped Storage": 1.0,
+    "Hydro Run-of-river and poundage": 1419.0,
+    "Hydro Water Reservoir": 287.0,
+    "Other": 2466.0,
+    "Solar": 8062.0,
+    "Waste": 35.0,
+    "Wind Onshore": 4334.0
   }
 }
