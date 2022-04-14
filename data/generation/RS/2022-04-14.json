@@ -104,7 +104,7 @@
     "Fossil Brown coal/Lignite": 2177.0,
     "Fossil Gas": 85.0,
     "Hydro Pumped Storage": 30.0,
-    "Hydro Run-of-river and poundage": 1704.0,
+    "Hydro Run-of-river and poundage": 1705.0,
     "Hydro Water Reservoir": 77.0,
     "Other": 27.0,
     "Wind Onshore": 23.0
@@ -114,7 +114,7 @@
     "Fossil Brown coal/Lignite": 2157.0,
     "Fossil Gas": 84.0,
     "Hydro Pumped Storage": 0.0,
-    "Hydro Run-of-river and poundage": 1643.0,
+    "Hydro Run-of-river and poundage": 1644.0,
     "Hydro Water Reservoir": 72.0,
     "Other": 27.0,
     "Wind Onshore": 25.0
@@ -124,29 +124,39 @@
     "Fossil Brown coal/Lignite": 2085.0,
     "Fossil Gas": 84.0,
     "Hydro Pumped Storage": 0.0,
-    "Hydro Run-of-river and poundage": 1573.0,
+    "Hydro Run-of-river and poundage": 1608.0,
     "Hydro Water Reservoir": 54.0,
     "Other": 27.0,
     "Wind Onshore": 23.0
   },
   "1649941200000": {
     "Biomass": 30.0,
-    "Fossil Brown coal/Lignite": 2097.0,
+    "Fossil Brown coal/Lignite": 2133.0,
     "Fossil Gas": 85.0,
-    "Hydro Pumped Storage": 0.0,
-    "Hydro Run-of-river and poundage": 1512.0,
-    "Hydro Water Reservoir": 0.0,
+    "Hydro Pumped Storage": 1.0,
+    "Hydro Run-of-river and poundage": 1546.0,
+    "Hydro Water Reservoir": 48.0,
     "Other": 27.0,
     "Wind Onshore": 18.0
   },
   "1649944800000": {
     "Biomass": 30.0,
-    "Fossil Brown coal/Lignite": 1561.0,
-    "Fossil Gas": 1.0,
+    "Fossil Brown coal/Lignite": 1570.0,
+    "Fossil Gas": 79.0,
     "Hydro Pumped Storage": 206.0,
-    "Hydro Run-of-river and poundage": 1313.0,
-    "Hydro Water Reservoir": 0.0,
+    "Hydro Run-of-river and poundage": 1346.0,
+    "Hydro Water Reservoir": 48.0,
     "Other": 27.0,
     "Wind Onshore": 15.0
+  },
+  "1649948400000": {
+    "Biomass": 30.0,
+    "Fossil Brown coal/Lignite": 1306.0,
+    "Fossil Gas": 79.0,
+    "Hydro Pumped Storage": 287.0,
+    "Hydro Run-of-river and poundage": 1223.0,
+    "Hydro Water Reservoir": 48.0,
+    "Other": 27.0,
+    "Wind Onshore": 12.0
   }
 }
