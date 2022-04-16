@@ -755,6 +755,24 @@
     "Wind Offshore": 1799.0,
     "Wind Onshore": 7833.0
   },
+  "1650105000000": {
+    "Biomass": 4299.0,
+    "Fossil Brown coal/Lignite": 9873.0,
+    "Fossil Gas": 2681.0,
+    "Fossil Hard coal": 2758.0,
+    "Fossil Oil": 293.0,
+    "Geothermal": 21.0,
+    "Hydro Pumped Storage": 1.0,
+    "Hydro Run-of-river and poundage": 1274.0,
+    "Hydro Water Reservoir": 33.0,
+    "Nuclear": 3868.0,
+    "Other": 266.0,
+    "Other renewable": 110.0,
+    "Solar": 30296.0,
+    "Waste": 860.0,
+    "Wind Offshore": 1683.0,
+    "Wind Onshore": 7766.0
+  },
   "1650105900000": {
     "Biomass": 4300.0,
     "Fossil Brown coal/Lignite": 9041.0,
@@ -804,7 +822,7 @@
     "Nuclear": 3842.0,
     "Other": 263.0,
     "Other renewable": 108.0,
-    "Solar": 32261.0,
+    "Solar": 32262.0,
     "Waste": 860.0,
     "Wind Offshore": 1478.0,
     "Wind Onshore": 7179.0
@@ -822,7 +840,7 @@
     "Nuclear": 3802.0,
     "Other": 263.0,
     "Other renewable": 108.0,
-    "Solar": 32238.0,
+    "Solar": 32225.0,
     "Waste": 863.0,
     "Wind Offshore": 1460.0,
     "Wind Onshore": 6334.0
@@ -840,7 +858,7 @@
     "Nuclear": 3811.0,
     "Other": 263.0,
     "Other renewable": 108.0,
-    "Solar": 31897.0,
+    "Solar": 31873.0,
     "Waste": 856.0,
     "Wind Offshore": 1327.0,
     "Wind Onshore": 6106.0
@@ -858,9 +876,27 @@
     "Nuclear": 3777.0,
     "Other": 263.0,
     "Other renewable": 108.0,
-    "Solar": 31751.0,
+    "Solar": 31716.0,
     "Waste": 855.0,
     "Wind Offshore": 1355.0,
     "Wind Onshore": 6186.0
+  },
+  "1650114000000": {
+    "Biomass": 4322.0,
+    "Fossil Brown coal/Lignite": 6852.0,
+    "Fossil Gas": 2647.0,
+    "Fossil Hard coal": 2524.0,
+    "Fossil Oil": 293.0,
+    "Geothermal": 21.0,
+    "Hydro Pumped Storage": 5.0,
+    "Hydro Run-of-river and poundage": 1253.0,
+    "Hydro Water Reservoir": 41.0,
+    "Nuclear": 3769.0,
+    "Other": 263.0,
+    "Other renewable": 108.0,
+    "Solar": 31015.0,
+    "Waste": 861.0,
+    "Wind Offshore": 1455.0,
+    "Wind Onshore": 6283.0
   }
 }
