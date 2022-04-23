@@ -755,6 +755,24 @@
     "Wind Offshore": 4019.0,
     "Wind Onshore": 18630.0
   },
+  "1650709800000": {
+    "Biomass": 4286.0,
+    "Fossil Brown coal/Lignite": 6388.0,
+    "Fossil Gas": 2284.0,
+    "Fossil Hard coal": 1584.0,
+    "Fossil Oil": 8.0,
+    "Geothermal": 21.0,
+    "Hydro Pumped Storage": 0.0,
+    "Hydro Run-of-river and poundage": 1128.0,
+    "Hydro Water Reservoir": 65.0,
+    "Nuclear": 3772.0,
+    "Other": 278.0,
+    "Other renewable": 106.0,
+    "Solar": 25447.0,
+    "Waste": 812.0,
+    "Wind Offshore": 4004.0,
+    "Wind Onshore": 18360.0
+  },
   "1650710700000": {
     "Biomass": 4293.0,
     "Fossil Brown coal/Lignite": 6377.0,
@@ -840,7 +858,7 @@
     "Nuclear": 3749.0,
     "Other": 278.0,
     "Other renewable": 106.0,
-    "Solar": 25580.0,
+    "Solar": 25578.0,
     "Waste": 819.0,
     "Wind Offshore": 3861.0,
     "Wind Onshore": 15698.0
@@ -858,7 +876,7 @@
     "Nuclear": 3777.0,
     "Other": 278.0,
     "Other renewable": 106.0,
-    "Solar": 25415.0,
+    "Solar": 25413.0,
     "Waste": 834.0,
     "Wind Offshore": 3644.0,
     "Wind Onshore": 15468.0
@@ -894,7 +912,7 @@
     "Nuclear": 3755.0,
     "Other": 278.0,
     "Other renewable": 106.0,
-    "Solar": 24776.0,
+    "Solar": 24760.0,
     "Waste": 834.0,
     "Wind Offshore": 3611.0,
     "Wind Onshore": 15978.0
@@ -912,9 +930,27 @@
     "Nuclear": 3751.0,
     "Other": 278.0,
     "Other renewable": 106.0,
-    "Solar": 24273.0,
+    "Solar": 24259.0,
     "Waste": 831.0,
     "Wind Offshore": 3596.0,
     "Wind Onshore": 16343.0
+  },
+  "1650718800000": {
+    "Biomass": 4320.0,
+    "Fossil Brown coal/Lignite": 6374.0,
+    "Fossil Gas": 2277.0,
+    "Fossil Hard coal": 1498.0,
+    "Fossil Oil": 8.0,
+    "Geothermal": 21.0,
+    "Hydro Pumped Storage": 0.0,
+    "Hydro Run-of-river and poundage": 1110.0,
+    "Hydro Water Reservoir": 38.0,
+    "Nuclear": 3743.0,
+    "Other": 278.0,
+    "Other renewable": 106.0,
+    "Solar": 23666.0,
+    "Waste": 836.0,
+    "Wind Offshore": 3670.0,
+    "Wind Onshore": 16141.0
   }
 }
