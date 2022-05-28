@@ -827,6 +827,24 @@
     "Wind Offshore": 3344.0,
     "Wind Onshore": 17460.0
   },
+  "1653737400000": {
+    "Biomass": 4277.0,
+    "Fossil Brown coal/Lignite": 4551.0,
+    "Fossil Gas": 2273.0,
+    "Fossil Hard coal": 1512.0,
+    "Fossil Oil": 8.0,
+    "Geothermal": 21.0,
+    "Hydro Pumped Storage": 36.0,
+    "Hydro Run-of-river and poundage": 1605.0,
+    "Hydro Water Reservoir": 118.0,
+    "Nuclear": 2878.0,
+    "Other": 245.0,
+    "Other renewable": 94.0,
+    "Solar": 25410.0,
+    "Waste": 913.0,
+    "Wind Offshore": 3378.0,
+    "Wind Onshore": 17137.0
+  },
   "1653738300000": {
     "Biomass": 4278.0,
     "Fossil Brown coal/Lignite": 4553.0,
@@ -858,7 +876,7 @@
     "Nuclear": 3046.0,
     "Other": 245.0,
     "Other renewable": 94.0,
-    "Solar": 23834.0,
+    "Solar": 23836.0,
     "Waste": 916.0,
     "Wind Offshore": 3054.0,
     "Wind Onshore": 17809.0
@@ -876,7 +894,7 @@
     "Nuclear": 3134.0,
     "Other": 245.0,
     "Other renewable": 94.0,
-    "Solar": 22761.0,
+    "Solar": 22759.0,
     "Waste": 912.0,
     "Wind Offshore": 3512.0,
     "Wind Onshore": 17753.0
@@ -894,7 +912,7 @@
     "Nuclear": 3148.0,
     "Other": 244.0,
     "Other renewable": 94.0,
-    "Solar": 22133.0,
+    "Solar": 22119.0,
     "Waste": 914.0,
     "Wind Offshore": 3521.0,
     "Wind Onshore": 17804.0
@@ -912,9 +930,27 @@
     "Nuclear": 3146.0,
     "Other": 244.0,
     "Other renewable": 93.0,
-    "Solar": 20561.0,
+    "Solar": 20539.0,
     "Waste": 913.0,
     "Wind Offshore": 3485.0,
     "Wind Onshore": 19263.0
+  },
+  "1653746400000": {
+    "Biomass": 4284.0,
+    "Fossil Brown coal/Lignite": 4661.0,
+    "Fossil Gas": 2336.0,
+    "Fossil Hard coal": 1608.0,
+    "Fossil Oil": 8.0,
+    "Geothermal": 21.0,
+    "Hydro Pumped Storage": 44.0,
+    "Hydro Run-of-river and poundage": 1607.0,
+    "Hydro Water Reservoir": 185.0,
+    "Nuclear": 3206.0,
+    "Other": 244.0,
+    "Other renewable": 93.0,
+    "Solar": 20058.0,
+    "Waste": 906.0,
+    "Wind Offshore": 3981.0,
+    "Wind Onshore": 19349.0
   }
 }
