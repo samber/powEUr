@@ -8,7 +8,7 @@
     "Nuclear": 3473.0,
     "Solar": 0.0,
     "Waste": 175.0,
-    "Wind Offshore": 881.0,
+    "Wind Offshore": 418.0,
     "Wind Onshore": 664.0
   },
   "1656118800000": {
@@ -20,7 +20,7 @@
     "Nuclear": 3473.0,
     "Solar": 0.0,
     "Waste": 175.0,
-    "Wind Offshore": 1334.0,
+    "Wind Offshore": 673.0,
     "Wind Onshore": 728.0
   },
   "1656122400000": {
@@ -32,7 +32,7 @@
     "Nuclear": 3474.0,
     "Solar": 0.0,
     "Waste": 177.0,
-    "Wind Offshore": 1175.0,
+    "Wind Offshore": 546.0,
     "Wind Onshore": 699.0
   },
   "1656126000000": {
@@ -44,7 +44,7 @@
     "Nuclear": 3476.0,
     "Solar": 9.0,
     "Waste": 177.0,
-    "Wind Offshore": 983.0,
+    "Wind Offshore": 424.0,
     "Wind Onshore": 554.0
   },
   "1656129600000": {
@@ -56,7 +56,7 @@
     "Nuclear": 3477.0,
     "Solar": 141.0,
     "Waste": 176.0,
-    "Wind Offshore": 862.0,
+    "Wind Offshore": 360.0,
     "Wind Onshore": 453.0
   },
   "1656133200000": {
@@ -68,7 +68,7 @@
     "Nuclear": 3475.0,
     "Solar": 404.0,
     "Waste": 176.0,
-    "Wind Offshore": 649.0,
+    "Wind Offshore": 284.0,
     "Wind Onshore": 402.0
   },
   "1656136800000": {
@@ -80,7 +80,7 @@
     "Nuclear": 3477.0,
     "Solar": 688.0,
     "Waste": 178.0,
-    "Wind Offshore": 273.0,
+    "Wind Offshore": 109.0,
     "Wind Onshore": 342.0
   },
   "1656140400000": {
@@ -92,7 +92,7 @@
     "Nuclear": 3478.0,
     "Solar": 994.0,
     "Waste": 174.0,
-    "Wind Offshore": 326.0,
+    "Wind Offshore": 123.0,
     "Wind Onshore": 195.0
   },
   "1656144000000": {
@@ -104,7 +104,7 @@
     "Nuclear": 3480.0,
     "Solar": 1368.0,
     "Waste": 173.0,
-    "Wind Offshore": 272.0,
+    "Wind Offshore": 105.0,
     "Wind Onshore": 213.0
   },
   "1656147600000": {
@@ -116,7 +116,7 @@
     "Nuclear": 3480.0,
     "Solar": 1753.0,
     "Waste": 170.0,
-    "Wind Offshore": 207.0,
+    "Wind Offshore": 78.0,
     "Wind Onshore": 197.0
   },
   "1656151200000": {
@@ -128,7 +128,7 @@
     "Nuclear": 3479.0,
     "Solar": 2247.0,
     "Waste": 170.0,
-    "Wind Offshore": 82.0,
+    "Wind Offshore": 17.0,
     "Wind Onshore": 215.0
   },
   "1656154800000": {
@@ -140,7 +140,7 @@
     "Nuclear": 3476.0,
     "Solar": 2377.0,
     "Waste": 171.0,
-    "Wind Offshore": 14.0,
+    "Wind Offshore": 9.0,
     "Wind Onshore": 190.0
   },
   "1656158400000": {
@@ -152,7 +152,7 @@
     "Nuclear": 3475.0,
     "Solar": 2012.0,
     "Waste": 173.0,
-    "Wind Offshore": 9.0,
+    "Wind Offshore": 10.0,
     "Wind Onshore": 149.0
   },
   "1656162000000": {
@@ -176,7 +176,7 @@
     "Nuclear": 3460.0,
     "Solar": 1130.0,
     "Waste": 176.0,
-    "Wind Offshore": 3.0,
+    "Wind Offshore": 11.0,
     "Wind Onshore": 260.0
   },
   "1656169200000": {
@@ -188,7 +188,7 @@
     "Nuclear": 3456.0,
     "Solar": 853.0,
     "Waste": 176.0,
-    "Wind Offshore": 3.0,
+    "Wind Offshore": 13.0,
     "Wind Onshore": 205.0
   },
   "1656172800000": {
@@ -200,7 +200,7 @@
     "Nuclear": 3463.0,
     "Solar": 548.0,
     "Waste": 176.0,
-    "Wind Offshore": 29.0,
+    "Wind Offshore": 14.0,
     "Wind Onshore": 188.0
   },
   "1656176400000": {
@@ -212,7 +212,7 @@
     "Nuclear": 3469.0,
     "Solar": 340.0,
     "Waste": 176.0,
-    "Wind Offshore": 55.0,
+    "Wind Offshore": 36.0,
     "Wind Onshore": 42.0
   },
   "1656180000000": {
@@ -224,7 +224,7 @@
     "Nuclear": 3470.0,
     "Solar": 172.0,
     "Waste": 177.0,
-    "Wind Offshore": 35.0,
+    "Wind Offshore": 22.0,
     "Wind Onshore": 22.0
   },
   "1656183600000": {
@@ -236,7 +236,19 @@
     "Nuclear": 3471.0,
     "Solar": 29.0,
     "Waste": 178.0,
-    "Wind Offshore": 35.0,
+    "Wind Offshore": 27.0,
     "Wind Onshore": 52.0
+  },
+  "1656187200000": {
+    "Biomass": 258.0,
+    "Fossil Gas": 1685.0,
+    "Fossil Oil": 0.0,
+    "Hydro Pumped Storage": 623.0,
+    "Hydro Run-of-river and poundage": 0.0,
+    "Nuclear": 3478.0,
+    "Solar": 0.0,
+    "Waste": 178.0,
+    "Wind Offshore": 71.0,
+    "Wind Onshore": 136.0
   }
 }
