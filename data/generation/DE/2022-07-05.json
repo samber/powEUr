@@ -827,6 +827,24 @@
     "Wind Offshore": 3420.0,
     "Wind Onshore": 7381.0
   },
+  "1657020600000": {
+    "Biomass": 4153.0,
+    "Fossil Brown coal/Lignite": 11940.0,
+    "Fossil Gas": 2991.0,
+    "Fossil Hard coal": 7371.0,
+    "Fossil Oil": 143.0,
+    "Geothermal": 21.0,
+    "Hydro Pumped Storage": 1.0,
+    "Hydro Run-of-river and poundage": 1726.0,
+    "Hydro Water Reservoir": 105.0,
+    "Nuclear": 3975.0,
+    "Other": 248.0,
+    "Other renewable": 90.0,
+    "Solar": 30630.0,
+    "Waste": 567.0,
+    "Wind Offshore": 3383.0,
+    "Wind Onshore": 7874.0
+  },
   "1657021500000": {
     "Biomass": 4154.0,
     "Fossil Brown coal/Lignite": 11940.0,
@@ -912,7 +930,7 @@
     "Nuclear": 3778.0,
     "Other": 248.0,
     "Other renewable": 90.0,
-    "Solar": 29827.0,
+    "Solar": 29828.0,
     "Waste": 572.0,
     "Wind Offshore": 3413.0,
     "Wind Onshore": 8140.0
@@ -930,7 +948,7 @@
     "Nuclear": 3724.0,
     "Other": 248.0,
     "Other renewable": 90.0,
-    "Solar": 29087.0,
+    "Solar": 29088.0,
     "Waste": 571.0,
     "Wind Offshore": 3429.0,
     "Wind Onshore": 8252.0
@@ -948,7 +966,7 @@
     "Nuclear": 3691.0,
     "Other": 248.0,
     "Other renewable": 90.0,
-    "Solar": 27558.0,
+    "Solar": 27554.0,
     "Waste": 544.0,
     "Wind Offshore": 3939.0,
     "Wind Onshore": 8615.0
@@ -966,9 +984,27 @@
     "Nuclear": 3722.0,
     "Other": 248.0,
     "Other renewable": 90.0,
-    "Solar": 26600.0,
+    "Solar": 26604.0,
     "Waste": 535.0,
     "Wind Offshore": 3882.0,
     "Wind Onshore": 8613.0
+  },
+  "1657029600000": {
+    "Biomass": 4142.0,
+    "Fossil Brown coal/Lignite": 12077.0,
+    "Fossil Gas": 2923.0,
+    "Fossil Hard coal": 7574.0,
+    "Fossil Oil": 143.0,
+    "Geothermal": 21.0,
+    "Hydro Pumped Storage": 11.0,
+    "Hydro Run-of-river and poundage": 1702.0,
+    "Hydro Water Reservoir": 183.0,
+    "Nuclear": 3738.0,
+    "Other": 248.0,
+    "Other renewable": 90.0,
+    "Solar": 25686.0,
+    "Waste": 556.0,
+    "Wind Offshore": 3816.0,
+    "Wind Onshore": 8460.0
   }
 }
