@@ -611,6 +611,24 @@
     "Wind Offshore": 2422.0,
     "Wind Onshore": 9673.0
   },
+  "1657269000000": {
+    "Biomass": 4145.0,
+    "Fossil Brown coal/Lignite": 10812.0,
+    "Fossil Gas": 3123.0,
+    "Fossil Hard coal": 6866.0,
+    "Fossil Oil": 177.0,
+    "Geothermal": 21.0,
+    "Hydro Pumped Storage": 1743.0,
+    "Hydro Run-of-river and poundage": 1660.0,
+    "Hydro Water Reservoir": 325.0,
+    "Nuclear": 4024.0,
+    "Other": 255.0,
+    "Other renewable": 90.0,
+    "Solar": 18958.0,
+    "Waste": 544.0,
+    "Wind Offshore": 2407.0,
+    "Wind Onshore": 9585.0
+  },
   "1657269900000": {
     "Biomass": 4144.0,
     "Fossil Brown coal/Lignite": 10849.0,
@@ -678,7 +696,7 @@
     "Nuclear": 4013.0,
     "Other": 255.0,
     "Other renewable": 90.0,
-    "Solar": 22736.0,
+    "Solar": 22737.0,
     "Waste": 542.0,
     "Wind Offshore": 2322.0,
     "Wind Onshore": 9824.0
@@ -696,7 +714,7 @@
     "Nuclear": 4028.0,
     "Other": 255.0,
     "Other renewable": 90.0,
-    "Solar": 24140.0,
+    "Solar": 24149.0,
     "Waste": 562.0,
     "Wind Offshore": 2410.0,
     "Wind Onshore": 10315.0
@@ -714,7 +732,7 @@
     "Nuclear": 4028.0,
     "Other": 255.0,
     "Other renewable": 90.0,
-    "Solar": 24334.0,
+    "Solar": 24322.0,
     "Waste": 562.0,
     "Wind Offshore": 2382.0,
     "Wind Onshore": 10509.0
@@ -732,9 +750,27 @@
     "Nuclear": 4024.0,
     "Other": 255.0,
     "Other renewable": 90.0,
-    "Solar": 24845.0,
+    "Solar": 24831.0,
     "Waste": 564.0,
     "Wind Offshore": 2331.0,
     "Wind Onshore": 10732.0
+  },
+  "1657278000000": {
+    "Biomass": 4156.0,
+    "Fossil Brown coal/Lignite": 11414.0,
+    "Fossil Gas": 2518.0,
+    "Fossil Hard coal": 6094.0,
+    "Fossil Oil": 8.0,
+    "Geothermal": 21.0,
+    "Hydro Pumped Storage": 5.0,
+    "Hydro Run-of-river and poundage": 1672.0,
+    "Hydro Water Reservoir": 62.0,
+    "Nuclear": 4027.0,
+    "Other": 255.0,
+    "Other renewable": 90.0,
+    "Solar": 25419.0,
+    "Waste": 566.0,
+    "Wind Offshore": 2348.0,
+    "Wind Onshore": 10896.0
   }
 }
