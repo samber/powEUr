@@ -413,6 +413,24 @@
     "Wind Offshore": 1637.0,
     "Wind Onshore": 2119.0
   },
+  "1657518300000": {
+    "Biomass": 4150.0,
+    "Fossil Brown coal/Lignite": 12292.0,
+    "Fossil Gas": 8836.0,
+    "Fossil Hard coal": 7109.0,
+    "Fossil Oil": 8.0,
+    "Geothermal": 21.0,
+    "Hydro Pumped Storage": 3241.0,
+    "Hydro Run-of-river and poundage": 1207.0,
+    "Hydro Water Reservoir": 260.0,
+    "Nuclear": 4022.0,
+    "Other": 264.0,
+    "Other renewable": 90.0,
+    "Solar": 7588.0,
+    "Waste": 750.0,
+    "Wind Offshore": 1515.0,
+    "Wind Onshore": 2019.0
+  },
   "1657519200000": {
     "Biomass": 4156.0,
     "Fossil Brown coal/Lignite": 12305.0,
@@ -498,7 +516,7 @@
     "Nuclear": 4020.0,
     "Other": 265.0,
     "Other renewable": 90.0,
-    "Solar": 14194.0,
+    "Solar": 14198.0,
     "Waste": 735.0,
     "Wind Offshore": 1443.0,
     "Wind Onshore": 2312.0
@@ -516,7 +534,7 @@
     "Nuclear": 4017.0,
     "Other": 265.0,
     "Other renewable": 90.0,
-    "Solar": 15336.0,
+    "Solar": 15344.0,
     "Waste": 744.0,
     "Wind Offshore": 1333.0,
     "Wind Onshore": 2490.0
@@ -534,7 +552,7 @@
     "Nuclear": 4016.0,
     "Other": 264.0,
     "Other renewable": 90.0,
-    "Solar": 16513.0,
+    "Solar": 16517.0,
     "Waste": 743.0,
     "Wind Offshore": 1286.0,
     "Wind Onshore": 2550.0
@@ -552,9 +570,27 @@
     "Nuclear": 4017.0,
     "Other": 264.0,
     "Other renewable": 90.0,
-    "Solar": 18329.0,
+    "Solar": 18335.0,
     "Waste": 824.0,
     "Wind Offshore": 1150.0,
     "Wind Onshore": 2593.0
+  },
+  "1657527300000": {
+    "Biomass": 4177.0,
+    "Fossil Brown coal/Lignite": 12005.0,
+    "Fossil Gas": 8660.0,
+    "Fossil Hard coal": 7250.0,
+    "Fossil Oil": 8.0,
+    "Geothermal": 21.0,
+    "Hydro Pumped Storage": 1147.0,
+    "Hydro Run-of-river and poundage": 1244.0,
+    "Hydro Water Reservoir": 193.0,
+    "Nuclear": 4011.0,
+    "Other": 264.0,
+    "Other renewable": 90.0,
+    "Solar": 19111.0,
+    "Waste": 820.0,
+    "Wind Offshore": 1165.0,
+    "Wind Onshore": 2650.0
   }
 }
