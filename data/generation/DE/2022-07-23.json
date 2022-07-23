@@ -719,6 +719,24 @@
     "Wind Offshore": 1483.0,
     "Wind Onshore": 4834.0
   },
+  "1658570400000": {
+    "Biomass": 4105.0,
+    "Fossil Brown coal/Lignite": 11721.0,
+    "Fossil Gas": 2706.0,
+    "Fossil Hard coal": 5312.0,
+    "Fossil Oil": 8.0,
+    "Geothermal": 21.0,
+    "Hydro Pumped Storage": 13.0,
+    "Hydro Run-of-river and poundage": 1567.0,
+    "Hydro Water Reservoir": 70.0,
+    "Nuclear": 3969.0,
+    "Other": 245.0,
+    "Other renewable": 90.0,
+    "Solar": 24927.0,
+    "Waste": 869.0,
+    "Wind Offshore": 1425.0,
+    "Wind Onshore": 5153.0
+  },
   "1658572200000": {
     "Biomass": 4106.0,
     "Fossil Brown coal/Lignite": 11634.0,
@@ -786,7 +804,7 @@
     "Nuclear": 3946.0,
     "Other": 245.0,
     "Other renewable": 90.0,
-    "Solar": 27918.0,
+    "Solar": 27933.0,
     "Waste": 858.0,
     "Wind Offshore": 1427.0,
     "Wind Onshore": 5781.0
@@ -804,7 +822,7 @@
     "Nuclear": 3945.0,
     "Other": 245.0,
     "Other renewable": 90.0,
-    "Solar": 28206.0,
+    "Solar": 28229.0,
     "Waste": 846.0,
     "Wind Offshore": 1344.0,
     "Wind Onshore": 6029.0
@@ -822,7 +840,7 @@
     "Nuclear": 3941.0,
     "Other": 245.0,
     "Other renewable": 90.0,
-    "Solar": 28044.0,
+    "Solar": 28059.0,
     "Waste": 844.0,
     "Wind Offshore": 1367.0,
     "Wind Onshore": 5996.0
@@ -840,9 +858,27 @@
     "Nuclear": 3941.0,
     "Other": 245.0,
     "Other renewable": 90.0,
-    "Solar": 27276.0,
+    "Solar": 27316.0,
     "Waste": 858.0,
     "Wind Offshore": 1345.0,
     "Wind Onshore": 6296.0
+  },
+  "1658579400000": {
+    "Biomass": 4120.0,
+    "Fossil Brown coal/Lignite": 11778.0,
+    "Fossil Gas": 2522.0,
+    "Fossil Hard coal": 4024.0,
+    "Fossil Oil": 8.0,
+    "Geothermal": 21.0,
+    "Hydro Pumped Storage": 50.0,
+    "Hydro Run-of-river and poundage": 1538.0,
+    "Hydro Water Reservoir": 78.0,
+    "Nuclear": 3938.0,
+    "Other": 245.0,
+    "Other renewable": 90.0,
+    "Solar": 26759.0,
+    "Waste": 859.0,
+    "Wind Offshore": 1396.0,
+    "Wind Onshore": 6359.0
   }
 }
