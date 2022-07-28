@@ -7,7 +7,9 @@
     "Hydro Run-of-river and poundage": 41.0,
     "Hydro Water Reservoir": 111.0,
     "Nuclear": 2096.0,
-    "Waste": 3.0
+    "Solar": 0.0,
+    "Waste": 3.0,
+    "Wind Onshore": 7.0
   },
   "1658970000000": {
     "Biomass": 20.0,
@@ -17,7 +19,9 @@
     "Hydro Run-of-river and poundage": 43.0,
     "Hydro Water Reservoir": 42.0,
     "Nuclear": 2097.0,
-    "Waste": 3.0
+    "Solar": 0.0,
+    "Waste": 3.0,
+    "Wind Onshore": 4.0
   },
   "1658973600000": {
     "Biomass": 20.0,
@@ -27,56 +31,8 @@
     "Hydro Run-of-river and poundage": 46.0,
     "Hydro Water Reservoir": 13.0,
     "Nuclear": 2099.0,
-    "Waste": 3.0
-  },
-  "1658977200000": {
-    "Biomass": 18.0,
-    "Fossil Brown coal/Lignite": 2388.0,
-    "Fossil Gas": 251.0,
-    "Fossil Hard coal": 63.0,
-    "Hydro Run-of-river and poundage": 26.0,
-    "Hydro Water Reservoir": 33.0,
-    "Nuclear": 2099.0,
-    "Waste": 3.0
-  },
-  "1658980800000": {
-    "Biomass": 18.0,
-    "Fossil Brown coal/Lignite": 2440.0,
-    "Fossil Gas": 250.0,
-    "Fossil Hard coal": 64.0,
-    "Hydro Run-of-river and poundage": 30.0,
-    "Hydro Water Reservoir": 56.0,
-    "Nuclear": 2100.0,
-    "Waste": 3.0
-  },
-  "1658984400000": {
-    "Biomass": 17.0,
-    "Fossil Brown coal/Lignite": 2443.0,
-    "Fossil Gas": 249.0,
-    "Fossil Hard coal": 63.0,
-    "Hydro Run-of-river and poundage": 55.0,
-    "Hydro Water Reservoir": 217.0,
-    "Nuclear": 2099.0,
-    "Waste": 3.0
-  },
-  "1658988000000": {
-    "Biomass": 17.0,
-    "Fossil Brown coal/Lignite": 2417.0,
-    "Fossil Gas": 248.0,
-    "Fossil Hard coal": 63.0,
-    "Hydro Run-of-river and poundage": 76.0,
-    "Hydro Water Reservoir": 242.0,
-    "Nuclear": 2099.0,
-    "Waste": 4.0
-  },
-  "1658991600000": {
-    "Biomass": 17.0,
-    "Fossil Brown coal/Lignite": 2240.0,
-    "Fossil Gas": 250.0,
-    "Fossil Hard coal": 63.0,
-    "Hydro Run-of-river and poundage": 79.0,
-    "Hydro Water Reservoir": 209.0,
-    "Nuclear": 2099.0,
-    "Waste": 3.0
+    "Solar": 0.0,
+    "Waste": 3.0,
+    "Wind Onshore": 1.0
   }
 }
