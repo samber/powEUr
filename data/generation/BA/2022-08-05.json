@@ -81,7 +81,7 @@
     "Hydro Pumped Storage": 0.0,
     "Hydro Run-of-river and poundage": 45.0,
     "Hydro Water Reservoir": 447.0,
-    "Wind Onshore": 1.0
+    "Wind Onshore": 0.0
   },
   "1659700800000": {
     "Fossil Brown coal/Lignite": 970.0,
@@ -124,5 +124,12 @@
     "Hydro Run-of-river and poundage": 11.0,
     "Hydro Water Reservoir": 471.0,
     "Wind Onshore": 36.0
+  },
+  "1659722400000": {
+    "Fossil Brown coal/Lignite": 1192.0,
+    "Hydro Pumped Storage": 0.0,
+    "Hydro Run-of-river and poundage": 16.0,
+    "Hydro Water Reservoir": 488.0,
+    "Wind Onshore": 37.0
   }
 }
