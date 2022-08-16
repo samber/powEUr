@@ -65,7 +65,7 @@
     "Fossil Gas": 1.0,
     "Hydro Pumped Storage": 250.0,
     "Hydro Run-of-river and poundage": 594.0,
-    "Hydro Water Reservoir": 194.0,
+    "Hydro Water Reservoir": 191.0,
     "Other": 27.0,
     "Wind Onshore": 16.0
   },
@@ -164,7 +164,7 @@
     "Fossil Brown coal/Lignite": 2473.0,
     "Fossil Gas": 1.0,
     "Hydro Pumped Storage": 409.0,
-    "Hydro Run-of-river and poundage": 436.0,
+    "Hydro Run-of-river and poundage": 493.0,
     "Hydro Water Reservoir": 207.0,
     "Other": 27.0,
     "Wind Onshore": 94.0
@@ -174,7 +174,7 @@
     "Fossil Brown coal/Lignite": 2564.0,
     "Fossil Gas": 1.0,
     "Hydro Pumped Storage": 407.0,
-    "Hydro Run-of-river and poundage": 371.0,
+    "Hydro Run-of-river and poundage": 404.0,
     "Hydro Water Reservoir": 207.0,
     "Other": 27.0,
     "Wind Onshore": 106.0
@@ -184,29 +184,39 @@
     "Fossil Brown coal/Lignite": 2572.0,
     "Fossil Gas": 1.0,
     "Hydro Pumped Storage": 465.0,
-    "Hydro Run-of-river and poundage": 445.0,
+    "Hydro Run-of-river and poundage": 484.0,
     "Hydro Water Reservoir": 205.0,
     "Other": 27.0,
     "Wind Onshore": 183.0
   },
   "1660676400000": {
     "Biomass": 30.0,
-    "Fossil Brown coal/Lignite": 1948.0,
+    "Fossil Brown coal/Lignite": 2554.0,
     "Fossil Gas": 1.0,
     "Hydro Pumped Storage": 405.0,
-    "Hydro Run-of-river and poundage": 349.0,
+    "Hydro Run-of-river and poundage": 387.0,
     "Hydro Water Reservoir": 207.0,
     "Other": 27.0,
     "Wind Onshore": 223.0
   },
   "1660680000000": {
     "Biomass": 30.0,
-    "Fossil Brown coal/Lignite": 1373.0,
+    "Fossil Brown coal/Lignite": 2655.0,
     "Fossil Gas": 1.0,
-    "Hydro Pumped Storage": 145.0,
-    "Hydro Run-of-river and poundage": 328.0,
+    "Hydro Pumped Storage": 146.0,
+    "Hydro Run-of-river and poundage": 366.0,
     "Hydro Water Reservoir": 207.0,
     "Other": 27.0,
-    "Wind Onshore": 231.0
+    "Wind Onshore": 230.0
+  },
+  "1660683600000": {
+    "Biomass": 30.0,
+    "Fossil Brown coal/Lignite": 2570.0,
+    "Fossil Gas": 1.0,
+    "Hydro Pumped Storage": 0.0,
+    "Hydro Run-of-river and poundage": 366.0,
+    "Hydro Water Reservoir": 201.0,
+    "Other": 27.0,
+    "Wind Onshore": 218.0
   }
 }
