@@ -971,6 +971,24 @@
     "Wind Offshore": 817.0,
     "Wind Onshore": 2884.0
   },
+  "1660829400000": {
+    "Biomass": 4528.0,
+    "Fossil Brown coal/Lignite": 11647.0,
+    "Fossil Gas": 10743.0,
+    "Fossil Hard coal": 7518.0,
+    "Fossil Oil": 8.0,
+    "Geothermal": 21.0,
+    "Hydro Pumped Storage": 147.0,
+    "Hydro Run-of-river and poundage": 1406.0,
+    "Hydro Water Reservoir": 92.0,
+    "Nuclear": 3944.0,
+    "Other": 239.0,
+    "Other renewable": 88.0,
+    "Solar": 17368.0,
+    "Waste": 467.0,
+    "Wind Offshore": 883.0,
+    "Wind Onshore": 2963.0
+  },
   "1660830300000": {
     "Biomass": 4521.0,
     "Fossil Brown coal/Lignite": 11639.0,
@@ -1038,7 +1056,7 @@
     "Nuclear": 3936.0,
     "Other": 239.0,
     "Other renewable": 88.0,
-    "Solar": 12429.0,
+    "Solar": 12426.0,
     "Waste": 809.0,
     "Wind Offshore": 768.0,
     "Wind Onshore": 4237.0
@@ -1056,7 +1074,7 @@
     "Nuclear": 3932.0,
     "Other": 239.0,
     "Other renewable": 88.0,
-    "Solar": 11246.0,
+    "Solar": 11243.0,
     "Waste": 468.0,
     "Wind Offshore": 740.0,
     "Wind Onshore": 4021.0
@@ -1074,7 +1092,7 @@
     "Nuclear": 3934.0,
     "Other": 239.0,
     "Other renewable": 88.0,
-    "Solar": 9969.0,
+    "Solar": 9965.0,
     "Waste": 468.0,
     "Wind Offshore": 674.0,
     "Wind Onshore": 4027.0
@@ -1092,9 +1110,27 @@
     "Nuclear": 3939.0,
     "Other": 239.0,
     "Other renewable": 88.0,
-    "Solar": 7727.0,
+    "Solar": 7735.0,
     "Waste": 468.0,
     "Wind Offshore": 596.0,
     "Wind Onshore": 4456.0
+  },
+  "1660838400000": {
+    "Biomass": 4520.0,
+    "Fossil Brown coal/Lignite": 11760.0,
+    "Fossil Gas": 11161.0,
+    "Fossil Hard coal": 8193.0,
+    "Fossil Oil": 8.0,
+    "Geothermal": 21.0,
+    "Hydro Pumped Storage": 852.0,
+    "Hydro Run-of-river and poundage": 1407.0,
+    "Hydro Water Reservoir": 37.0,
+    "Nuclear": 3934.0,
+    "Other": 239.0,
+    "Other renewable": 88.0,
+    "Solar": 6532.0,
+    "Waste": 468.0,
+    "Wind Offshore": 494.0,
+    "Wind Onshore": 4844.0
   }
 }
