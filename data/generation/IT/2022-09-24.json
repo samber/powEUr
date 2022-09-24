@@ -48,20 +48,20 @@
     "Wind Onshore": 550.0
   },
   "1663988400000": {
-    "Biomass": 605.0,
+    "Biomass": 595.0,
     "Fossil Coal-derived gas": 807.0,
-    "Fossil Gas": 7348.0,
+    "Fossil Gas": 7320.0,
     "Fossil Hard coal": 3699.0,
     "Fossil Oil": 480.0,
-    "Geothermal": 629.0,
-    "Hydro Pumped Storage": 0.0,
-    "Hydro Run-of-river and poundage": 1170.0,
+    "Geothermal": 618.0,
+    "Hydro Pumped Storage": 2.0,
+    "Hydro Run-of-river and poundage": 1143.0,
     "Hydro Water Reservoir": 25.0,
-    "Other": 1410.0,
+    "Other": 1407.0,
     "Solar": 0.0,
     "Waste": 54.0,
     "Wind Offshore": 0.0,
-    "Wind Onshore": 815.0
+    "Wind Onshore": 766.0
   },
   "1663992000000": {
     "Biomass": 613.0,
@@ -96,19 +96,35 @@
     "Wind Onshore": 1026.0
   },
   "1663999200000": {
-    "Biomass": 600.0,
-    "Fossil Coal-derived gas": 806.0,
-    "Fossil Gas": 8229.0,
-    "Fossil Hard coal": 3373.0,
-    "Fossil Oil": 467.0,
-    "Geothermal": 625.0,
-    "Hydro Pumped Storage": 840.0,
-    "Hydro Run-of-river and poundage": 2492.0,
-    "Hydro Water Reservoir": 596.0,
+    "Biomass": 614.0,
+    "Fossil Coal-derived gas": 807.0,
+    "Fossil Gas": 8247.0,
+    "Fossil Hard coal": 3458.0,
+    "Fossil Oil": 481.0,
+    "Geothermal": 614.0,
+    "Hydro Pumped Storage": 827.0,
+    "Hydro Run-of-river and poundage": 2487.0,
+    "Hydro Water Reservoir": 562.0,
     "Other": 1606.0,
     "Solar": 2358.0,
-    "Waste": 49.0,
-    "Wind Offshore": 7.0,
-    "Wind Onshore": 1099.0
+    "Waste": 50.0,
+    "Wind Offshore": 0.0,
+    "Wind Onshore": 1108.0
+  },
+  "1664002800000": {
+    "Biomass": 590.0,
+    "Fossil Coal-derived gas": 805.0,
+    "Fossil Gas": 8439.0,
+    "Fossil Hard coal": 3368.0,
+    "Fossil Oil": 468.0,
+    "Geothermal": 608.0,
+    "Hydro Pumped Storage": 293.0,
+    "Hydro Run-of-river and poundage": 2080.0,
+    "Hydro Water Reservoir": 236.0,
+    "Other": 1623.0,
+    "Solar": 4525.0,
+    "Waste": 47.0,
+    "Wind Offshore": 0.0,
+    "Wind Onshore": 992.0
   }
 }
