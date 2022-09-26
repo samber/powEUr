@@ -4,18 +4,18 @@
     "Hydro Pumped Storage": 0.0,
     "Hydro Run-of-river and poundage": 17.0,
     "Hydro Water Reservoir": 150.0,
-    "Wind Onshore": 12.0
+    "Wind Onshore": 9.0
   },
   "1664154000000": {
     "Fossil Brown coal/Lignite": 394.0,
     "Hydro Pumped Storage": 0.0,
     "Hydro Run-of-river and poundage": 18.0,
     "Hydro Water Reservoir": 150.0,
-    "Wind Onshore": 9.0
+    "Wind Onshore": 4.0
   },
   "1664157600000": {
     "Fossil Brown coal/Lignite": 389.0,
-    "Hydro Pumped Storage": 0.0,
+    "Hydro Pumped Storage": 12.0,
     "Hydro Run-of-river and poundage": 21.0,
     "Hydro Water Reservoir": 157.0,
     "Wind Onshore": 8.0
@@ -77,14 +77,14 @@
     "Wind Onshore": 49.0
   },
   "1664190000000": {
-    "Fossil Brown coal/Lignite": 31.0,
+    "Fossil Brown coal/Lignite": 78.0,
     "Hydro Pumped Storage": 0.0,
     "Hydro Run-of-river and poundage": 56.0,
     "Hydro Water Reservoir": 575.0,
     "Wind Onshore": 51.0
   },
   "1664193600000": {
-    "Fossil Brown coal/Lignite": 114.0,
+    "Fossil Brown coal/Lignite": 254.0,
     "Hydro Pumped Storage": 3.0,
     "Hydro Run-of-river and poundage": 53.0,
     "Hydro Water Reservoir": 599.0,
@@ -122,14 +122,14 @@
     "Fossil Brown coal/Lignite": 399.0,
     "Hydro Pumped Storage": 143.0,
     "Hydro Run-of-river and poundage": 35.0,
-    "Hydro Water Reservoir": 515.0,
+    "Hydro Water Reservoir": 519.0,
     "Wind Onshore": 5.0
   },
   "1664215200000": {
     "Fossil Brown coal/Lignite": 430.0,
     "Hydro Pumped Storage": 142.0,
     "Hydro Run-of-river and poundage": 37.0,
-    "Hydro Water Reservoir": 513.0,
+    "Hydro Water Reservoir": 524.0,
     "Wind Onshore": 2.0
   },
   "1664218800000": {
@@ -138,5 +138,12 @@
     "Hydro Run-of-river and poundage": 30.0,
     "Hydro Water Reservoir": 463.0,
     "Wind Onshore": 0.0
+  },
+  "1664222400000": {
+    "Fossil Brown coal/Lignite": 347.0,
+    "Hydro Pumped Storage": 0.0,
+    "Hydro Run-of-river and poundage": 16.0,
+    "Hydro Water Reservoir": 482.0,
+    "Wind Onshore": 7.0
   }
 }
