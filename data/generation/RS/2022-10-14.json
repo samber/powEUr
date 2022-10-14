@@ -61,7 +61,7 @@
   },
   "1665727200000": {
     "Biomass": 30.0,
-    "Fossil Brown coal/Lignite": 1889.0,
+    "Fossil Brown coal/Lignite": 2500.0,
     "Fossil Gas": 1.0,
     "Hydro Pumped Storage": 0.0,
     "Hydro Run-of-river and poundage": 1035.0,
@@ -71,7 +71,7 @@
   },
   "1665730800000": {
     "Biomass": 30.0,
-    "Fossil Brown coal/Lignite": 1777.0,
+    "Fossil Brown coal/Lignite": 2412.0,
     "Fossil Gas": 1.0,
     "Hydro Pumped Storage": 0.0,
     "Hydro Run-of-river and poundage": 1184.0,
@@ -81,7 +81,7 @@
   },
   "1665734400000": {
     "Biomass": 30.0,
-    "Fossil Brown coal/Lignite": 1042.0,
+    "Fossil Brown coal/Lignite": 2467.0,
     "Fossil Gas": 1.0,
     "Hydro Pumped Storage": 0.0,
     "Hydro Run-of-river and poundage": 1105.0,
@@ -91,12 +91,22 @@
   },
   "1665738000000": {
     "Biomass": 30.0,
-    "Fossil Brown coal/Lignite": 1182.0,
+    "Fossil Brown coal/Lignite": 2609.0,
     "Fossil Gas": 1.0,
     "Hydro Pumped Storage": 0.0,
     "Hydro Run-of-river and poundage": 1000.0,
     "Hydro Water Reservoir": 0.0,
     "Other": 27.0,
     "Wind Onshore": 63.0
+  },
+  "1665741600000": {
+    "Biomass": 30.0,
+    "Fossil Brown coal/Lignite": 1160.0,
+    "Fossil Gas": 1.0,
+    "Hydro Pumped Storage": 0.0,
+    "Hydro Run-of-river and poundage": 611.0,
+    "Hydro Water Reservoir": 0.0,
+    "Other": 27.0,
+    "Wind Onshore": 75.0
   }
 }
