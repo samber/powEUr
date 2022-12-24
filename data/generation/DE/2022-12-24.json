@@ -827,6 +827,24 @@
     "Wind Offshore": 2050.0,
     "Wind Onshore": 15381.0
   },
+  "1671881400000": {
+    "Biomass": 4985.0,
+    "Fossil Brown coal/Lignite": 13399.0,
+    "Fossil Gas": 3425.0,
+    "Fossil Hard coal": 3153.0,
+    "Fossil Oil": 8.0,
+    "Geothermal": 21.0,
+    "Hydro Pumped Storage": 2006.0,
+    "Hydro Run-of-river and poundage": 1674.0,
+    "Hydro Water Reservoir": 34.0,
+    "Nuclear": 3567.0,
+    "Other": 312.0,
+    "Other renewable": 149.0,
+    "Solar": 7115.0,
+    "Waste": 812.0,
+    "Wind Offshore": 2045.0,
+    "Wind Onshore": 14895.0
+  },
   "1671882300000": {
     "Biomass": 4997.0,
     "Fossil Brown coal/Lignite": 13393.0,
@@ -894,7 +912,7 @@
     "Nuclear": 3570.0,
     "Other": 313.0,
     "Other renewable": 149.0,
-    "Solar": 5613.0,
+    "Solar": 5612.0,
     "Waste": 811.0,
     "Wind Offshore": 2492.0,
     "Wind Onshore": 13767.0
@@ -912,7 +930,7 @@
     "Nuclear": 3572.0,
     "Other": 313.0,
     "Other renewable": 149.0,
-    "Solar": 5169.0,
+    "Solar": 5168.0,
     "Waste": 809.0,
     "Wind Offshore": 2404.0,
     "Wind Onshore": 13394.0
@@ -948,7 +966,7 @@
     "Nuclear": 3571.0,
     "Other": 323.0,
     "Other renewable": 154.0,
-    "Solar": 3147.0,
+    "Solar": 3152.0,
     "Waste": 810.0,
     "Wind Offshore": 2442.0,
     "Wind Onshore": 12600.0
@@ -966,9 +984,27 @@
     "Nuclear": 3572.0,
     "Other": 324.0,
     "Other renewable": 154.0,
-    "Solar": 2528.0,
+    "Solar": 2531.0,
     "Waste": 809.0,
     "Wind Offshore": 2479.0,
     "Wind Onshore": 12530.0
+  },
+  "1671890400000": {
+    "Biomass": 4993.0,
+    "Fossil Brown coal/Lignite": 13333.0,
+    "Fossil Gas": 3712.0,
+    "Fossil Hard coal": 3954.0,
+    "Fossil Oil": 8.0,
+    "Geothermal": 21.0,
+    "Hydro Pumped Storage": 4587.0,
+    "Hydro Run-of-river and poundage": 1639.0,
+    "Hydro Water Reservoir": 64.0,
+    "Nuclear": 3568.0,
+    "Other": 323.0,
+    "Other renewable": 154.0,
+    "Solar": 1876.0,
+    "Waste": 811.0,
+    "Wind Offshore": 2561.0,
+    "Wind Onshore": 12147.0
   }
 }
